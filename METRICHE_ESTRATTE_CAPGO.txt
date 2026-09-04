@@ -1,0 +1,69 @@
+=====================================================================
+ DATASET METRICHE REALI E COMPONENTE BOT: CAPGO 
+ INCLUSIONE NODI ISOLATI (UMANI + AGENTI) PER COMMUNITY SMELLS
+=====================================================================
+
+RELEASE INTERVALLO: v12.13.0-v12.40.0 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 0 
+Nodi_Isolati (Senza Interazione): 0 
+Archi_Collaborazione_Effettivi: 0 
+Densita_Reale_Rete: 0 
+Centralizzazione_Reale: 0 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nessun contributore umano rilevato (la release potrebbe contenere solo bot).
+
+[BOT RILEVATI NELLA TOP 20]
+Nessun file top20.numcommits.txt presente (Release vuota o singolo sviluppatore).
+---------------------------------------------------------------------
+
+RELEASE INTERVALLO: v12.40.0-v12.80.0 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 8 
+Nodi_Isolati (Senza Interazione): 6 
+Archi_Collaborazione_Effettivi: 1 
+Densita_Reale_Rete: 0.0357 
+Centralizzazione_Reale: 0.1071 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nome_Sviluppatore         ID_Codeface  Commit     Percentuale_%    Isolato_Rete   
+Martin Donadieu           1            1011       56.9256756756757 NO             
+[ARCHI COLLABORATIVI CON TOP HUMAN DETECTED]
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 3
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 3 e ID: 1
+
+[BOT RILEVATI NELLA TOP 20]
+Nome_Bot                  ID_Codeface Commit     Percentuale_%
+github-actionsbot         2          432        24.3243243243243
+GitHub                    5          44         2.47747747747748
+renovatebot               6          18         1.01351351351351
+autofix-cibot             4          6          0.337837837837838
+---------------------------------------------------------------------
+
+RELEASE INTERVALLO: v12.80.0-v12.123.0 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 17 
+Nodi_Isolati (Senza Interazione): 14 
+Archi_Collaborazione_Effettivi: 2 
+Densita_Reale_Rete: 0.0147 
+Centralizzazione_Reale: 0.1103 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nome_Sviluppatore         ID_Codeface  Commit     Percentuale_%    Isolato_Rete   
+Martin Donadieu           1            1041       36.2465181058496 NO             
+[ARCHI COLLABORATIVI CON TOP HUMAN DETECTED]
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 3
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 3 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 6 e ID: 1
+
+[BOT RILEVATI NELLA TOP 20]
+Nome_Bot                  ID_Codeface Commit     Percentuale_%
+github-actionsbot         2          834        29.0389972144847
+GitHub                    4          479        16.6782729805014
+renovatebot               5          41         1.42757660167131
+Copilot                   14         3          0.104456824512535
+coderabbitaibot           13         1          0.0348189415041783
+codspeed-hqbot            16         1          0.0348189415041783
+---------------------------------------------------------------------
+
