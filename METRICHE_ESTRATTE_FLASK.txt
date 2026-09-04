@@ -1,0 +1,228 @@
+=====================================================================
+ DATASET METRICHE REALI E COMPONENTE BOT: FLASK 
+ INCLUSIONE NODI ISOLATI (UMANI + AGENTI) PER COMMUNITY SMELLS
+=====================================================================
+
+RELEASE INTERVALLO: 1.0-1.1.0 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 20 
+Nodi_Isolati (Senza Interazione): 10 
+Archi_Collaborazione_Effettivi: 17 
+Densita_Reale_Rete: 0.0895 
+Centralizzazione_Reale: 0.3842 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nome_Sviluppatore         ID_Codeface  Commit     Percentuale_%    Isolato_Rete   
+David Lord                1            243        47.2762645914397 NO             
+[ARCHI COLLABORATIVI CON TOP HUMAN DETECTED]
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 2
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 5
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 16
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 18
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 19
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 25
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 26
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 27
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 31
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 35
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 44
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 45
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 56
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 59
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 70
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 75
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 77
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 78
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 82
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 85
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 92
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 103
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 105
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 2 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 31 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 35 e ID: 1
+
+[BOT RILEVATI NELLA TOP 20]
+Nome_Bot                  ID_Codeface Commit     Percentuale_%
+GitHub                    10         19         3.69649805447471
+---------------------------------------------------------------------
+
+RELEASE INTERVALLO: 1.1.0-2.0.0 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 20 
+Nodi_Isolati (Senza Interazione): 11 
+Archi_Collaborazione_Effettivi: 14 
+Densita_Reale_Rete: 0.0737 
+Centralizzazione_Reale: 0.3474 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nome_Sviluppatore         ID_Codeface  Commit     Percentuale_%    Isolato_Rete   
+David Lord                1            253        40.5448717948718 NO             
+[ARCHI COLLABORATIVI CON TOP HUMAN DETECTED]
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 3
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 4
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 6
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 7
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 15
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 19
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 36
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 45
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 47
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 54
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 55
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 62
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 67
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 82
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 3 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 4 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 7 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 13 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 15 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 30 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 45 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 47 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 48 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 51 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 55 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 67 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 87 e ID: 1
+
+[BOT RILEVATI NELLA TOP 20]
+Nome_Bot                  ID_Codeface Commit     Percentuale_%
+GitHub                    2          116        18.5897435897436
+dependabot-previewbot     10         51         8.17307692307692
+pre-commit-cibot          22         12         1.92307692307692
+dependabotbot             20         2          0.32051282051282
+---------------------------------------------------------------------
+
+RELEASE INTERVALLO: 2.0.0-2.3.0 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 20 
+Nodi_Isolati (Senza Interazione): 7 
+Archi_Collaborazione_Effettivi: 29 
+Densita_Reale_Rete: 0.1381 
+Centralizzazione_Reale: 0.4119 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nome_Sviluppatore         ID_Codeface  Commit     Percentuale_%    Isolato_Rete   
+David Lord                1            542        60.762331838565  NO             
+[ARCHI COLLABORATIVI CON TOP HUMAN DETECTED]
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 3
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 4
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 7
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 8
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 14
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 15
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 19
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 20
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 24
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 26
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 29
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 42
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 44
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 45
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 50
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 53
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 55
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 59
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 60
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 61
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 65
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 67
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 69
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 70
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 74
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 77
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 79
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 81
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 82
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 83
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 87
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 92
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 95
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 101
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 102
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 106
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 4 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 7 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 8 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 12 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 14 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 20 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 24 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 42 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 44 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 50 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 53 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 59 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 60 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 61 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 67 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 72 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 74 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 77 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 79 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 98 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 106 e ID: 1
+
+[BOT RILEVATI NELLA TOP 20]
+Nome_Bot                  ID_Codeface Commit     Percentuale_%
+GitHub                    2          81         9.08071748878924
+dependabotbot             10         27         3.02690582959641
+pre-commit-cibot          11         17         1.90582959641256
+
+[ARCHI COLLABORATIVI CON BOT DETECTED]
+ -> Trovato arco collaborativo tra BOT/ID: 11 e ID: 70
+ -> Trovato arco collaborativo tra BOT/ID: 70 e ID: 11
+---------------------------------------------------------------------
+
+RELEASE INTERVALLO: 2.3.0-3.0.0 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 14 
+Nodi_Isolati (Senza Interazione): 12 
+Archi_Collaborazione_Effettivi: 1 
+Densita_Reale_Rete: 0.011 
+Centralizzazione_Reale: 0.0659 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nome_Sviluppatore         ID_Codeface  Commit     Percentuale_%    Isolato_Rete   
+David Lord                1            97         57.0588235294118 NO             
+[ARCHI COLLABORATIVI CON TOP HUMAN DETECTED]
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 3
+
+[BOT RILEVATI NELLA TOP 20]
+Nome_Bot                  ID_Codeface Commit     Percentuale_%
+GitHub                    2          19         11.1764705882353
+dependabotbot             4          15         8.82352941176471
+pre-commit-cibot          5          3          1.76470588235294
+---------------------------------------------------------------------
+
+RELEASE INTERVALLO: 3.0.0-3.1.0 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 20 
+Nodi_Isolati (Senza Interazione): 12 
+Archi_Collaborazione_Effettivi: 9 
+Densita_Reale_Rete: 0.0474 
+Centralizzazione_Reale: 0.3211 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nome_Sviluppatore         ID_Codeface  Commit     Percentuale_%    Isolato_Rete   
+David Lord                1            161        65.4471544715447 NO             
+[ARCHI COLLABORATIVI CON TOP HUMAN DETECTED]
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 4
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 7
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 11
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 17
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 4 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 7 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 10 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 15 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 16 e ID: 1
+
+[BOT RILEVATI NELLA TOP 20]
+Nome_Bot                  ID_Codeface Commit     Percentuale_%
+GitHub                    2          28         11.3821138211382
+dependabotbot             5          16         6.50406504065041
+pre-commit-cibot          6          9          3.65853658536585
+---------------------------------------------------------------------
+
