@@ -1,0 +1,143 @@
+=====================================================================
+ DATASET METRICHE REALI E COMPONENTE BOT: APP-MONOREPO 
+ INCLUSIONE NODI ISOLATI (UMANI + AGENTI) PER COMMUNITY SMELLS
+=====================================================================
+
+RELEASE INTERVALLO: v4.23.0-v5.1.0 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 19 
+Nodi_Isolati (Senza Interazione): 10 
+Archi_Collaborazione_Effettivi: 30 
+Densita_Reale_Rete: 0.1754 
+Centralizzazione_Reale: 0.269 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nome_Sviluppatore         ID_Codeface  Commit     Percentuale_%    Isolato_Rete   
+huhuanming                6            505        15.8705216844752 NO             
+[ARCHI COLLABORATIVI CON TOP HUMAN DETECTED]
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 3 e ID: 6
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 5 e ID: 6
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 6 e ID: 3
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 6 e ID: 4
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 6 e ID: 5
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 6 e ID: 7
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 6 e ID: 8
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 6 e ID: 10
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 6 e ID: 11
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 6 e ID: 13
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 7 e ID: 6
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 8 e ID: 6
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 10 e ID: 6
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 11 e ID: 6
+
+[BOT RILEVATI NELLA TOP 20]
+Nome_Bot                  ID_Codeface Commit     Percentuale_%
+GitHub                    2          1586       49.8428661219359
+dependabotbot             12         10         0.314267756128221
+---------------------------------------------------------------------
+
+RELEASE INTERVALLO: v5.1.0-v5.10.0 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 20 
+Nodi_Isolati (Senza Interazione): 12 
+Archi_Collaborazione_Effettivi: 16 
+Densita_Reale_Rete: 0.0842 
+Centralizzazione_Reale: 0.2842 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nome_Sviluppatore         ID_Codeface  Commit     Percentuale_%    Isolato_Rete   
+huhuanming                5            469        12.4271330153683 NO             
+[ARCHI COLLABORATIVI CON TOP HUMAN DETECTED]
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 2 e ID: 5
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 5 e ID: 2
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 5 e ID: 3
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 5 e ID: 7
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 5 e ID: 8
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 5 e ID: 12
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 5 e ID: 15
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 5 e ID: 21
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 7 e ID: 5
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 15 e ID: 5
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 21 e ID: 5
+
+[BOT RILEVATI NELLA TOP 20]
+Nome_Bot                  ID_Codeface Commit     Percentuale_%
+GitHub                    1          1887       50        
+dependabotbot             11         10         0.264970853206147
+devin-ai-integrationbot   22         5          0.132485426603074
+---------------------------------------------------------------------
+
+RELEASE INTERVALLO: v5.10.0-v5.20.0 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 20 
+Nodi_Isolati (Senza Interazione): 13 
+Archi_Collaborazione_Effettivi: 11 
+Densita_Reale_Rete: 0.0579 
+Centralizzazione_Reale: 0.2579 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nome_Sviluppatore         ID_Codeface  Commit     Percentuale_%    Isolato_Rete   
+limichange                11           387        9.79746835443038 NO             
+[ARCHI COLLABORATIVI CON TOP HUMAN DETECTED]
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 3 e ID: 11
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 11 e ID: 3
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 11 e ID: 4
+
+[BOT RILEVATI NELLA TOP 20]
+Nome_Bot                  ID_Codeface Commit     Percentuale_%
+GitHub                    1          1972       49.9240506329114
+coderabbitaibot           20         1          0.0253164556962025
+---------------------------------------------------------------------
+
+RELEASE INTERVALLO: v5.20.0-v6.0.0 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 20 
+Nodi_Isolati (Senza Interazione): 16 
+Archi_Collaborazione_Effettivi: 2 
+Densita_Reale_Rete: 0.0105 
+Centralizzazione_Reale: 0.0421 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nome_Sviluppatore         ID_Codeface  Commit     Percentuale_%    Isolato_Rete   
+huhuanming                3            129        17.8670360110803 NO             
+[ARCHI COLLABORATIVI CON TOP HUMAN DETECTED]
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 3 e ID: 7
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 3 e ID: 20
+
+[BOT RILEVATI NELLA TOP 20]
+Nome_Bot                  ID_Codeface Commit     Percentuale_%
+GitHub                    1          361        50        
+dependabotbot             9          2          0.277008310249307
+---------------------------------------------------------------------
+
+RELEASE INTERVALLO: v6.0.0-v6.4.0 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 20 
+Nodi_Isolati (Senza Interazione): 10 
+Archi_Collaborazione_Effettivi: 15 
+Densita_Reale_Rete: 0.0789 
+Centralizzazione_Reale: 0.3421 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nome_Sviluppatore         ID_Codeface  Commit     Percentuale_%    Isolato_Rete   
+huhuanming                3            225        8.54214123006834 NO             
+[ARCHI COLLABORATIVI CON TOP HUMAN DETECTED]
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 2 e ID: 3
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 3 e ID: 2
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 3 e ID: 5
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 3 e ID: 6
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 3 e ID: 7
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 3 e ID: 11
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 3 e ID: 24
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 4 e ID: 3
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 5 e ID: 3
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 6 e ID: 3
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 7 e ID: 3
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 10 e ID: 3
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 11 e ID: 3
+
+[BOT RILEVATI NELLA TOP 20]
+Nome_Bot                  ID_Codeface Commit     Percentuale_%
+GitHub                    1          1317       50        
+---------------------------------------------------------------------
+
