@@ -1,0 +1,62 @@
+=====================================================================
+ DATASET METRICHE REALI E COMPONENTE BOT: COGAMES 
+ INCLUSIONE NODI ISOLATI (UMANI + AGENTI) PER COMMUNITY SMELLS
+=====================================================================
+
+RELEASE INTERVALLO: cogames-agents-v0.0.0.1-cogames-agents-v0.0.0.4 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 0 
+Nodi_Isolati (Senza Interazione): 0 
+Archi_Collaborazione_Effettivi: 0 
+Densita_Reale_Rete: 0 
+Centralizzazione_Reale: 0 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nessun contributore umano rilevato (la release potrebbe contenere solo bot).
+
+[BOT RILEVATI NELLA TOP 20]
+Nessun file top20.numcommits.txt presente (Release vuota o singolo sviluppatore).
+---------------------------------------------------------------------
+
+RELEASE INTERVALLO: cogames-agents-v0.0.0.4-cogames-agents-v0.0.0.7 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 3 
+Nodi_Isolati (Senza Interazione): 1 
+Archi_Collaborazione_Effettivi: 1 
+Densita_Reale_Rete: 0.3333 
+Centralizzazione_Reale: 0.1667 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nome_Sviluppatore         ID_Codeface  Commit     Percentuale_%    Isolato_Rete   
+Nishad                    1            7          58.3333333333333 NO             
+[ARCHI COLLABORATIVI CON TOP HUMAN DETECTED]
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 3
+
+[BOT RILEVATI NELLA TOP 20]
+Nome_Bot                  ID_Codeface Commit     Percentuale_%
+GitHub                    2          1          8.33333333333333
+---------------------------------------------------------------------
+
+RELEASE INTERVALLO: cogames-agents-v0.0.0.7-cogames-agents-v0.0.0.10 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 8 
+Nodi_Isolati (Senza Interazione): 2 
+Archi_Collaborazione_Effettivi: 10 
+Densita_Reale_Rete: 0.3571 
+Centralizzazione_Reale: 0.2143 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nome_Sviluppatore         ID_Codeface  Commit     Percentuale_%    Isolato_Rete   
+Nishad                    1            17         25.7575757575758 NO             
+[ARCHI COLLABORATIVI CON TOP HUMAN DETECTED]
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 4
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 5
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 7
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 8
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 4 e ID: 1
+
+[BOT RILEVATI NELLA TOP 20]
+Nome_Bot                  ID_Codeface Commit     Percentuale_%
+GitHub                    2          7          10.6060606060606
+---------------------------------------------------------------------
+
