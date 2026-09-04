@@ -1,0 +1,83 @@
+=====================================================================
+ DATASET METRICHE REALI E COMPONENTE BOT: METTAGRID 
+ INCLUSIONE NODI ISOLATI (UMANI + AGENTI) PER COMMUNITY SMELLS
+=====================================================================
+
+RELEASE INTERVALLO: mettagrid-v0.12.5-mettagrid-v0.16.7 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 7 
+Nodi_Isolati (Senza Interazione): 5 
+Archi_Collaborazione_Effettivi: 1 
+Densita_Reale_Rete: 0.0476 
+Centralizzazione_Reale: 0.119 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nome_Sviluppatore         ID_Codeface  Commit     Percentuale_%    Isolato_Rete   
+treeform                  6            20         45.4545454545455 SI             
+[ARCHI COLLABORATIVI CON TOP HUMAN DETECTED]
+ Nessun arco di collaborazione trovato per questo sviluppatore.
+
+[BOT RILEVATI NELLA TOP 20]
+Nome_Bot                  ID_Codeface Commit     Percentuale_%
+GitHub                    1          1          2.27272727272727
+---------------------------------------------------------------------
+
+RELEASE INTERVALLO: mettagrid-v0.16.7-mettagrid-v0.26.25 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 20 
+Nodi_Isolati (Senza Interazione): 7 
+Archi_Collaborazione_Effettivi: 28 
+Densita_Reale_Rete: 0.1474 
+Centralizzazione_Reale: 0.3263 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nome_Sviluppatore         ID_Codeface  Commit     Percentuale_%    Isolato_Rete   
+relh                      4            226        39.9293286219081 NO             
+[ARCHI COLLABORATIVI CON TOP HUMAN DETECTED]
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 4
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 3 e ID: 4
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 4 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 4 e ID: 3
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 4 e ID: 6
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 4 e ID: 7
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 4 e ID: 8
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 4 e ID: 9
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 4 e ID: 10
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 6 e ID: 4
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 7 e ID: 4
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 8 e ID: 4
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 9 e ID: 4
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 14 e ID: 4
+
+[BOT RILEVATI NELLA TOP 20]
+Nome_Bot                  ID_Codeface Commit     Percentuale_%
+GitHub                    2          8          1.41342756183746
+---------------------------------------------------------------------
+
+RELEASE INTERVALLO: mettagrid-v0.2.0.99-mettagrid-v0.12.5 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 14 
+Nodi_Isolati (Senza Interazione): 5 
+Archi_Collaborazione_Effettivi: 20 
+Densita_Reale_Rete: 0.2198 
+Centralizzazione_Reale: 0.3187 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nome_Sviluppatore         ID_Codeface  Commit     Percentuale_%    Isolato_Rete   
+daveey                    7            56         25.9259259259259 NO             
+[ARCHI COLLABORATIVI CON TOP HUMAN DETECTED]
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 7
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 4 e ID: 7
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 5 e ID: 7
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 7 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 7 e ID: 4
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 7 e ID: 5
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 7 e ID: 9
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 7 e ID: 10
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 9 e ID: 7
+
+[BOT RILEVATI NELLA TOP 20]
+Nome_Bot                  ID_Codeface Commit     Percentuale_%
+GitHub                    2          22         10.1851851851852
+---------------------------------------------------------------------
+
