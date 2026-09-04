@@ -1,0 +1,129 @@
+=====================================================================
+ DATASET METRICHE REALI E COMPONENTE BOT: MLFLOW 
+ INCLUSIONE NODI ISOLATI (UMANI + AGENTI) PER COMMUNITY SMELLS
+=====================================================================
+
+RELEASE INTERVALLO: v2.10.0-v2.11.0 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 20 
+Nodi_Isolati (Senza Interazione): 2 
+Archi_Collaborazione_Effettivi: 49 
+Densita_Reale_Rete: 0.2579 
+Centralizzazione_Reale: 0.4789 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nome_Sviluppatore         ID_Codeface  Commit     Percentuale_%    Isolato_Rete   
+Harutaka Kawamura         1            84         17.5             NO             
+[ARCHI COLLABORATIVI CON TOP HUMAN DETECTED]
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 3
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 4
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 5
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 7
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 9
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 10
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 14
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 15
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 18
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 19
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 21
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 24
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 25
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 29
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 34
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 3 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 4 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 7 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 9 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 10 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 11 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 14 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 17 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 18 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 19 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 22 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 24 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 36 e ID: 1
+
+[BOT RILEVATI NELLA TOP 20]
+Nome_Bot                  ID_Codeface Commit     Percentuale_%
+GitHub                    2          228        47.5      
+mlflow-automation         8          10         2.08333333333333
+
+[ARCHI COLLABORATIVI CON BOT DETECTED]
+ -> Trovato arco collaborativo tra BOT/ID: 8 e ID: 7
+---------------------------------------------------------------------
+
+RELEASE INTERVALLO: v2.11.0-v2.12.1 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 20 
+Nodi_Isolati (Senza Interazione): 5 
+Archi_Collaborazione_Effettivi: 33 
+Densita_Reale_Rete: 0.1737 
+Centralizzazione_Reale: 0.2474 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nome_Sviluppatore         ID_Codeface  Commit     Percentuale_%    Isolato_Rete   
+Harutaka Kawamura         1            54         13.0434782608696 NO             
+[ARCHI COLLABORATIVI CON TOP HUMAN DETECTED]
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 3
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 6
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 8
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 9
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 23
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 28
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 3 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 7 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 9 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 10 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 30 e ID: 1
+
+[BOT RILEVATI NELLA TOP 20]
+Nome_Bot                  ID_Codeface Commit     Percentuale_%
+GitHub                    2          203        49.0338164251208
+mlflow-automation         7          13         3.14009661835749
+
+[ARCHI COLLABORATIVI CON BOT DETECTED]
+ -> Trovato arco collaborativo tra BOT/ID: 7 e ID: 1
+ -> Trovato arco collaborativo tra BOT/ID: 7 e ID: 6
+---------------------------------------------------------------------
+
+RELEASE INTERVALLO: v2.12.1-v2.13.0 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 20 
+Nodi_Isolati (Senza Interazione): 5 
+Archi_Collaborazione_Effettivi: 56 
+Densita_Reale_Rete: 0.2947 
+Centralizzazione_Reale: 0.3895 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nome_Sviluppatore         ID_Codeface  Commit     Percentuale_%    Isolato_Rete   
+Harutaka Kawamura         1            31         9.01162790697674 NO             
+[ARCHI COLLABORATIVI CON TOP HUMAN DETECTED]
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 3
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 4
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 5
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 8
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 9
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 11
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 13
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 16
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 19
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 4 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 7 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 8 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 9 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 11 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 13 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 14 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 15 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 16 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 21 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 24 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 30 e ID: 1
+
+[BOT RILEVATI NELLA TOP 20]
+Nome_Bot                  ID_Codeface Commit     Percentuale_%
+GitHub                    2          172        50        
+mlflow-automation         6          8          2.32558139534884
+---------------------------------------------------------------------
+
