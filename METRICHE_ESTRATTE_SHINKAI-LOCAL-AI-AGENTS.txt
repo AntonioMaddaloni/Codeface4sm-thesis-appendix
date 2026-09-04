@@ -1,0 +1,126 @@
+=====================================================================
+ DATASET METRICHE REALI E COMPONENTE BOT: SHINKAI-LOCAL-AI-AGENTS 
+ INCLUSIONE NODI ISOLATI (UMANI + AGENTI) PER COMMUNITY SMELLS
+=====================================================================
+
+RELEASE INTERVALLO: 0.7.9-0.8.0 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 6 
+Nodi_Isolati (Senza Interazione): 3 
+Archi_Collaborazione_Effettivi: 3 
+Densita_Reale_Rete: 0.2 
+Centralizzazione_Reale: 0.2 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nome_Sviluppatore         ID_Codeface  Commit     Percentuale_%    Isolato_Rete   
+Alfredo Gallardo          1            58         18.7096774193548 SI             
+[ARCHI COLLABORATIVI CON TOP HUMAN DETECTED]
+ Nessun arco di collaborazione trovato per questo sviluppatore.
+
+[BOT RILEVATI NELLA TOP 20]
+Nome_Bot                  ID_Codeface Commit     Percentuale_%
+GitHub                    2          100        32.258064516129
+---------------------------------------------------------------------
+
+RELEASE INTERVALLO: 0.8.0-0.9.1 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 7 
+Nodi_Isolati (Senza Interazione): 5 
+Archi_Collaborazione_Effettivi: 1 
+Densita_Reale_Rete: 0.0476 
+Centralizzazione_Reale: 0.119 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nome_Sviluppatore         ID_Codeface  Commit     Percentuale_%    Isolato_Rete   
+Nico Arqueros             6            78         22.4137931034483 NO             
+[ARCHI COLLABORATIVI CON TOP HUMAN DETECTED]
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 6
+
+[BOT RILEVATI NELLA TOP 20]
+Nome_Bot                  ID_Codeface Commit     Percentuale_%
+GitHub                    2          80         22.9885057471264
+---------------------------------------------------------------------
+
+RELEASE INTERVALLO: 0.9.1-1.0.0 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 12 
+Nodi_Isolati (Senza Interazione): 10 
+Archi_Collaborazione_Effettivi: 1 
+Densita_Reale_Rete: 0.0152 
+Centralizzazione_Reale: 0.0758 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nome_Sviluppatore         ID_Codeface  Commit     Percentuale_%    Isolato_Rete   
+Nico Arqueros             6            157        16.5611814345992 SI             
+[ARCHI COLLABORATIVI CON TOP HUMAN DETECTED]
+ Nessun arco di collaborazione trovato per questo sviluppatore.
+
+[BOT RILEVATI NELLA TOP 20]
+Nome_Bot                  ID_Codeface Commit     Percentuale_%
+devin-ai-integrationbot   8          276        29.1139240506329
+GitHub                    2          154        16.2447257383966
+
+[ARCHI COLLABORATIVI CON BOT DETECTED]
+ -> Trovato arco collaborativo tra BOT/ID: 8 e ID: 4
+---------------------------------------------------------------------
+
+RELEASE INTERVALLO: 1.0.0-1.0.16 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 0 
+Nodi_Isolati (Senza Interazione): 0 
+Archi_Collaborazione_Effettivi: 0 
+Densita_Reale_Rete: 0 
+Centralizzazione_Reale: 0 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nessun contributore umano rilevato (la release potrebbe contenere solo bot).
+
+[BOT RILEVATI NELLA TOP 20]
+Nessun file top20.numcommits.txt presente (Release vuota o singolo sviluppatore).
+---------------------------------------------------------------------
+
+RELEASE INTERVALLO: 1.0.16-1.1.0 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 0 
+Nodi_Isolati (Senza Interazione): 0 
+Archi_Collaborazione_Effettivi: 0 
+Densita_Reale_Rete: 0 
+Centralizzazione_Reale: 0 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nessun contributore umano rilevato (la release potrebbe contenere solo bot).
+
+[BOT RILEVATI NELLA TOP 20]
+Nessun file top20.numcommits.txt presente (Release vuota o singolo sviluppatore).
+---------------------------------------------------------------------
+
+RELEASE INTERVALLO: 1.1.0-1.1.15 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 0 
+Nodi_Isolati (Senza Interazione): 0 
+Archi_Collaborazione_Effettivi: 0 
+Densita_Reale_Rete: 0 
+Centralizzazione_Reale: 0 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nessun contributore umano rilevato (la release potrebbe contenere solo bot).
+
+[BOT RILEVATI NELLA TOP 20]
+Nessun file top20.numcommits.txt presente (Release vuota o singolo sviluppatore).
+---------------------------------------------------------------------
+
+RELEASE INTERVALLO: 1.1.15-1.1.33 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 0 
+Nodi_Isolati (Senza Interazione): 0 
+Archi_Collaborazione_Effettivi: 0 
+Densita_Reale_Rete: 0 
+Centralizzazione_Reale: 0 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nessun contributore umano rilevato (la release potrebbe contenere solo bot).
+
+[BOT RILEVATI NELLA TOP 20]
+Nessun file top20.numcommits.txt presente (Release vuota o singolo sviluppatore).
+---------------------------------------------------------------------
+
