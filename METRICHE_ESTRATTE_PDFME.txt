@@ -1,0 +1,96 @@
+=====================================================================
+ DATASET METRICHE REALI E COMPONENTE BOT: PDFME 
+ INCLUSIONE NODI ISOLATI (UMANI + AGENTI) PER COMMUNITY SMELLS
+=====================================================================
+
+RELEASE INTERVALLO: 5.0.0-5.2.0 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 0 
+Nodi_Isolati (Senza Interazione): 0 
+Archi_Collaborazione_Effettivi: 0 
+Densita_Reale_Rete: 0 
+Centralizzazione_Reale: 0 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nessun contributore umano rilevato (la release potrebbe contenere solo bot).
+
+[BOT RILEVATI NELLA TOP 20]
+Nessun file top20.numcommits.txt presente (Release vuota o singolo sviluppatore).
+---------------------------------------------------------------------
+
+RELEASE INTERVALLO: 5.2.0-5.4.0 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 15 
+Nodi_Isolati (Senza Interazione): 13 
+Archi_Collaborazione_Effettivi: 1 
+Densita_Reale_Rete: 0.0095 
+Centralizzazione_Reale: 0.0619 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nome_Sviluppatore         ID_Codeface  Commit     Percentuale_%    Isolato_Rete   
+hand-dot                  1            234        38.6138613861386 NO             
+[ARCHI COLLABORATIVI CON TOP HUMAN DETECTED]
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 4
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 4 e ID: 1
+
+[BOT RILEVATI NELLA TOP 20]
+Nome_Bot                  ID_Codeface Commit     Percentuale_%
+GitHub                    2          192        31.6831683168317
+dependabotbot             5          95         15.6765676567657
+devin-ai-integrationbot   4          54         8.91089108910891
+
+[ARCHI COLLABORATIVI CON BOT DETECTED]
+ -> Trovato arco collaborativo tra BOT/ID: 1 e ID: 4
+ -> Trovato arco collaborativo tra BOT/ID: 4 e ID: 1
+---------------------------------------------------------------------
+
+RELEASE INTERVALLO: 5.4.0-5.5.0 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 0 
+Nodi_Isolati (Senza Interazione): 0 
+Archi_Collaborazione_Effettivi: 0 
+Densita_Reale_Rete: 0 
+Centralizzazione_Reale: 0 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nessun contributore umano rilevato (la release potrebbe contenere solo bot).
+
+[BOT RILEVATI NELLA TOP 20]
+Nessun file top20.numcommits.txt presente (Release vuota o singolo sviluppatore).
+---------------------------------------------------------------------
+
+RELEASE INTERVALLO: 5.5.0-6.0.0 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 10 
+Nodi_Isolati (Senza Interazione): 8 
+Archi_Collaborazione_Effettivi: 1 
+Densita_Reale_Rete: 0.0222 
+Centralizzazione_Reale: 0.0889 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nome_Sviluppatore         ID_Codeface  Commit     Percentuale_%    Isolato_Rete   
+hand-dot                  1            258        63.2352941176471 NO             
+[ARCHI COLLABORATIVI CON TOP HUMAN DETECTED]
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 7
+
+[BOT RILEVATI NELLA TOP 20]
+Nome_Bot                  ID_Codeface Commit     Percentuale_%
+GitHub                    2          74         18.1372549019608
+dependabotbot             4          62         15.1960784313725
+---------------------------------------------------------------------
+
+RELEASE INTERVALLO: 6.0.0-6.1.0 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 0 
+Nodi_Isolati (Senza Interazione): 0 
+Archi_Collaborazione_Effettivi: 0 
+Densita_Reale_Rete: 0 
+Centralizzazione_Reale: 0 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nessun contributore umano rilevato (la release potrebbe contenere solo bot).
+
+[BOT RILEVATI NELLA TOP 20]
+Nessun file top20.numcommits.txt presente (Release vuota o singolo sviluppatore).
+---------------------------------------------------------------------
+
