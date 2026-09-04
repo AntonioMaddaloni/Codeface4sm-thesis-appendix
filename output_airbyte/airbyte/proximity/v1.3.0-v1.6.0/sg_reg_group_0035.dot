@@ -1,0 +1,27 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Spin Glass Community 35 Community Quality =  0"
+    fontsize=30
+  ];
+  0 [
+    name=1
+    label="Yarden Carmeli"
+    fontsize=15
+    fillcolor=grey80
+    style=filled
+    penwidth=1.44749747652099
+  ];
+  1 [
+    name=2
+    label="Wenqi Hu"
+    fontsize=16.2744222561149
+    fillcolor=grey78
+    style=filled
+    penwidth=1.73456034873665
+  ];
+
+  1 -> 0 [
+    weight=70
+  ];
+}

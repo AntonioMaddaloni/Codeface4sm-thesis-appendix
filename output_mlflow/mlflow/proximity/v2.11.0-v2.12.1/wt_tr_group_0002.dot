@@ -1,0 +1,27 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Random Walk Community (tr) 2 Community Quality =  0.317934782608696"
+    fontsize=30
+  ];
+  0 [
+    name=1
+    label="Harutaka Kawamura"
+    fontsize=28.543367887094
+    fillcolor=grey60
+    style=filled
+    penwidth=3.86633988001245
+  ];
+  1 [
+    name=2
+    label=harupy
+    fontsize=36.1129952087058
+    fillcolor=grey66
+    style=filled
+    penwidth=1.59948216652779
+  ];
+
+  0 -> 1 [
+    weight=251
+  ];
+}

@@ -1,0 +1,27 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Spin Glass Community (tr) 6 Community Quality =  0.724137931034483"
+    fontsize=30
+  ];
+  0 [
+    name=1
+    label="Danny Sepler"
+    fontsize=17.2500565888899
+    fillcolor=grey84
+    style=filled
+    penwidth=1
+  ];
+  1 [
+    name=2
+    label=na2shell
+    fontsize=15.051432257317
+    fillcolor=grey85
+    style=filled
+    penwidth=1
+  ];
+
+  1 -> 0 [
+    weight=8
+  ];
+}

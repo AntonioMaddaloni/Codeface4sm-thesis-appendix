@@ -1,0 +1,220 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Spin Glass Community 4 Community Quality =  0.654472794343683"
+    fontsize=30
+  ];
+  0 [
+    name=1
+    label="Itamar Friedman"
+    fontsize=15.4048270807235
+    fillcolor=grey84
+    style=filled
+    penwidth=1
+  ];
+  1 [
+    name=2
+    label="Richard Beales"
+    fontsize=25.4267854627723
+    fillcolor=grey68
+    style=filled
+    penwidth=3.68742025429445
+  ];
+  2 [
+    name=3
+    label="0xArty"
+    fontsize=28.0323814225344
+    fillcolor=grey54
+    style=filled
+    penwidth=3.8018335810635
+  ];
+  3 [
+    name=4
+    label="Gershon Bialer"
+    fontsize=15
+    fillcolor=grey81
+    style=filled
+    penwidth=2.57589390541549
+  ];
+  4 [
+    name=5
+    label="Fariz Rahman"
+    fontsize=15.2826707116947
+    fillcolor=grey97
+    style=filled
+    penwidth=1
+  ];
+  5 [
+    name=6
+    label="xuqi.wxq"
+    fontsize=15.4786333751944
+    fillcolor=grey71
+    style=filled
+    penwidth=1.96004167275174
+  ];
+  6 [
+    name=7
+    label="Domenico Giambra"
+    fontsize=15.3087225274447
+    fillcolor=grey89
+    style=filled
+    penwidth=1.96004167275174
+  ];
+  7 [
+    name=8
+    label=Imccccc
+    fontsize=15.729072627148
+    fillcolor=grey76
+    style=filled
+    penwidth=1.42482520786218
+  ];
+  8 [
+    name=9
+    label="Manuel Otheo"
+    fontsize=18.0731932735043
+    fillcolor=grey88
+    style=filled
+    penwidth=1.96004167275174
+  ];
+  9 [
+    name=10
+    label=HDKiller
+    fontsize=17.182156420137
+    fillcolor=grey81
+    style=filled
+    penwidth=2.57589390541549
+  ];
+  10 [
+    name=11
+    label=younessZMZ
+    fontsize=15.2164394139619
+    fillcolor=grey70
+    style=filled
+    penwidth=1.96004167275174
+  ];
+  11 [
+    name=12
+    label="Dino Hensen"
+    fontsize=15
+    fillcolor=grey68
+    style=filled
+    penwidth=1
+  ];
+  12 [
+    name=13
+    label=suzuken
+    fontsize=15.0453876289982
+    fillcolor=grey94
+    style=filled
+    penwidth=1.42482520786218
+  ];
+  13 [
+    name=14
+    label=jayceslesar
+    fontsize=20.5435552250961
+    fillcolor=grey71
+    style=filled
+    penwidth=1.42482520786218
+  ];
+  14 [
+    name=15
+    label="k-boikov"
+    fontsize=15.0997661335393
+    fillcolor=grey91
+    style=filled
+    penwidth=1
+  ];
+  15 [
+    name=16
+    label=XFFXFF
+    fontsize=15.2752102360037
+    fillcolor=grey91
+    style=filled
+    penwidth=1.42482520786218
+  ];
+
+  0 -> 2 [
+    weight=4
+  ];
+  0 -> 11 [
+    weight=3
+  ];
+  1 -> 2 [
+    weight=465
+  ];
+  1 -> 5 [
+    weight=5
+  ];
+  1 -> 11 [
+    weight=5
+  ];
+  2 -> 0 [
+    weight=12
+  ];
+  2 -> 3 [
+    weight=24
+  ];
+  2 -> 5 [
+    weight=128
+  ];
+  2 -> 11 [
+    weight=38
+  ];
+  4 -> 2 [
+    weight=34
+  ];
+  5 -> 2 [
+    weight=9
+  ];
+  5 -> 11 [
+    weight=2
+  ];
+  6 -> 2 [
+    weight=15
+  ];
+  7 -> 2 [
+    weight=39
+  ];
+  8 -> 2 [
+    weight=70
+  ];
+  8 -> 11 [
+    weight=6
+  ];
+  9 -> 1 [
+    weight=20
+  ];
+  9 -> 2 [
+    weight=60
+  ];
+  10 -> 2 [
+    weight=19
+  ];
+  10 -> 11 [
+    weight=31
+  ];
+  12 -> 2 [
+    weight=3
+  ];
+  13 -> 2 [
+    weight=83
+  ];
+  13 -> 7 [
+    weight=16
+  ];
+  13 -> 11 [
+    weight=11
+  ];
+  14 -> 2 [
+    weight=12
+  ];
+  15 -> 2 [
+    weight=4
+  ];
+  15 -> 7 [
+    weight=3
+  ];
+  15 -> 13 [
+    weight=3
+  ];
+}

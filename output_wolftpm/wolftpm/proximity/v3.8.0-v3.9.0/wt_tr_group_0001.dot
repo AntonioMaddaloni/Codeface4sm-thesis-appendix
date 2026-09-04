@@ -1,0 +1,27 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Random Walk Community (tr) 1 Community Quality =  0.578947368421053"
+    fontsize=30
+  ];
+  0 [
+    name=1
+    label="msi-debian"
+    fontsize=35.6373951145478
+    fillcolor=grey100
+    style=filled
+    penwidth=1
+  ];
+  1 [
+    name=2
+    label=night1rider
+    fontsize=16.6652804334404
+    fillcolor=grey100
+    style=filled
+    penwidth=1
+  ];
+
+  1 -> 0 [
+    weight=16
+  ];
+}

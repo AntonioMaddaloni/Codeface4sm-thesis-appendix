@@ -1,0 +1,30 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Spin Glass Community 2 Community Quality =  0.00135043889264011"
+    fontsize=30
+  ];
+  0 [
+    name=1
+    label="David Garske"
+    fontsize=50
+    fillcolor=grey50
+    style=filled
+    penwidth=2.40855345426679
+  ];
+  1 [
+    name=2
+    label="Dimitar Tomov"
+    fontsize=48.1578947368421
+    fillcolor=grey50
+    style=filled
+    penwidth=5
+  ];
+
+  0 -> 1 [
+    weight=1133
+  ];
+  1 -> 0 [
+    weight=346
+  ];
+}

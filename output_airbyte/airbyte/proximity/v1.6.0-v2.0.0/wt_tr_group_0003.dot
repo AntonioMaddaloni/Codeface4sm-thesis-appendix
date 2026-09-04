@@ -1,0 +1,58 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Random Walk Community (tr) 3 Community Quality =  0.636714230620902"
+    fontsize=30
+  ];
+  0 [
+    name=1
+    label=Airbyte
+    fontsize=15.2253818323812
+    fillcolor=grey57
+    style=filled
+    penwidth=4.83488738851126
+  ];
+  1 [
+    name=2
+    label="Edward Gao"
+    fontsize=22.7176827822236
+    fillcolor=grey62
+    style=filled
+    penwidth=3.01392047490262
+  ];
+  2 [
+    name=3
+    label="David Gold"
+    fontsize=15.4702013409101
+    fillcolor=grey67
+    style=filled
+    penwidth=2.43177647015025
+  ];
+  3 [
+    name=4
+    label="Jose Pefaur"
+    fontsize=16.0595561630694
+    fillcolor=grey77
+    style=filled
+    penwidth=2.15774937268733
+  ];
+
+  1 -> 2 [
+    weight=6
+  ];
+  2 -> 0 [
+    weight=14
+  ];
+  2 -> 1 [
+    weight=200
+  ];
+  2 -> 3 [
+    weight=68
+  ];
+  3 -> 1 [
+    weight=174
+  ];
+  3 -> 2 [
+    weight=9
+  ];
+}

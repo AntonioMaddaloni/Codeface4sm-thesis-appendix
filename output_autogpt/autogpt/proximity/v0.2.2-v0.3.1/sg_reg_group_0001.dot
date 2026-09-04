@@ -1,0 +1,27 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Spin Glass Community 1 Community Quality =  0.526315789473684"
+    fontsize=30
+  ];
+  0 [
+    name=1
+    label="Steven Baumann"
+    fontsize=15.5950586639687
+    fillcolor=grey90
+    style=filled
+    penwidth=1
+  ];
+  1 [
+    name=2
+    label=lengweiping1983
+    fontsize=15.0288622764257
+    fillcolor=grey88
+    style=filled
+    penwidth=1
+  ];
+
+  0 -> 1 [
+    weight=9
+  ];
+}

@@ -1,0 +1,35 @@
+digraph pieGraph {
+	graph [bgcolor=transparent, fontcolor=black, ratio=fill, overlap=prism, splines=TRUE, rank=same, size=7, rankdir=TB];
+	node [label="\N", shape=ellipse, fixedsize=TRUE, fillcolor=transparent, color=black, fontcolor=black, fontsize=14, height="0.5", width="0.75", style=wedged];
+	edge [headport=center, color=black, dir=none, weight="1.0", fontcolor=black, arrowhead=none, arrowtail=none, fontsize=14, labelfontsize=11, arrowsize=1, style=solid, minlen=1, penwidth="1.0"];
+	graph [bb="0 0 503 503"];
+	subgraph cluster_0 {
+		graph [bgcolor="#4DFF4D80",
+			bb="",
+			penwidth=75,
+			style=bold,
+			color="#E495A5",
+			label="ID 1",
+			fontsize=120];
+		1 [label=99843854, fillcolor="#E495A5;1:", height="0.799865478921249", width="0.799865478921249"];
+		2 [label=99843831, fillcolor="#E495A5;1:", height=5, width=5];
+		3 [label=99843819, fillcolor="#E495A5;1:", height="2.3989492641767", width="2.3989492641767"];
+		4 [label=99843820, fillcolor="#E495A5;1:", height="4.35659777940231", width="4.35659777940231"];
+		5 [label=99843821, fillcolor="#E495A5;1:", height="2.1586997795253", width="2.1586997795253"];
+		6 [label=99843822, fillcolor="#E495A5;1:", height="0.987992232733609", width="0.987992232733609"];
+		7 [label=99843828, fillcolor="#E495A5;1:", height="1.2050224951564", width="1.2050224951564"];
+		8 [label=99843829, fillcolor="#E495A5;1:", height="0.75"];
+		9 [label=99843832, fillcolor="#E495A5;1:", height="0.75"];
+		1 -> 2:center [color="#00000040", dir=both, weight=1, arrowhead=open, arrowtail=open, arrowsize="3.33333333333333", penwidth=10];
+		2 -> 4:center [color="#00000040", dir=both, weight=1, arrowhead=open, arrowtail=open, arrowsize="3.33333333333333", penwidth=10];
+		2 -> 5:center [color="#00000040", dir=both, weight=1, arrowhead=open, arrowtail=open, arrowsize="3.33333333333333", penwidth=10];
+		2 -> 6:center [color="#00000040", dir=both, weight=1, arrowhead=open, arrowtail=open, arrowsize="3.33333333333333", penwidth=10];
+		2 -> 8:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		3 -> 2:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		3 -> 4:center [color="#00000040", dir=both, weight=1, arrowhead=open, arrowtail=open, arrowsize="3.33333333333333", penwidth=10];
+		4 -> 8:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		4 -> 9:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		6 -> 5:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		7 -> 2:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+	}
+}

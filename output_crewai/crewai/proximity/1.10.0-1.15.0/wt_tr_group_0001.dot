@@ -1,0 +1,27 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Random Walk Community (tr) 1 Community Quality =  0.878419452887538"
+    fontsize=30
+  ];
+  0 [
+    name=1
+    label=Mani
+    fontsize=15.447899137748
+    fillcolor=grey78
+    style=filled
+    penwidth=1.28648588343414
+  ];
+  1 [
+    name=2
+    label="Ishan Goswami"
+    fontsize=15.9161709791644
+    fillcolor=grey82
+    style=filled
+    penwidth=1
+  ];
+
+  1 -> 0 [
+    weight=20
+  ];
+}

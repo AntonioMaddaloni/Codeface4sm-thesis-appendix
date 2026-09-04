@@ -1,0 +1,137 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Random Walk Community (tr) 2 Community Quality =  0.270600681791466"
+    fontsize=30
+  ];
+  0 [
+    name=1
+    label="Anatolii Yatsuk"
+    fontsize=30.6849393831923
+    fillcolor=grey62
+    style=filled
+    penwidth=2.52584846175892
+  ];
+  1 [
+    name=2
+    label="Patrick Nilan"
+    fontsize=34.1422814784641
+    fillcolor=grey61
+    style=filled
+    penwidth=2.52584846175892
+  ];
+  2 [
+    name=3
+    label="Serhii Lazebnyi"
+    fontsize=16.4475249181195
+    fillcolor=grey65
+    style=filled
+    penwidth=1.9224226621972
+  ];
+  3 [
+    name=4
+    label="Brian Lai"
+    fontsize=25.3544231688032
+    fillcolor=grey56
+    style=filled
+    penwidth=2.44319946811898
+  ];
+  4 [
+    name=5
+    label="Michal Krawczyk"
+    fontsize=16.1151569985084
+    fillcolor=grey84
+    style=filled
+    penwidth=1.19220322409582
+  ];
+  5 [
+    name=6
+    label="Alfredo Garcia"
+    fontsize=17.4249439527778
+    fillcolor=grey70
+    style=filled
+    penwidth=2.38311516987404
+  ];
+  6 [
+    name=7
+    label="Kat Wilson"
+    fontsize=15.0338818933793
+    fillcolor=grey74
+    style=filled
+    penwidth=1.19220322409582
+  ];
+  7 [
+    name=8
+    label="Davide Miranda"
+    fontsize=15.1005519054197
+    fillcolor=grey84
+    style=filled
+    penwidth=1
+  ];
+  8 [
+    name=9
+    label="Gary James"
+    fontsize=15
+    fillcolor=grey77
+    style=filled
+    penwidth=1
+  ];
+
+  0 -> 1 [
+    weight=436
+  ];
+  0 -> 3 [
+    weight=247
+  ];
+  0 -> 4 [
+    weight=118
+  ];
+  1 -> 0 [
+    weight=2739
+  ];
+  1 -> 3 [
+    weight=501
+  ];
+  1 -> 5 [
+    weight=281
+  ];
+  1 -> 6 [
+    weight=12
+  ];
+  1 -> 7 [
+    weight=6
+  ];
+  3 -> 0 [
+    weight=805
+  ];
+  3 -> 1 [
+    weight=39
+  ];
+  3 -> 2 [
+    weight=271
+  ];
+  3 -> 5 [
+    weight=99
+  ];
+  3 -> 7 [
+    weight=16
+  ];
+  5 -> 3 [
+    weight=170
+  ];
+  6 -> 0 [
+    weight=300
+  ];
+  6 -> 1 [
+    weight=2
+  ];
+  6 -> 3 [
+    weight=129
+  ];
+  8 -> 1 [
+    weight=31
+  ];
+  8 -> 5 [
+    weight=3
+  ];
+}

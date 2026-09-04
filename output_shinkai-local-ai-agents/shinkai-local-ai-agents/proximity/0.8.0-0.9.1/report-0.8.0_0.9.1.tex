@@ -1,0 +1,42 @@
+\documentclass{article}
+\usepackage[landscape,a4paper,pdftex,top=5mm,bottom=5mm,left=5mm,right=5mm]{geometry}
+\usepackage{graphicx}
+\usepackage{calc}
+\usepackage{lmodern}
+\begin{document}
+\setlength{\parindent}{0pt}
+\begin{center}
+\begin{Large}
+\textbf{Analysis Data for Development Cycle 0.8.0--0.9.1}
+\end{Large}
+\end{center}
+\section{Developer rankings}
+\begin{small}\renewcommand{\tabcolsep}{1pt}
+\begin{minipage}{0.5\linewidth}
+PageRank\\
+\input{/home/antonio/progetti_analisi/output_nuovo_progetto/shinkai/proximity/0.8.0-0.9.1/top20.pr.tex}
+\end{minipage}%
+\begin{minipage}{0.5\linewidth}
+PageRank (transposed)\\
+\input{/home/antonio/progetti_analisi/output_nuovo_progetto/shinkai/proximity/0.8.0-0.9.1/top20.pr.tr.tex}
+\end{minipage}
+
+\renewcommand{\tabcolsep}{5pt}
+\begin{minipage}{0.5\linewidth}
+Number of commits\\
+\input{/home/antonio/progetti_analisi/output_nuovo_progetto/shinkai/proximity/0.8.0-0.9.1/top20.numcommits.tex}
+\end{minipage}%
+\begin{minipage}{0.5\linewidth}
+Changed lines\\
+\input{/home/antonio/progetti_analisi/output_nuovo_progetto/shinkai/proximity/0.8.0-0.9.1/top20.total.tex}
+\end{minipage}
+\end{small}
+\newpage\section{Community Clusters (spin glass)}
+\subsection{Cluster Contents (regular page rank)}
+\includegraphics[width=0.5\linewidth]{/home/antonio/progetti_analisi/output_nuovo_progetto/shinkai/proximity/0.8.0-0.9.1/sg_reg_group_0001.pdf}\\
+\newpage\subsection{Cluster Contents (transposed page rank)}
+\includegraphics[width=0.5\linewidth]{/home/antonio/progetti_analisi/output_nuovo_progetto/shinkai/proximity/0.8.0-0.9.1/sg_tr_group_0001.pdf}\\
+\newpage\section{Community Clusters (random walk)}
+\subsection{Cluster Contents (regular page rank)}
+\newpage\subsection{Cluster Contents (transposed page rank)}
+\end{document}

@@ -1,0 +1,8 @@
+99820311	99820314	99820324	99820331	99820334	99820337	99820338
+File_Level	None	None	None	FWTPM_ProcessCommand	File_Level	File_Level
+None	None	None	None	None	None	None
+File_Level	None	None	File_Level	File_Level	None	None
+File_Level	None	None	None	File_Level	None	None
+File_Level	None	File_Level	File_Level	File_Level	File_Level	File_Level
+File_Level	None	None	None	File_Level	File_Level	File_Level
+SensitiveToPrivate	None	None	None	File_Level	None	wolfTPM2_CreateKeySeal_ex

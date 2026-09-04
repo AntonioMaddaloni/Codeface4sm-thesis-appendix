@@ -1,0 +1,4 @@
+99820311	99820316	99820317
+TPM2_Keygen_Example	TPM2_Keyload_Example	TPM2_Keygen_Example
+wolfTPM2_SensitiveToPrivate	File_Level	File_Level
+File_Level	TPM2_SendCommandAuth	TPM2_SWTPM_SendCommand

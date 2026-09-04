@@ -1,0 +1,30 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Spin Glass Community (tr) 3 Community Quality =  0.0502645502645503"
+    fontsize=30
+  ];
+  0 [
+    name=1
+    label="Diwank Singh Tomer"
+    fontsize=50
+    fillcolor=grey50
+    style=filled
+    penwidth=5
+  ];
+  1 [
+    name=2
+    label=HamadaSalhab
+    fontsize=36.5857961834032
+    fillcolor=grey63
+    style=filled
+    penwidth=3.30784988952976
+  ];
+
+  0 -> 1 [
+    weight=963
+  ];
+  1 -> 0 [
+    weight=832
+  ];
+}

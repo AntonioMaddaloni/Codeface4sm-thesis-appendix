@@ -1,0 +1,72 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Random Walk Community 6 Community Quality =  0.214757917270037"
+    fontsize=30
+  ];
+  0 [
+    name=1
+    label="Maxime Carbonneau-Leclerc"
+    fontsize=20.8476546566224
+    fillcolor=grey66
+    style=filled
+    penwidth=2.66458307115848
+  ];
+  1 [
+    name=2
+    label="Christo Grabowski"
+    fontsize=23.0210863351674
+    fillcolor=grey61
+    style=filled
+    penwidth=2.21586673252066
+  ];
+  2 [
+    name=3
+    label="Aldo Gonzalez"
+    fontsize=17.3884709775727
+    fillcolor=grey67
+    style=filled
+    penwidth=2.06718317660323
+  ];
+  3 [
+    name=4
+    label="Daryna Ishchenko"
+    fontsize=43.1743616801634
+    fillcolor=grey60
+    style=filled
+    penwidth=2.51627174256844
+  ];
+  4 [
+    name=5
+    label="Danylo Jablonski"
+    fontsize=17.2615710749714
+    fillcolor=grey82
+    style=filled
+    penwidth=1.4343506490535
+  ];
+
+  0 -> 2 [
+    weight=3
+  ];
+  0 -> 3 [
+    weight=405
+  ];
+  1 -> 2 [
+    weight=1922
+  ];
+  1 -> 3 [
+    weight=299
+  ];
+  2 -> 1 [
+    weight=78
+  ];
+  3 -> 1 [
+    weight=112
+  ];
+  3 -> 2 [
+    weight=3395
+  ];
+  4 -> 0 [
+    weight=22
+  ];
+}

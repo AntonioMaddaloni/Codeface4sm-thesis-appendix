@@ -1,0 +1,173 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Random Walk Community (tr) 2 Community Quality =  0.0544547330038862"
+    fontsize=30
+  ];
+  0 [
+    name=1
+    label="Harutaka Kawamura"
+    fontsize=50
+    fillcolor=grey55
+    style=filled
+    penwidth=3.48654614283386
+  ];
+  1 [
+    name=2
+    label="Serena Ruan"
+    fontsize=21.5611717381432
+    fillcolor=grey65
+    style=filled
+    penwidth=3.0650318727784
+  ];
+  2 [
+    name=3
+    label="Chen Qian"
+    fontsize=19.2438142288897
+    fillcolor=grey81
+    style=filled
+    penwidth=1.62163653570847
+  ];
+  3 [
+    name=4
+    label="Daniel Lok"
+    fontsize=15.4684231747679
+    fillcolor=grey53
+    style=filled
+    penwidth=2.44339533706994
+  ];
+  4 [
+    name=5
+    label="Ben Wilson"
+    fontsize=26.3913952016625
+    fillcolor=grey65
+    style=filled
+    penwidth=3.10878845071966
+  ];
+  5 [
+    name=6
+    label="Corey Zumar"
+    fontsize=16.172191140602
+    fillcolor=grey75
+    style=filled
+    penwidth=1.82175880136147
+  ];
+  6 [
+    name=7
+    label="Jesse Chan"
+    fontsize=24.1087733840164
+    fillcolor=grey69
+    style=filled
+    penwidth=1.62163653570847
+  ];
+  7 [
+    name=8
+    label="Apurva Koti"
+    fontsize=15
+    fillcolor=grey76
+    style=filled
+    penwidth=1.62163653570847
+  ];
+  8 [
+    name=9
+    label="Ian Ackerman"
+    fontsize=15
+    fillcolor=grey84
+    style=filled
+    penwidth=1
+  ];
+
+  0 -> 1 [
+    weight=77
+  ];
+  0 -> 2 [
+    weight=145
+  ];
+  0 -> 4 [
+    weight=56
+  ];
+  0 -> 6 [
+    weight=126
+  ];
+  1 -> 0 [
+    weight=4300
+  ];
+  1 -> 2 [
+    weight=52
+  ];
+  1 -> 3 [
+    weight=146
+  ];
+  1 -> 4 [
+    weight=37
+  ];
+  1 -> 5 [
+    weight=14
+  ];
+  1 -> 6 [
+    weight=44
+  ];
+  2 -> 6 [
+    weight=17
+  ];
+  3 -> 0 [
+    weight=1559
+  ];
+  3 -> 1 [
+    weight=122
+  ];
+  3 -> 2 [
+    weight=17
+  ];
+  3 -> 6 [
+    weight=19
+  ];
+  4 -> 0 [
+    weight=1438
+  ];
+  4 -> 1 [
+    weight=82
+  ];
+  4 -> 2 [
+    weight=29
+  ];
+  4 -> 3 [
+    weight=11
+  ];
+  4 -> 6 [
+    weight=60
+  ];
+  5 -> 0 [
+    weight=321
+  ];
+  5 -> 1 [
+    weight=186
+  ];
+  6 -> 0 [
+    weight=729
+  ];
+  6 -> 1 [
+    weight=156
+  ];
+  6 -> 2 [
+    weight=9
+  ];
+  6 -> 3 [
+    weight=39
+  ];
+  7 -> 0 [
+    weight=7
+  ];
+  7 -> 4 [
+    weight=5
+  ];
+  7 -> 5 [
+    weight=6
+  ];
+  8 -> 0 [
+    weight=43
+  ];
+  8 -> 1 [
+    weight=2
+  ];
+}

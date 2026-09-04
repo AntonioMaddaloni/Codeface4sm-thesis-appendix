@@ -1,0 +1,27 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Spin Glass Community 2 Community Quality =  0.709090909090909"
+    fontsize=30
+  ];
+  0 [
+    name=1
+    label="Edward Feng"
+    fontsize=15
+    fillcolor=grey77
+    style=filled
+    penwidth=1.59948216652779
+  ];
+  1 [
+    name=2
+    label="Arthur Jenoudet"
+    fontsize=19.2073347245012
+    fillcolor=grey65
+    style=filled
+    penwidth=1
+  ];
+
+  1 -> 0 [
+    weight=8
+  ];
+}

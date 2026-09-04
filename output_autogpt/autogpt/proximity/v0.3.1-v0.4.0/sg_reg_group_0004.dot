@@ -1,0 +1,52 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Spin Glass Community 4 Community Quality =  0.607717041800643"
+    fontsize=30
+  ];
+  0 [
+    name=1
+    label=WladBlank
+    fontsize=17.2291921053882
+    fillcolor=grey85
+    style=filled
+    penwidth=1
+  ];
+  1 [
+    name=2
+    label=Boostrix
+    fontsize=15
+    fillcolor=grey90
+    style=filled
+    penwidth=1.94677670241594
+  ];
+  2 [
+    name=3
+    label=kaneda2004
+    fontsize=16.4714845474618
+    fillcolor=grey96
+    style=filled
+    penwidth=1
+  ];
+  3 [
+    name=4
+    label=DGdev91
+    fontsize=16.3660443084997
+    fillcolor=grey78
+    style=filled
+    penwidth=1
+  ];
+
+  0 -> 1 [
+    weight=23
+  ];
+  0 -> 3 [
+    weight=15
+  ];
+  2 -> 0 [
+    weight=16
+  ];
+  2 -> 3 [
+    weight=7
+  ];
+}

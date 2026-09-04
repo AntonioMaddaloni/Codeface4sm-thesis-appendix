@@ -1,0 +1,27 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Spin Glass Community (tr) 10 Community Quality =  0"
+    fontsize=30
+  ];
+  0 [
+    name=1
+    label="Natalie Kwong"
+    fontsize=15
+    fillcolor=grey84
+    style=filled
+    penwidth=1.62244556560998
+  ];
+  1 [
+    name=2
+    label="Ben Church"
+    fontsize=50
+    fillcolor=grey90
+    style=filled
+    penwidth=1.36410731462201
+  ];
+
+  0 -> 1 [
+    weight=2
+  ];
+}

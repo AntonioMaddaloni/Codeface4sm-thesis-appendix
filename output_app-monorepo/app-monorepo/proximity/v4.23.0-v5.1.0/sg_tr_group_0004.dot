@@ -1,0 +1,125 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Spin Glass Community (tr) 4 Community Quality =  0.155610663360198"
+    fontsize=30
+  ];
+  0 [
+    name=1
+    label=kwoktung
+    fontsize=18.0665925286259
+    fillcolor=grey62
+    style=filled
+    penwidth=3.54106568835169
+  ];
+  1 [
+    name=2
+    label=huhuanming
+    fontsize=28.6082189508067
+    fillcolor=grey52
+    style=filled
+    penwidth=4.31516692543647
+  ];
+  2 [
+    name=3
+    label=Leon
+    fontsize=30.3392801796074
+    fillcolor=grey59
+    style=filled
+    penwidth=3.71878560024695
+  ];
+  3 [
+    name=4
+    label=morizon
+    fontsize=50
+    fillcolor=grey55
+    style=filled
+    penwidth=3.6024627571215
+  ];
+  4 [
+    name=5
+    label=Franco
+    fontsize=17.1757241414533
+    fillcolor=grey58
+    style=filled
+    penwidth=2.96340450113198
+  ];
+  5 [
+    name=6
+    label="幻想"
+    fontsize=15.4106884595719
+    fillcolor=grey69
+    style=filled
+    penwidth=2.87853877640847
+  ];
+
+  0 -> 1 [
+    weight=27
+  ];
+  0 -> 2 [
+    weight=39
+  ];
+  0 -> 3 [
+    weight=75
+  ];
+  0 -> 4 [
+    weight=2
+  ];
+  1 -> 0 [
+    weight=29
+  ];
+  1 -> 2 [
+    weight=144
+  ];
+  1 -> 3 [
+    weight=377
+  ];
+  1 -> 4 [
+    weight=109
+  ];
+  1 -> 5 [
+    weight=18
+  ];
+  2 -> 0 [
+    weight=31
+  ];
+  2 -> 1 [
+    weight=114
+  ];
+  2 -> 3 [
+    weight=329
+  ];
+  2 -> 4 [
+    weight=6
+  ];
+  3 -> 0 [
+    weight=69
+  ];
+  3 -> 1 [
+    weight=214
+  ];
+  3 -> 2 [
+    weight=302
+  ];
+  3 -> 4 [
+    weight=20
+  ];
+  3 -> 5 [
+    weight=8
+  ];
+  4 -> 0 [
+    weight=4
+  ];
+  4 -> 1 [
+    weight=64
+  ];
+  4 -> 2 [
+    weight=20
+  ];
+  4 -> 3 [
+    weight=35
+  ];
+  5 -> 3 [
+    weight=7
+  ];
+}

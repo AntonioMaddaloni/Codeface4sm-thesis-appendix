@@ -1,0 +1,40 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Random Walk Community"
+  ];
+  0 [
+    name=1
+    label=1
+    fontsize=41.9230769230769
+    fillcolor="#3f0000"
+    style=filled
+    penwidth=5
+    pencolor=grey50
+  ];
+  1 [
+    name=2
+    label=2
+    fontsize=50
+    fillcolor="#7f0000"
+    style=filled
+    penwidth=3.56248745705853
+    pencolor=grey50
+  ];
+  2 [
+    name=3
+    label=3
+    fontsize=15
+    fillcolor="#bf0000"
+    style=filled
+    penwidth=1
+    pencolor=grey100
+  ];
+
+  0 -> 1 [
+    weight=41
+  ];
+  2 -> 0 [
+    weight=5
+  ];
+}

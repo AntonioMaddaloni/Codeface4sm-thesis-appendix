@@ -1,0 +1,41 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Spin Glass Community 22 Community Quality =  0"
+    fontsize=30
+  ];
+  0 [
+    name=1
+    label="Johnny Schmidt"
+    fontsize=15
+    fillcolor=grey64
+    style=filled
+    penwidth=3.17752048975975
+  ];
+  1 [
+    name=2
+    label="Jonathan Pearlin"
+    fontsize=16.9726076512476
+    fillcolor=grey73
+    style=filled
+    penwidth=1.94372317767664
+  ];
+  2 [
+    name=3
+    label="Subodh Kant Chaturvedi"
+    fontsize=19.1254708292471
+    fillcolor=grey76
+    style=filled
+    penwidth=1.53728372774078
+  ];
+
+  1 -> 0 [
+    weight=58
+  ];
+  2 -> 0 [
+    weight=7
+  ];
+  2 -> 1 [
+    weight=69
+  ];
+}

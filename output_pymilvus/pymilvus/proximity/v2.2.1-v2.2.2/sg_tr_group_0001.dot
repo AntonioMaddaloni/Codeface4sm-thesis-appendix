@@ -1,0 +1,58 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Spin Glass Community (tr) 1 Community Quality =  0"
+    fontsize=30
+  ];
+  0 [
+    name=1
+    label="XuanYang-cn"
+    fontsize=15
+    fillcolor=grey100
+    style=filled
+    penwidth=2.00771854565037
+  ];
+  1 [
+    name=2
+    label=groot
+    fontsize=49.6321825827867
+    fillcolor=grey70
+    style=filled
+    penwidth=2.00771854565037
+  ];
+  2 [
+    name=3
+    label="wei liu"
+    fontsize=28.7097474983464
+    fillcolor=grey57
+    style=filled
+    penwidth=3.27729376770643
+  ];
+  3 [
+    name=4
+    label=SimFG
+    fontsize=50
+    fillcolor=grey76
+    style=filled
+    penwidth=1
+  ];
+
+  0 -> 1 [
+    weight=6
+  ];
+  0 -> 2 [
+    weight=94
+  ];
+  1 -> 3 [
+    weight=45
+  ];
+  2 -> 1 [
+    weight=455
+  ];
+  2 -> 3 [
+    weight=526
+  ];
+  3 -> 1 [
+    weight=14
+  ];
+}

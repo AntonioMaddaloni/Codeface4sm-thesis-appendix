@@ -1,0 +1,163 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Random Walk Community"
+  ];
+  0 [
+    name=1
+    label=1
+    fontsize=50
+    fillcolor="#1f0000"
+    style=filled
+    penwidth=5
+    pencolor=grey50
+  ];
+  1 [
+    name=2
+    label=2
+    fontsize=15
+    fillcolor="#5f0000"
+    style=filled
+    penwidth=4.84437435374729
+    pencolor=grey50
+  ];
+  2 [
+    name=3
+    label=3
+    fontsize=35.7817540478217
+    fillcolor="#1f0000"
+    style=filled
+    penwidth=1
+    pencolor=grey80
+  ];
+  3 [
+    name=4
+    label=4
+    fontsize=15.3898824520513
+    fillcolor="#1f0000"
+    style=filled
+    penwidth=1
+    pencolor=grey79
+  ];
+  4 [
+    name=5
+    label=5
+    fontsize=15
+    fillcolor="#7f0000"
+    style=filled
+    penwidth=1
+    pencolor=grey98
+  ];
+  5 [
+    name=6
+    label=6
+    fontsize=17.6804418578526
+    fillcolor="#1f0000"
+    style=filled
+    penwidth=2.02383209923926
+    pencolor=grey71
+  ];
+  6 [
+    name=7
+    label=7
+    fontsize=15
+    fillcolor="#9f0000"
+    style=filled
+    penwidth=1
+    pencolor=grey90
+  ];
+  7 [
+    name=8
+    label=8
+    fontsize=20.0312414784593
+    fillcolor="#1f0000"
+    style=filled
+    penwidth=1
+    pencolor=grey76
+  ];
+  8 [
+    name=9
+    label=9
+    fontsize=15
+    fillcolor="#bf0000"
+    style=filled
+    penwidth=1
+    pencolor=grey73
+  ];
+  9 [
+    name=10
+    label=10
+    fontsize=15
+    fillcolor="#df0000"
+    style=filled
+    penwidth=1
+    pencolor=grey100
+  ];
+  10 [
+    name=11
+    label=11
+    fontsize=17.8753830838782
+    fillcolor="#1f0000"
+    style=filled
+    penwidth=1
+    pencolor=grey80
+  ];
+  11 [
+    name=12
+    label=12
+    fontsize=15
+    fillcolor="#3f0000"
+    style=filled
+    penwidth=1
+    pencolor=grey74
+  ];
+  12 [
+    name=13
+    label=13
+    fontsize=31.7430363370832
+    fillcolor="#3f0000"
+    style=filled
+    penwidth=1
+    pencolor=grey73
+  ];
+
+  0 -> 2 [
+    weight=250
+  ];
+  0 -> 3 [
+    weight=8
+  ];
+  0 -> 5 [
+    weight=55
+  ];
+  0 -> 7 [
+    weight=73
+  ];
+  0 -> 10 [
+    weight=59
+  ];
+  0 -> 12 [
+    weight=57
+  ];
+  5 -> 0 [
+    weight=88
+  ];
+  7 -> 0 [
+    weight=113
+  ];
+  7 -> 2 [
+    weight=65
+  ];
+  10 -> 0 [
+    weight=113
+  ];
+  10 -> 2 [
+    weight=32
+  ];
+  10 -> 7 [
+    weight=16
+  ];
+  11 -> 12 [
+    weight=86
+  ];
+}

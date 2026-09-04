@@ -1,0 +1,126 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Random Walk Community 7 Community Quality =  0.145261470647165"
+    fontsize=30
+  ];
+  0 [
+    name=1
+    label="Teal Larson"
+    fontsize=23.4622778931068
+    fillcolor=grey73
+    style=filled
+    penwidth=1.4343506490535
+  ];
+  1 [
+    name=2
+    label="Natik Gadzhi"
+    fontsize=15
+    fillcolor=grey73
+    style=filled
+    penwidth=1.59384908037124
+  ];
+  2 [
+    name=3
+    label=letiescanciano
+    fontsize=22.0737769113846
+    fillcolor=grey69
+    style=filled
+    penwidth=1.7129800300176
+  ];
+  3 [
+    name=4
+    label="Lake Mossman"
+    fontsize=15.3524965853673
+    fillcolor=grey86
+    style=filled
+    penwidth=1
+  ];
+  4 [
+    name=5
+    label="Matteo Palarchio"
+    fontsize=18.5895496293479
+    fillcolor=grey78
+    style=filled
+    penwidth=1.4343506490535
+  ];
+  5 [
+    name=6
+    label="Ian Alton"
+    fontsize=33.3667007397542
+    fillcolor=grey59
+    style=filled
+    penwidth=2.8448453243944
+  ];
+  6 [
+    name=7
+    label=Teo
+    fontsize=18.2628910552204
+    fillcolor=grey82
+    style=filled
+    penwidth=1.98572074547787
+  ];
+  7 [
+    name=8
+    label="Lucas Leadbetter"
+    fontsize=17.5370485502786
+    fillcolor=grey85
+    style=filled
+    penwidth=1.4343506490535
+  ];
+
+  0 -> 2 [
+    weight=48
+  ];
+  0 -> 5 [
+    weight=118
+  ];
+  0 -> 6 [
+    weight=22
+  ];
+  0 -> 7 [
+    weight=2
+  ];
+  2 -> 5 [
+    weight=559
+  ];
+  3 -> 1 [
+    weight=4
+  ];
+  3 -> 5 [
+    weight=18
+  ];
+  4 -> 5 [
+    weight=308
+  ];
+  5 -> 1 [
+    weight=82
+  ];
+  5 -> 2 [
+    weight=484
+  ];
+  5 -> 3 [
+    weight=23
+  ];
+  5 -> 4 [
+    weight=58
+  ];
+  5 -> 6 [
+    weight=35
+  ];
+  6 -> 2 [
+    weight=74
+  ];
+  6 -> 5 [
+    weight=125
+  ];
+  7 -> 2 [
+    weight=46
+  ];
+  7 -> 5 [
+    weight=118
+  ];
+  7 -> 6 [
+    weight=9
+  ];
+}

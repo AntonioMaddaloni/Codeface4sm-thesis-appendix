@@ -1,0 +1,43 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Spin Glass Community"
+  ];
+  0 [
+    name=1
+    label=1
+    fontsize=50
+    fillcolor="#aa0000"
+    style=filled
+    penwidth=2.40855345426679
+    pencolor=grey50
+  ];
+  1 [
+    name=2
+    label=2
+    fontsize=48.1578947368421
+    fillcolor="#aa0000"
+    style=filled
+    penwidth=5
+    pencolor=grey50
+  ];
+  2 [
+    name=3
+    label=3
+    fontsize=15
+    fillcolor="#550000"
+    style=filled
+    penwidth=1
+    pencolor=grey100
+  ];
+
+  0 -> 1 [
+    weight=1133
+  ];
+  0 -> 2 [
+    weight=4
+  ];
+  1 -> 0 [
+    weight=346
+  ];
+}

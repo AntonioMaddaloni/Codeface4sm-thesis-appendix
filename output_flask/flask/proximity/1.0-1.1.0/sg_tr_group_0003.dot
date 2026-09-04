@@ -1,0 +1,82 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Spin Glass Community (tr) 3 Community Quality =  0.546558704453441"
+    fontsize=30
+  ];
+  0 [
+    name=1
+    label="Daniel Pope"
+    fontsize=15.0626079169708
+    fillcolor=grey69
+    style=filled
+    penwidth=2.55852953971023
+  ];
+  1 [
+    name=2
+    label="Jarek Piórkowski"
+    fontsize=17.3956931121702
+    fillcolor=grey75
+    style=filled
+    penwidth=2.04309532104885
+  ];
+  2 [
+    name=3
+    label="Anthony Plunkett"
+    fontsize=15.5402888347883
+    fillcolor=grey75
+    style=filled
+    penwidth=1.57713917079515
+  ];
+  3 [
+    name=4
+    label="Briehan Lombaard"
+    fontsize=16.1140694637016
+    fillcolor=grey91
+    style=filled
+    penwidth=1
+  ];
+  4 [
+    name=5
+    label="Pete Beardmore"
+    fontsize=15.081614786654
+    fillcolor=grey87
+    style=filled
+    penwidth=1
+  ];
+  5 [
+    name=6
+    label=Eruvanos
+    fontsize=15.2020896597037
+    fillcolor=grey84
+    style=filled
+    penwidth=1
+  ];
+  6 [
+    name=7
+    label="Adarsh Sharma"
+    fontsize=15.0486528079329
+    fillcolor=grey86
+    style=filled
+    penwidth=1
+  ];
+
+  0 -> 1 [
+    weight=43
+  ];
+  0 -> 2 [
+    weight=43
+  ];
+  0 -> 4 [
+    weight=6
+  ];
+  0 -> 5 [
+    weight=12
+  ];
+  0 -> 6 [
+    weight=4
+  ];
+  2 -> 3 [
+    weight=4
+  ];
+}

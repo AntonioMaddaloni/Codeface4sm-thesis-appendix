@@ -1,0 +1,255 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Spin Glass Community (tr) 1 Community Quality =  0.738812785388128"
+    fontsize=30
+  ];
+  0 [
+    name=1
+    label=Pi
+    fontsize=15.062107826623
+    fillcolor=grey66
+    style=filled
+    penwidth=4.41366374398558
+  ];
+  1 [
+    name=2
+    label=DaoAdvocate
+    fontsize=16.6550091408634
+    fillcolor=grey81
+    style=filled
+    penwidth=1.72624348969113
+  ];
+  2 [
+    name=3
+    label="chao ma"
+    fontsize=15.190872952132
+    fillcolor=grey84
+    style=filled
+    penwidth=1.96004167275174
+  ];
+  3 [
+    name=4
+    label="Eddie Cohen"
+    fontsize=16.6396753568789
+    fillcolor=grey62
+    style=filled
+    penwidth=3.24224978812134
+  ];
+  4 [
+    name=5
+    label=lengweiping
+    fontsize=15.0607516994135
+    fillcolor=grey87
+    style=filled
+    penwidth=1.42482520786218
+  ];
+  5 [
+    name=6
+    label=Jedakiah
+    fontsize=15.4080792425457
+    fillcolor=grey84
+    style=filled
+    penwidth=1.96004167275174
+  ];
+  6 [
+    name=7
+    label="Yue Liu"
+    fontsize=15.2608728452143
+    fillcolor=grey88
+    style=filled
+    penwidth=1.42482520786218
+  ];
+  7 [
+    name=8
+    label=gucky92
+    fontsize=15.6896031577608
+    fillcolor=grey77
+    style=filled
+    penwidth=1.96004167275174
+  ];
+  8 [
+    name=9
+    label=SBNovaScript
+    fontsize=15.2050723812332
+    fillcolor=grey89
+    style=filled
+    penwidth=1.42482520786218
+  ];
+  9 [
+    name=10
+    label="Will Callender"
+    fontsize=15
+    fillcolor=grey87
+    style=filled
+    penwidth=1.42482520786218
+  ];
+  10 [
+    name=11
+    label=Tmpecho
+    fontsize=15.0247700798434
+    fillcolor=grey94
+    style=filled
+    penwidth=1
+  ];
+  11 [
+    name=12
+    label=rickythefox
+    fontsize=15.0833045776907
+    fillcolor=grey94
+    style=filled
+    penwidth=1
+  ];
+  12 [
+    name=13
+    label=lfricken
+    fontsize=15.368776581725
+    fillcolor=grey80
+    style=filled
+    penwidth=1
+  ];
+  13 [
+    name=14
+    label="Chris Cheney"
+    fontsize=15.0401696537597
+    fillcolor=grey92
+    style=filled
+    penwidth=1
+  ];
+
+  0 -> 1 [
+    weight=6
+  ];
+  1 -> 0 [
+    weight=6
+  ];
+  1 -> 3 [
+    weight=4
+  ];
+  1 -> 5 [
+    weight=3
+  ];
+  1 -> 7 [
+    weight=5
+  ];
+  2 -> 1 [
+    weight=2
+  ];
+  2 -> 3 [
+    weight=2
+  ];
+  2 -> 5 [
+    weight=3
+  ];
+  2 -> 7 [
+    weight=3
+  ];
+  4 -> 1 [
+    weight=5
+  ];
+  4 -> 2 [
+    weight=5
+  ];
+  4 -> 3 [
+    weight=5
+  ];
+  4 -> 5 [
+    weight=6
+  ];
+  4 -> 7 [
+    weight=6
+  ];
+  4 -> 8 [
+    weight=9
+  ];
+  5 -> 3 [
+    weight=3
+  ];
+  6 -> 3 [
+    weight=4
+  ];
+  7 -> 3 [
+    weight=11
+  ];
+  7 -> 5 [
+    weight=4
+  ];
+  8 -> 1 [
+    weight=6
+  ];
+  8 -> 2 [
+    weight=6
+  ];
+  8 -> 3 [
+    weight=6
+  ];
+  8 -> 5 [
+    weight=7
+  ];
+  8 -> 7 [
+    weight=7
+  ];
+  9 -> 1 [
+    weight=7
+  ];
+  9 -> 2 [
+    weight=3
+  ];
+  9 -> 3 [
+    weight=5
+  ];
+  9 -> 4 [
+    weight=6
+  ];
+  9 -> 5 [
+    weight=4
+  ];
+  9 -> 7 [
+    weight=6
+  ];
+  9 -> 8 [
+    weight=7
+  ];
+  9 -> 10 [
+    weight=7
+  ];
+  9 -> 11 [
+    weight=8
+  ];
+  9 -> 12 [
+    weight=19
+  ];
+  10 -> 11 [
+    weight=3
+  ];
+  10 -> 12 [
+    weight=14
+  ];
+  12 -> 1 [
+    weight=18
+  ];
+  12 -> 2 [
+    weight=3
+  ];
+  12 -> 3 [
+    weight=9
+  ];
+  12 -> 4 [
+    weight=6
+  ];
+  12 -> 5 [
+    weight=4
+  ];
+  12 -> 7 [
+    weight=10
+  ];
+  12 -> 8 [
+    weight=7
+  ];
+  13 -> 3 [
+    weight=10
+  ];
+  13 -> 6 [
+    weight=6
+  ];
+}

@@ -1,0 +1,664 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Spin Glass Community"
+  ];
+  0 [
+    name=1
+    label=1
+    fontsize=50
+    fillcolor="#1a0000"
+    style=filled
+    penwidth=3.71330314426812
+    pencolor=grey59
+  ];
+  1 [
+    name=2
+    label=2
+    fontsize=15.1101387937224
+    fillcolor="#1a0000"
+    style=filled
+    penwidth=1
+    pencolor=grey83
+  ];
+  2 [
+    name=3
+    label=3
+    fontsize=15
+    fillcolor="#1a0000"
+    style=filled
+    penwidth=1
+    pencolor=grey90
+  ];
+  3 [
+    name=4
+    label=4
+    fontsize=15
+    fillcolor="#280000"
+    style=filled
+    penwidth=5
+    pencolor=grey50
+  ];
+  4 [
+    name=5
+    label=5
+    fontsize=15
+    fillcolor="#350000"
+    style=filled
+    penwidth=1
+    pencolor=grey94
+  ];
+  5 [
+    name=6
+    label=6
+    fontsize=15
+    fillcolor="#430000"
+    style=filled
+    penwidth=1
+    pencolor=grey86
+  ];
+  6 [
+    name=7
+    label=7
+    fontsize=25.8409125105357
+    fillcolor="#1a0000"
+    style=filled
+    penwidth=4.03227138429143
+    pencolor=grey62
+  ];
+  7 [
+    name=8
+    label=8
+    fontsize=15.5293434862181
+    fillcolor="#1a0000"
+    style=filled
+    penwidth=1
+    pencolor=grey76
+  ];
+  8 [
+    name=9
+    label=9
+    fontsize=22.6435198954869
+    fillcolor="#0d0000"
+    style=filled
+    penwidth=2.77442707319191
+    pencolor=grey58
+  ];
+  9 [
+    name=10
+    label=10
+    fontsize=15
+    fillcolor="#500000"
+    style=filled
+    penwidth=1.38437195657757
+    pencolor=grey94
+  ];
+  10 [
+    name=11
+    label=11
+    fontsize=15.0252696394424
+    fillcolor="#1a0000"
+    style=filled
+    penwidth=1
+    pencolor=grey70
+  ];
+  11 [
+    name=12
+    label=12
+    fontsize=15.4682738709108
+    fillcolor="#1a0000"
+    style=filled
+    penwidth=2.18759159222162
+    pencolor=grey76
+  ];
+  12 [
+    name=13
+    label=13
+    fontsize=20.4458829153358
+    fillcolor="#1a0000"
+    style=filled
+    penwidth=1.6570881998482
+    pencolor=grey76
+  ];
+  13 [
+    name=14
+    label=14
+    fontsize=15.3185327784203
+    fillcolor="#1a0000"
+    style=filled
+    penwidth=1
+    pencolor=grey92
+  ];
+  14 [
+    name=15
+    label=15
+    fontsize=15.0336528054454
+    fillcolor="#1a0000"
+    style=filled
+    penwidth=1
+    pencolor=grey95
+  ];
+  15 [
+    name=16
+    label=16
+    fontsize=18.7612119003098
+    fillcolor="#1a0000"
+    style=filled
+    penwidth=3.1827997518947
+    pencolor=grey57
+  ];
+  16 [
+    name=17
+    label=17
+    fontsize=15
+    fillcolor="#5d0000"
+    style=filled
+    penwidth=4.2083271318065
+    pencolor=grey79
+  ];
+  17 [
+    name=18
+    label=18
+    fontsize=39.6793828564631
+    fillcolor="#1a0000"
+    style=filled
+    penwidth=3.1827997518947
+    pencolor=grey60
+  ];
+  18 [
+    name=19
+    label=19
+    fontsize=15
+    fillcolor="#6b0000"
+    style=filled
+    penwidth=1
+    pencolor=grey80
+  ];
+  19 [
+    name=20
+    label=20
+    fontsize=15
+    fillcolor="#780000"
+    style=filled
+    penwidth=1
+    pencolor=grey83
+  ];
+  20 [
+    name=21
+    label=21
+    fontsize=15
+    fillcolor="#860000"
+    style=filled
+    penwidth=1
+    pencolor=grey95
+  ];
+  21 [
+    name=22
+    label=22
+    fontsize=15.0309034521381
+    fillcolor="#1a0000"
+    style=filled
+    penwidth=1
+    pencolor=grey88
+  ];
+  22 [
+    name=23
+    label=23
+    fontsize=17.0716751127596
+    fillcolor="#0d0000"
+    style=filled
+    penwidth=1
+    pencolor=grey79
+  ];
+  23 [
+    name=24
+    label=24
+    fontsize=16.3571631761819
+    fillcolor="#1a0000"
+    style=filled
+    penwidth=1
+    pencolor=grey74
+  ];
+  24 [
+    name=25
+    label=25
+    fontsize=15
+    fillcolor="#930000"
+    style=filled
+    penwidth=1
+    pencolor=grey93
+  ];
+  25 [
+    name=26
+    label=26
+    fontsize=15.1037473036063
+    fillcolor="#0d0000"
+    style=filled
+    penwidth=1.38437195657757
+    pencolor=grey84
+  ];
+  26 [
+    name=27
+    label=27
+    fontsize=18.31313204395
+    fillcolor="#0d0000"
+    style=filled
+    penwidth=1
+    pencolor=grey89
+  ];
+  27 [
+    name=28
+    label=28
+    fontsize=15
+    fillcolor="#1a0000"
+    style=filled
+    penwidth=1
+    pencolor=grey95
+  ];
+  28 [
+    name=29
+    label=29
+    fontsize=15
+    fillcolor="#a10000"
+    style=filled
+    penwidth=1
+    pencolor=grey97
+  ];
+  29 [
+    name=30
+    label=30
+    fontsize=15
+    fillcolor="#ae0000"
+    style=filled
+    penwidth=1
+    pencolor=grey84
+  ];
+  30 [
+    name=31
+    label=31
+    fontsize=15.0588008270143
+    fillcolor="#1a0000"
+    style=filled
+    penwidth=1
+    pencolor=grey86
+  ];
+  31 [
+    name=32
+    label=32
+    fontsize=15
+    fillcolor="#bb0000"
+    style=filled
+    penwidth=1
+    pencolor=grey82
+  ];
+  32 [
+    name=33
+    label=33
+    fontsize=15
+    fillcolor="#c90000"
+    style=filled
+    penwidth=1
+    pencolor=grey93
+  ];
+  33 [
+    name=34
+    label=34
+    fontsize=15
+    fillcolor="#1a0000"
+    style=filled
+    penwidth=1
+    pencolor=grey96
+  ];
+  34 [
+    name=35
+    label=35
+    fontsize=15.0286960626996
+    fillcolor="#1a0000"
+    style=filled
+    penwidth=1.38437195657757
+    pencolor=grey94
+  ];
+  35 [
+    name=36
+    label=36
+    fontsize=15.6614466664391
+    fillcolor="#0d0000"
+    style=filled
+    penwidth=1
+    pencolor=grey79
+  ];
+  36 [
+    name=37
+    label=37
+    fontsize=15
+    fillcolor="#0d0000"
+    style=filled
+    penwidth=1
+    pencolor=grey100
+  ];
+  37 [
+    name=38
+    label=38
+    fontsize=15
+    fillcolor="#d60000"
+    style=filled
+    penwidth=1
+    pencolor=grey97
+  ];
+  38 [
+    name=39
+    label=39
+    fontsize=15
+    fillcolor="#e40000"
+    style=filled
+    penwidth=1
+    pencolor=grey100
+  ];
+  39 [
+    name=40
+    label=40
+    fontsize=15
+    fillcolor="#f10000"
+    style=filled
+    penwidth=1
+    pencolor=grey88
+  ];
+
+  0 -> 6 [
+    weight=278
+  ];
+  0 -> 8 [
+    weight=35
+  ];
+  0 -> 12 [
+    weight=120
+  ];
+  0 -> 14 [
+    weight=2
+  ];
+  0 -> 17 [
+    weight=795
+  ];
+  0 -> 23 [
+    weight=133
+  ];
+  0 -> 26 [
+    weight=25
+  ];
+  1 -> 0 [
+    weight=48
+  ];
+  1 -> 11 [
+    weight=17
+  ];
+  1 -> 17 [
+    weight=122
+  ];
+  2 -> 0 [
+    weight=24
+  ];
+  2 -> 6 [
+    weight=16
+  ];
+  6 -> 0 [
+    weight=929
+  ];
+  6 -> 1 [
+    weight=39
+  ];
+  6 -> 8 [
+    weight=502
+  ];
+  6 -> 10 [
+    weight=6
+  ];
+  6 -> 11 [
+    weight=28
+  ];
+  6 -> 12 [
+    weight=286
+  ];
+  6 -> 14 [
+    weight=6
+  ];
+  6 -> 15 [
+    weight=116
+  ];
+  6 -> 17 [
+    weight=983
+  ];
+  6 -> 21 [
+    weight=14
+  ];
+  6 -> 22 [
+    weight=96
+  ];
+  6 -> 25 [
+    weight=47
+  ];
+  6 -> 26 [
+    weight=46
+  ];
+  6 -> 30 [
+    weight=2
+  ];
+  6 -> 34 [
+    weight=13
+  ];
+  6 -> 35 [
+    weight=20
+  ];
+  7 -> 0 [
+    weight=126
+  ];
+  7 -> 6 [
+    weight=21
+  ];
+  7 -> 15 [
+    weight=27
+  ];
+  7 -> 17 [
+    weight=22
+  ];
+  8 -> 0 [
+    weight=428
+  ];
+  8 -> 1 [
+    weight=6
+  ];
+  8 -> 6 [
+    weight=296
+  ];
+  8 -> 7 [
+    weight=5
+  ];
+  8 -> 10 [
+    weight=3
+  ];
+  8 -> 11 [
+    weight=4
+  ];
+  8 -> 12 [
+    weight=18
+  ];
+  8 -> 15 [
+    weight=2
+  ];
+  8 -> 17 [
+    weight=294
+  ];
+  8 -> 22 [
+    weight=180
+  ];
+  8 -> 26 [
+    weight=96
+  ];
+  8 -> 35 [
+    weight=154
+  ];
+  10 -> 0 [
+    weight=63
+  ];
+  10 -> 6 [
+    weight=6
+  ];
+  10 -> 7 [
+    weight=7
+  ];
+  10 -> 11 [
+    weight=4
+  ];
+  10 -> 15 [
+    weight=17
+  ];
+  10 -> 17 [
+    weight=169
+  ];
+  10 -> 30 [
+    weight=4
+  ];
+  11 -> 0 [
+    weight=135
+  ];
+  11 -> 6 [
+    weight=24
+  ];
+  11 -> 8 [
+    weight=6
+  ];
+  11 -> 15 [
+    weight=4
+  ];
+  11 -> 17 [
+    weight=64
+  ];
+  13 -> 0 [
+    weight=28
+  ];
+  13 -> 17 [
+    weight=36
+  ];
+  15 -> 0 [
+    weight=128
+  ];
+  15 -> 6 [
+    weight=23
+  ];
+  15 -> 8 [
+    weight=62
+  ];
+  15 -> 13 [
+    weight=23
+  ];
+  15 -> 17 [
+    weight=110
+  ];
+  17 -> 0 [
+    weight=93
+  ];
+  17 -> 6 [
+    weight=35
+  ];
+  17 -> 8 [
+    weight=116
+  ];
+  17 -> 12 [
+    weight=137
+  ];
+  17 -> 15 [
+    weight=50
+  ];
+  22 -> 0 [
+    weight=113
+  ];
+  22 -> 6 [
+    weight=37
+  ];
+  22 -> 8 [
+    weight=24
+  ];
+  22 -> 15 [
+    weight=2
+  ];
+  22 -> 17 [
+    weight=37
+  ];
+  22 -> 26 [
+    weight=2
+  ];
+  25 -> 0 [
+    weight=49
+  ];
+  25 -> 6 [
+    weight=6
+  ];
+  25 -> 8 [
+    weight=95
+  ];
+  25 -> 15 [
+    weight=21
+  ];
+  25 -> 17 [
+    weight=31
+  ];
+  26 -> 0 [
+    weight=18
+  ];
+  26 -> 17 [
+    weight=2
+  ];
+  27 -> 0 [
+    weight=6
+  ];
+  30 -> 0 [
+    weight=27
+  ];
+  30 -> 6 [
+    weight=8
+  ];
+  30 -> 7 [
+    weight=9
+  ];
+  30 -> 15 [
+    weight=21
+  ];
+  30 -> 17 [
+    weight=15
+  ];
+  33 -> 0 [
+    weight=15
+  ];
+  33 -> 6 [
+    weight=3
+  ];
+  33 -> 17 [
+    weight=4
+  ];
+  35 -> 0 [
+    weight=95
+  ];
+  35 -> 6 [
+    weight=81
+  ];
+  35 -> 8 [
+    weight=2
+  ];
+  35 -> 17 [
+    weight=20
+  ];
+  35 -> 22 [
+    weight=84
+  ];
+  35 -> 26 [
+    weight=3
+  ];
+  36 -> 0 [
+    weight=5
+  ];
+  36 -> 6 [
+    weight=3
+  ];
+  36 -> 26 [
+    weight=17
+  ];
+}

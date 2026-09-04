@@ -1,0 +1,4 @@
+99820311	99820317	99820318
+TPM2_Native_TestArgs	TPM2_Native_TestArgs	None
+None	wolfTPM2_SetKeyBlobFromBuffer	File_Level
+None	wolfTPM2_SetKeyBlobFromBuffer	None

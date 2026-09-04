@@ -1,0 +1,27 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Random Walk Community 4 Community Quality =  0.414634146341463"
+    fontsize=30
+  ];
+  0 [
+    name=1
+    label="Kris Concepcion"
+    fontsize=15
+    fillcolor=grey72
+    style=filled
+    penwidth=1.34212315868653
+  ];
+  1 [
+    name=2
+    label="Victor Sun"
+    fontsize=18.9429914035335
+    fillcolor=grey71
+    style=filled
+    penwidth=1.34212315868653
+  ];
+
+  1 -> 0 [
+    weight=144
+  ];
+}

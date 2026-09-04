@@ -1,0 +1,6 @@
+99820311	99820328	99820331	99820335	99820336
+TPM2_Wrapper_HmacArgs	File_Level	TPM2_LINUX_SendCommand	None	File_Level
+None	esp_spi_master_init	None	None	None
+None	None	None	None	None
+None	None	None	None	None
+None	None	None	None	None

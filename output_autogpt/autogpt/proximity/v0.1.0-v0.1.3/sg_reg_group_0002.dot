@@ -1,0 +1,121 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Spin Glass Community 2 Community Quality =  0.408415841584158"
+    fontsize=30
+  ];
+  0 [
+    name=1
+    label="Maiko Bossuyt"
+    fontsize=34.3356455764404
+    fillcolor=grey55
+    style=filled
+    penwidth=4.49820450137858
+  ];
+  1 [
+    name=2
+    label="Yossi Marouani"
+    fontsize=19.4434134246387
+    fillcolor=grey95
+    style=filled
+    penwidth=1.4658858311442
+  ];
+  2 [
+    name=3
+    label="Eesa Hamza"
+    fontsize=50
+    fillcolor=grey61
+    style=filled
+    penwidth=4.14926859807388
+  ];
+  3 [
+    name=4
+    label="Itamar Friedman"
+    fontsize=21.2941317852003
+    fillcolor=grey56
+    style=filled
+    penwidth=3.58676993351079
+  ];
+  4 [
+    name=5
+    label="II Miller"
+    fontsize=34.2260780969376
+    fillcolor=grey72
+    style=filled
+    penwidth=3.15073034765468
+  ];
+  5 [
+    name=6
+    label=WalterSumbon
+    fontsize=20.2175809222595
+    fillcolor=grey90
+    style=filled
+    penwidth=1.4658858311442
+  ];
+  6 [
+    name=7
+    label="Kory Becker"
+    fontsize=24.1289453842236
+    fillcolor=grey79
+    style=filled
+    penwidth=2.05283256352366
+  ];
+
+  0 -> 1 [
+    weight=2
+  ];
+  0 -> 2 [
+    weight=4
+  ];
+  0 -> 4 [
+    weight=2
+  ];
+  0 -> 6 [
+    weight=2
+  ];
+  1 -> 0 [
+    weight=3
+  ];
+  1 -> 2 [
+    weight=4
+  ];
+  1 -> 4 [
+    weight=2
+  ];
+  2 -> 0 [
+    weight=6
+  ];
+  2 -> 4 [
+    weight=103
+  ];
+  2 -> 5 [
+    weight=27
+  ];
+  3 -> 0 [
+    weight=6
+  ];
+  4 -> 0 [
+    weight=3
+  ];
+  4 -> 2 [
+    weight=36
+  ];
+  5 -> 2 [
+    weight=10
+  ];
+  5 -> 4 [
+    weight=18
+  ];
+  6 -> 0 [
+    weight=3
+  ];
+  6 -> 1 [
+    weight=2
+  ];
+  6 -> 2 [
+    weight=4
+  ];
+  6 -> 4 [
+    weight=2
+  ];
+}

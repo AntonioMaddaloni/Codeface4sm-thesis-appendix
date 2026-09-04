@@ -1,0 +1,27 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Spin Glass Community 1 Community Quality =  0.885057471264368"
+    fontsize=30
+  ];
+  0 [
+    name=1
+    label="Mathurshan Vimalesvaran"
+    fontsize=15.0373422053405
+    fillcolor=grey88
+    style=filled
+    penwidth=1
+  ];
+  1 [
+    name=2
+    label="Doron Horwitz"
+    fontsize=15
+    fillcolor=grey81
+    style=filled
+    penwidth=1
+  ];
+
+  0 -> 1 [
+    weight=5
+  ];
+}

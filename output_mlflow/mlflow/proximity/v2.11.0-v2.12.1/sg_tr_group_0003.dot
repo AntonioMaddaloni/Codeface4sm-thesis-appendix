@@ -1,0 +1,38 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Spin Glass Community (tr) 3 Community Quality =  0.375064135454079"
+    fontsize=30
+  ];
+  0 [
+    name=1
+    label="Ben Wilson"
+    fontsize=15
+    fillcolor=grey66
+    style=filled
+    penwidth=2.74262907211465
+  ];
+  1 [
+    name=2
+    label="Michael Berk"
+    fontsize=28.166212192137
+    fillcolor=grey73
+    style=filled
+    penwidth=1.59948216652779
+  ];
+  2 [
+    name=3
+    label="Brynn Yin"
+    fontsize=21.8110183879055
+    fillcolor=grey65
+    style=filled
+    penwidth=1.79247231831703
+  ];
+
+  0 -> 1 [
+    weight=358
+  ];
+  0 -> 2 [
+    weight=251
+  ];
+}

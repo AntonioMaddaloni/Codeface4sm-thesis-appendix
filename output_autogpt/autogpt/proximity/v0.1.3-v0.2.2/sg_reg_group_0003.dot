@@ -1,0 +1,512 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Spin Glass Community 3 Community Quality =  0.399968592964824"
+    fontsize=30
+  ];
+  0 [
+    name=1
+    label="Drikus Roor"
+    fontsize=15.1031783215807
+    fillcolor=grey75
+    style=filled
+    penwidth=2.15106869755331
+  ];
+  1 [
+    name=2
+    label=merwanehamadi
+    fontsize=50
+    fillcolor=grey57
+    style=filled
+    penwidth=4.71003262866306
+  ];
+  2 [
+    name=3
+    label=EH
+    fontsize=28.1971501654643
+    fillcolor=grey67
+    style=filled
+    penwidth=3.90497395876452
+  ];
+  3 [
+    name=4
+    label=GyDi
+    fontsize=15.1398458874686
+    fillcolor=grey91
+    style=filled
+    penwidth=1.96004167275174
+  ];
+  4 [
+    name=5
+    label="Reinier van der Leer"
+    fontsize=24.7418295349081
+    fillcolor=grey64
+    style=filled
+    penwidth=3.64632683519462
+  ];
+  5 [
+    name=6
+    label=BillSchumacher
+    fontsize=49.034108417812
+    fillcolor=grey52
+    style=filled
+    penwidth=4.2145459617517
+  ];
+  6 [
+    name=7
+    label=yueliu1999
+    fontsize=15.0572490677175
+    fillcolor=grey97
+    style=filled
+    penwidth=1
+  ];
+  7 [
+    name=8
+    label=CalCameron
+    fontsize=15
+    fillcolor=grey79
+    style=filled
+    penwidth=1.42482520786218
+  ];
+  8 [
+    name=9
+    label=cs0lar
+    fontsize=15.2466218058285
+    fillcolor=grey64
+    style=filled
+    penwidth=4.2145459617517
+  ];
+  9 [
+    name=10
+    label=Tymec
+    fontsize=19.2097949066952
+    fillcolor=grey65
+    style=filled
+    penwidth=3.87170932737915
+  ];
+  10 [
+    name=11
+    label=BingokoN
+    fontsize=21.4675707390208
+    fillcolor=grey62
+    style=filled
+    penwidth=2.31257974570555
+  ];
+  11 [
+    name=12
+    label="Summit Suen"
+    fontsize=15.0327137529814
+    fillcolor=grey81
+    style=filled
+    penwidth=1.42482520786218
+  ];
+  12 [
+    name=13
+    label=Steve
+    fontsize=16.5093565226177
+    fillcolor=grey85
+    style=filled
+    penwidth=2.15106869755331
+  ];
+  13 [
+    name=14
+    label="Josh XT"
+    fontsize=18.6869314039658
+    fillcolor=grey87
+    style=filled
+    penwidth=1
+  ];
+  14 [
+    name=15
+    label="Omri Grossman"
+    fontsize=15
+    fillcolor=grey70
+    style=filled
+    penwidth=2.78614620137585
+  ];
+  15 [
+    name=16
+    label="Void&Null"
+    fontsize=15
+    fillcolor=grey72
+    style=filled
+    penwidth=1.72624348969113
+  ];
+  16 [
+    name=17
+    label=youkaichao
+    fontsize=15.8080697339126
+    fillcolor=grey79
+    style=filled
+    penwidth=1.96004167275174
+  ];
+  17 [
+    name=18
+    label="Jacob Hahn"
+    fontsize=15
+    fillcolor=grey90
+    style=filled
+    penwidth=1.42482520786218
+  ];
+  18 [
+    name=19
+    label=zvrr
+    fontsize=15.4350102670343
+    fillcolor=grey97
+    style=filled
+    penwidth=1
+  ];
+  19 [
+    name=20
+    label=hyaxia
+    fontsize=15.7516757018157
+    fillcolor=grey88
+    style=filled
+    penwidth=1.96004167275174
+  ];
+  20 [
+    name=21
+    label=bszollosinagy
+    fontsize=20.2194108551066
+    fillcolor=grey77
+    style=filled
+    penwidth=1
+  ];
+  21 [
+    name=22
+    label=REal0day
+    fontsize=15.322208840759
+    fillcolor=grey86
+    style=filled
+    penwidth=1
+  ];
+  22 [
+    name=23
+    label="Gabriel R. Barbosa"
+    fontsize=15.0981412589443
+    fillcolor=grey97
+    style=filled
+    penwidth=1
+  ];
+  23 [
+    name=24
+    label=chyezh
+    fontsize=15.5671132091218
+    fillcolor=grey68
+    style=filled
+    penwidth=1.96004167275174
+  ];
+  24 [
+    name=25
+    label="H-jj-R"
+    fontsize=17.7642338850334
+    fillcolor=grey81
+    style=filled
+    penwidth=1.42482520786218
+  ];
+  25 [
+    name=26
+    label=Acer
+    fontsize=15.2016663202387
+    fillcolor=grey94
+    style=filled
+    penwidth=1.42482520786218
+  ];
+  26 [
+    name=27
+    label="Benedict Hobart"
+    fontsize=15.7430967699018
+    fillcolor=grey90
+    style=filled
+    penwidth=1
+  ];
+
+  0 -> 5 [
+    weight=9
+  ];
+  1 -> 0 [
+    weight=9
+  ];
+  1 -> 2 [
+    weight=131
+  ];
+  1 -> 4 [
+    weight=24
+  ];
+  1 -> 5 [
+    weight=678
+  ];
+  1 -> 7 [
+    weight=6
+  ];
+  1 -> 8 [
+    weight=50
+  ];
+  1 -> 14 [
+    weight=14
+  ];
+  1 -> 15 [
+    weight=13
+  ];
+  1 -> 19 [
+    weight=12
+  ];
+  1 -> 21 [
+    weight=19
+  ];
+  1 -> 23 [
+    weight=25
+  ];
+  1 -> 25 [
+    weight=3
+  ];
+  2 -> 1 [
+    weight=7
+  ];
+  2 -> 4 [
+    weight=10
+  ];
+  2 -> 5 [
+    weight=301
+  ];
+  2 -> 7 [
+    weight=5
+  ];
+  2 -> 8 [
+    weight=5
+  ];
+  2 -> 15 [
+    weight=68
+  ];
+  2 -> 16 [
+    weight=4
+  ];
+  2 -> 19 [
+    weight=26
+  ];
+  2 -> 23 [
+    weight=18
+  ];
+  2 -> 26 [
+    weight=4
+  ];
+  3 -> 5 [
+    weight=14
+  ];
+  4 -> 1 [
+    weight=19
+  ];
+  4 -> 2 [
+    weight=38
+  ];
+  4 -> 5 [
+    weight=240
+  ];
+  4 -> 7 [
+    weight=10
+  ];
+  4 -> 9 [
+    weight=4
+  ];
+  4 -> 12 [
+    weight=5
+  ];
+  4 -> 13 [
+    weight=7
+  ];
+  4 -> 15 [
+    weight=20
+  ];
+  4 -> 16 [
+    weight=2
+  ];
+  4 -> 23 [
+    weight=19
+  ];
+  4 -> 26 [
+    weight=2
+  ];
+  5 -> 0 [
+    weight=52
+  ];
+  5 -> 1 [
+    weight=159
+  ];
+  5 -> 2 [
+    weight=26
+  ];
+  5 -> 4 [
+    weight=40
+  ];
+  5 -> 7 [
+    weight=31
+  ];
+  5 -> 8 [
+    weight=9
+  ];
+  5 -> 9 [
+    weight=135
+  ];
+  5 -> 10 [
+    weight=24
+  ];
+  5 -> 11 [
+    weight=5
+  ];
+  5 -> 13 [
+    weight=6
+  ];
+  5 -> 15 [
+    weight=192
+  ];
+  5 -> 16 [
+    weight=6
+  ];
+  5 -> 17 [
+    weight=4
+  ];
+  5 -> 23 [
+    weight=121
+  ];
+  6 -> 5 [
+    weight=7
+  ];
+  8 -> 1 [
+    weight=4
+  ];
+  8 -> 23 [
+    weight=5
+  ];
+  9 -> 1 [
+    weight=6
+  ];
+  9 -> 2 [
+    weight=8
+  ];
+  9 -> 4 [
+    weight=56
+  ];
+  9 -> 5 [
+    weight=135
+  ];
+  9 -> 23 [
+    weight=7
+  ];
+  10 -> 1 [
+    weight=112
+  ];
+  10 -> 5 [
+    weight=42
+  ];
+  11 -> 5 [
+    weight=4
+  ];
+  12 -> 5 [
+    weight=38
+  ];
+  12 -> 6 [
+    weight=9
+  ];
+  12 -> 7 [
+    weight=12
+  ];
+  13 -> 1 [
+    weight=16
+  ];
+  13 -> 2 [
+    weight=13
+  ];
+  13 -> 4 [
+    weight=42
+  ];
+  13 -> 5 [
+    weight=25
+  ];
+  13 -> 7 [
+    weight=2
+  ];
+  13 -> 9 [
+    weight=6
+  ];
+  13 -> 23 [
+    weight=7
+  ];
+  16 -> 2 [
+    weight=14
+  ];
+  16 -> 5 [
+    weight=48
+  ];
+  16 -> 15 [
+    weight=38
+  ];
+  18 -> 5 [
+    weight=7
+  ];
+  18 -> 11 [
+    weight=3
+  ];
+  19 -> 5 [
+    weight=70
+  ];
+  20 -> 1 [
+    weight=17
+  ];
+  20 -> 2 [
+    weight=10
+  ];
+  20 -> 4 [
+    weight=19
+  ];
+  20 -> 5 [
+    weight=136
+  ];
+  20 -> 9 [
+    weight=7
+  ];
+  20 -> 13 [
+    weight=7
+  ];
+  20 -> 15 [
+    weight=26
+  ];
+  20 -> 23 [
+    weight=8
+  ];
+  21 -> 5 [
+    weight=27
+  ];
+  22 -> 5 [
+    weight=12
+  ];
+  23 -> 1 [
+    weight=7
+  ];
+  23 -> 5 [
+    weight=9
+  ];
+  24 -> 5 [
+    weight=92
+  ];
+  24 -> 23 [
+    weight=12
+  ];
+  25 -> 5 [
+    weight=11
+  ];
+  25 -> 15 [
+    weight=2
+  ];
+  26 -> 2 [
+    weight=14
+  ];
+  26 -> 5 [
+    weight=16
+  ];
+  26 -> 15 [
+    weight=20
+  ];
+  26 -> 16 [
+    weight=2
+  ];
+}

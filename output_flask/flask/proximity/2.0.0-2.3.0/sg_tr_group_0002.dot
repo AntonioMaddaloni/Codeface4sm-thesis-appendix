@@ -1,0 +1,423 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Spin Glass Community (tr) 2 Community Quality =  0.125241913187725"
+    fontsize=30
+  ];
+  0 [
+    name=1
+    label="David Lord"
+    fontsize=50
+    fillcolor=grey50
+    style=filled
+    penwidth=5
+  ];
+  1 [
+    name=2
+    label="Adrian Moennich"
+    fontsize=15.0068576343089
+    fillcolor=grey83
+    style=filled
+    penwidth=1.78416824478463
+  ];
+  2 [
+    name=3
+    label="Phil Jones"
+    fontsize=24.7881526974898
+    fillcolor=grey65
+    style=filled
+    penwidth=3.25340596002155
+  ];
+  3 [
+    name=4
+    label="Colin Adams"
+    fontsize=16.1228714573865
+    fillcolor=grey96
+    style=filled
+    penwidth=1
+  ];
+  4 [
+    name=5
+    label="Henry Kobin"
+    fontsize=15
+    fillcolor=grey90
+    style=filled
+    penwidth=1
+  ];
+  5 [
+    name=6
+    label="Kevin Kirsche"
+    fontsize=15.0445746230081
+    fillcolor=grey86
+    style=filled
+    penwidth=1.65403063695681
+  ];
+  6 [
+    name=7
+    label="Yourun-Proger"
+    fontsize=16.3014792189132
+    fillcolor=grey84
+    style=filled
+    penwidth=1.49475507744053
+  ];
+  7 [
+    name=8
+    label=dzcode
+    fontsize=16.875890375283
+    fillcolor=grey80
+    style=filled
+    penwidth=1
+  ];
+  8 [
+    name=9
+    label="Tushar Sadhwani"
+    fontsize=16.1463075675883
+    fillcolor=grey84
+    style=filled
+    penwidth=1.2894131673441
+  ];
+  9 [
+    name=10
+    label="Pedro Torcatt"
+    fontsize=16.9491748859666
+    fillcolor=grey89
+    style=filled
+    penwidth=1.65403063695681
+  ];
+  10 [
+    name=11
+    label="Evgeny Prigorodov"
+    fontsize=15.0891492460162
+    fillcolor=grey82
+    style=filled
+    penwidth=1
+  ];
+  11 [
+    name=12
+    label="Alex Hedges"
+    fontsize=25.2827013721183
+    fillcolor=grey83
+    style=filled
+    penwidth=1.65403063695681
+  ];
+  12 [
+    name=13
+    label="Ivan Sushkov"
+    fontsize=15.8905393161349
+    fillcolor=grey81
+    style=filled
+    penwidth=1
+  ];
+  13 [
+    name=14
+    label="Tim Hoagland"
+    fontsize=16.2751346783654
+    fillcolor=grey83
+    style=filled
+    penwidth=1
+  ];
+  14 [
+    name=15
+    label="Stanislav Bushuev"
+    fontsize=18.5220311911139
+    fillcolor=grey85
+    style=filled
+    penwidth=1.49475507744053
+  ];
+  15 [
+    name=16
+    label="Chris Hallacy"
+    fontsize=15.2241109516043
+    fillcolor=grey89
+    style=filled
+    penwidth=1
+  ];
+  16 [
+    name=17
+    label="Evgeny Mozhaev"
+    fontsize=15.0171440857723
+    fillcolor=grey91
+    style=filled
+    penwidth=1
+  ];
+  17 [
+    name=18
+    label="Qingpeng Li"
+    fontsize=15.0788627945528
+    fillcolor=grey81
+    style=filled
+    penwidth=1
+  ];
+  18 [
+    name=19
+    label="Bhushan Mohanraj"
+    fontsize=15
+    fillcolor=grey95
+    style=filled
+    penwidth=1
+  ];
+  19 [
+    name=20
+    label="Mickaël Guérin"
+    fontsize=18.0787941046357
+    fillcolor=grey85
+    style=filled
+    penwidth=1
+  ];
+  20 [
+    name=21
+    label="James Warne"
+    fontsize=15.3428817154468
+    fillcolor=grey90
+    style=filled
+    penwidth=1
+  ];
+  21 [
+    name=22
+    label=uedvt359
+    fontsize=15
+    fillcolor=grey90
+    style=filled
+    penwidth=1
+  ];
+  22 [
+    name=23
+    label=Numerlor
+    fontsize=15.0548610744715
+    fillcolor=grey95
+    style=filled
+    penwidth=1.2894131673441
+  ];
+
+  0 -> 1 [
+    weight=2
+  ];
+  0 -> 2 [
+    weight=1086
+  ];
+  0 -> 3 [
+    weight=74
+  ];
+  0 -> 5 [
+    weight=13
+  ];
+  0 -> 6 [
+    weight=82
+  ];
+  0 -> 7 [
+    weight=281
+  ];
+  0 -> 8 [
+    weight=55
+  ];
+  0 -> 9 [
+    weight=74
+  ];
+  0 -> 10 [
+    weight=26
+  ];
+  0 -> 11 [
+    weight=198
+  ];
+  0 -> 12 [
+    weight=223
+  ];
+  0 -> 13 [
+    weight=174
+  ];
+  0 -> 14 [
+    weight=389
+  ];
+  0 -> 15 [
+    weight=47
+  ];
+  0 -> 16 [
+    weight=5
+  ];
+  0 -> 17 [
+    weight=23
+  ];
+  0 -> 19 [
+    weight=195
+  ];
+  0 -> 20 [
+    weight=100
+  ];
+  0 -> 22 [
+    weight=16
+  ];
+  2 -> 0 [
+    weight=858
+  ];
+  2 -> 3 [
+    weight=18
+  ];
+  2 -> 6 [
+    weight=22
+  ];
+  2 -> 7 [
+    weight=50
+  ];
+  2 -> 8 [
+    weight=21
+  ];
+  2 -> 9 [
+    weight=18
+  ];
+  2 -> 11 [
+    weight=70
+  ];
+  2 -> 12 [
+    weight=36
+  ];
+  2 -> 13 [
+    weight=21
+  ];
+  2 -> 14 [
+    weight=91
+  ];
+  2 -> 15 [
+    weight=18
+  ];
+  3 -> 0 [
+    weight=3
+  ];
+  3 -> 9 [
+    weight=4
+  ];
+  3 -> 11 [
+    weight=5
+  ];
+  4 -> 0 [
+    weight=8
+  ];
+  5 -> 0 [
+    weight=10
+  ];
+  5 -> 14 [
+    weight=2
+  ];
+  6 -> 11 [
+    weight=4
+  ];
+  7 -> 0 [
+    weight=50
+  ];
+  7 -> 3 [
+    weight=13
+  ];
+  7 -> 9 [
+    weight=13
+  ];
+  7 -> 11 [
+    weight=14
+  ];
+  7 -> 13 [
+    weight=17
+  ];
+  7 -> 14 [
+    weight=14
+  ];
+  8 -> 11 [
+    weight=7
+  ];
+  9 -> 0 [
+    weight=3
+  ];
+  9 -> 11 [
+    weight=5
+  ];
+  11 -> 0 [
+    weight=15
+  ];
+  12 -> 0 [
+    weight=5
+  ];
+  12 -> 3 [
+    weight=6
+  ];
+  12 -> 7 [
+    weight=15
+  ];
+  12 -> 9 [
+    weight=6
+  ];
+  12 -> 11 [
+    weight=7
+  ];
+  12 -> 13 [
+    weight=5
+  ];
+  12 -> 14 [
+    weight=5
+  ];
+  13 -> 0 [
+    weight=41
+  ];
+  13 -> 3 [
+    weight=3
+  ];
+  13 -> 9 [
+    weight=3
+  ];
+  13 -> 11 [
+    weight=4
+  ];
+  13 -> 14 [
+    weight=5
+  ];
+  14 -> 0 [
+    weight=44
+  ];
+  14 -> 3 [
+    weight=3
+  ];
+  14 -> 6 [
+    weight=2
+  ];
+  14 -> 8 [
+    weight=6
+  ];
+  14 -> 9 [
+    weight=3
+  ];
+  14 -> 11 [
+    weight=11
+  ];
+  15 -> 0 [
+    weight=10
+  ];
+  15 -> 8 [
+    weight=7
+  ];
+  15 -> 11 [
+    weight=4
+  ];
+  15 -> 14 [
+    weight=3
+  ];
+  16 -> 0 [
+    weight=12
+  ];
+  16 -> 2 [
+    weight=4
+  ];
+  18 -> 0 [
+    weight=26
+  ];
+  18 -> 2 [
+    weight=3
+  ];
+  20 -> 19 [
+    weight=20
+  ];
+  21 -> 0 [
+    weight=5
+  ];
+  22 -> 0 [
+    weight=3
+  ];
+  22 -> 6 [
+    weight=2
+  ];
+}

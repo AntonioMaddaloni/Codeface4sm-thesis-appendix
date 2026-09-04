@@ -1,0 +1,27 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Random Walk Community (tr) 2 Community Quality =  0.248908296943231"
+    fontsize=30
+  ];
+  0 [
+    name=1
+    label="Luca Gobbi"
+    fontsize=15
+    fillcolor=grey74
+    style=filled
+    penwidth=1
+  ];
+  1 [
+    name=2
+    label="Weston Bassler"
+    fontsize=31.7430363370832
+    fillcolor=grey73
+    style=filled
+    penwidth=1
+  ];
+
+  0 -> 1 [
+    weight=86
+  ];
+}

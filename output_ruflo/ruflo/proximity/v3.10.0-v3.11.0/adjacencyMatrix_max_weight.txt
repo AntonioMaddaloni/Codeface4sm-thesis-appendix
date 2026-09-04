@@ -1,0 +1,13 @@
+99820353	99820355	99820366	99820368	99820369	99820370	99820371	99820372	99820373	99820374	99820375	99820376
+bad	None	None	None	None	None	None	None	None	None	None	None
+None	None	None	None	None	None	None	None	None	None	None	None
+None	None	None	None	None	None	None	None	None	None	None	None
+None	None	None	None	None	None	None	None	None	None	None	None
+None	None	None	None	None	None	None	None	None	None	None	None
+None	None	None	None	None	None	None	None	None	None	None	None
+None	None	None	None	None	None	None	None	None	None	None	None
+None	None	None	None	None	None	None	None	None	None	None	None
+None	None	None	None	None	None	None	None	None	None	None	None
+None	None	None	None	None	None	None	None	None	None	None	None
+None	None	None	None	None	None	None	None	None	None	None	None
+None	None	None	None	None	None	None	None	None	None	None	None

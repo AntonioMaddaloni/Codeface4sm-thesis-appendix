@@ -1,0 +1,27 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Spin Glass Community (tr) 1 Community Quality =  0"
+    fontsize=30
+  ];
+  0 [
+    name=1
+    label="Alfredo Gallardo"
+    fontsize=15
+    fillcolor=grey52
+    style=filled
+    penwidth=4.89030517571964
+  ];
+  1 [
+    name=2
+    label="Nico Arqueros"
+    fontsize=50
+    fillcolor=grey71
+    style=filled
+    penwidth=4.96965711202117
+  ];
+
+  0 -> 1 [
+    weight=2
+  ];
+}

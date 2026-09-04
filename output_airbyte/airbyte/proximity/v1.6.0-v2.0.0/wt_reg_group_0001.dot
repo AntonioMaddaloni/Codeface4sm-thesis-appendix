@@ -1,0 +1,44 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Random Walk Community 1 Community Quality =  0.392170818505338"
+    fontsize=30
+  ];
+  0 [
+    name=1
+    label="Aaron Steers"
+    fontsize=20.2874553416706
+    fillcolor=grey68
+    style=filled
+    penwidth=2.95639160859872
+  ];
+  1 [
+    name=2
+    label="Benoit Moriceau"
+    fontsize=15.6226587651588
+    fillcolor=grey70
+    style=filled
+    penwidth=2.52584846175892
+  ];
+  2 [
+    name=3
+    label="Davin Chia"
+    fontsize=21.0108322683123
+    fillcolor=grey72
+    style=filled
+    penwidth=2.4965175727403
+  ];
+
+  0 -> 1 [
+    weight=24
+  ];
+  0 -> 2 [
+    weight=74
+  ];
+  1 -> 0 [
+    weight=36
+  ];
+  2 -> 0 [
+    weight=293
+  ];
+}

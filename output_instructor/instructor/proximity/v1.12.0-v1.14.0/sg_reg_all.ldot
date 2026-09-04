@@ -1,0 +1,163 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Spin Glass Community"
+  ];
+  0 [
+    name=1
+    label=1
+    fontsize=50
+    fillcolor="#3f0000"
+    style=filled
+    penwidth=5
+    pencolor=grey50
+  ];
+  1 [
+    name=2
+    label=2
+    fontsize=15
+    fillcolor="#5f0000"
+    style=filled
+    penwidth=4.84437435374729
+    pencolor=grey50
+  ];
+  2 [
+    name=3
+    label=3
+    fontsize=15
+    fillcolor="#3f0000"
+    style=filled
+    penwidth=1
+    pencolor=grey80
+  ];
+  3 [
+    name=4
+    label=4
+    fontsize=15
+    fillcolor="#3f0000"
+    style=filled
+    penwidth=1
+    pencolor=grey79
+  ];
+  4 [
+    name=5
+    label=5
+    fontsize=15
+    fillcolor="#7f0000"
+    style=filled
+    penwidth=1
+    pencolor=grey98
+  ];
+  5 [
+    name=6
+    label=6
+    fontsize=23.7900972126504
+    fillcolor="#3f0000"
+    style=filled
+    penwidth=2.02383209923926
+    pencolor=grey71
+  ];
+  6 [
+    name=7
+    label=7
+    fontsize=15
+    fillcolor="#9f0000"
+    style=filled
+    penwidth=1
+    pencolor=grey90
+  ];
+  7 [
+    name=8
+    label=8
+    fontsize=26.5897427926196
+    fillcolor="#3f0000"
+    style=filled
+    penwidth=1
+    pencolor=grey76
+  ];
+  8 [
+    name=9
+    label=9
+    fontsize=15
+    fillcolor="#bf0000"
+    style=filled
+    penwidth=1
+    pencolor=grey73
+  ];
+  9 [
+    name=10
+    label=10
+    fontsize=15
+    fillcolor="#df0000"
+    style=filled
+    penwidth=1
+    pencolor=grey100
+  ];
+  10 [
+    name=11
+    label=11
+    fontsize=28.4974804898557
+    fillcolor="#3f0000"
+    style=filled
+    penwidth=1
+    pencolor=grey80
+  ];
+  11 [
+    name=12
+    label=12
+    fontsize=15.9710573053411
+    fillcolor="#1f0000"
+    style=filled
+    penwidth=1
+    pencolor=grey74
+  ];
+  12 [
+    name=13
+    label=13
+    fontsize=15
+    fillcolor="#1f0000"
+    style=filled
+    penwidth=1
+    pencolor=grey73
+  ];
+
+  0 -> 2 [
+    weight=250
+  ];
+  0 -> 3 [
+    weight=8
+  ];
+  0 -> 5 [
+    weight=55
+  ];
+  0 -> 7 [
+    weight=73
+  ];
+  0 -> 10 [
+    weight=59
+  ];
+  0 -> 12 [
+    weight=57
+  ];
+  5 -> 0 [
+    weight=88
+  ];
+  7 -> 0 [
+    weight=113
+  ];
+  7 -> 2 [
+    weight=65
+  ];
+  10 -> 0 [
+    weight=113
+  ];
+  10 -> 2 [
+    weight=32
+  ];
+  10 -> 7 [
+    weight=16
+  ];
+  11 -> 12 [
+    weight=86
+  ];
+}

@@ -1,0 +1,27 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Spin Glass Community 3 Community Quality =  0.142857142857143"
+    fontsize=30
+  ];
+  0 [
+    name=1
+    label="Philip DePetro"
+    fontsize=35.7757757757758
+    fillcolor=grey76
+    style=filled
+    penwidth=2.66808753429294
+  ];
+  1 [
+    name=2
+    label="Mathias Fußenegger"
+    fontsize=15
+    fillcolor=grey93
+    style=filled
+    penwidth=1
+  ];
+
+  0 -> 1 [
+    weight=9
+  ];
+}

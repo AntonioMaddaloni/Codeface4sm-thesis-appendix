@@ -1,0 +1,286 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Random Walk Community 4 Community Quality =  0.0832882639264467"
+    fontsize=30
+  ];
+  0 [
+    name=1
+    label="Artem Inzhyyants"
+    fontsize=17.242474345243
+    fillcolor=grey65
+    style=filled
+    penwidth=1.78601624940411
+  ];
+  1 [
+    name=2
+    label="Maxime Carbonneau-Leclerc"
+    fontsize=25.3354201723362
+    fillcolor=grey67
+    style=filled
+    penwidth=2.07307912161977
+  ];
+  2 [
+    name=3
+    label="Tope Folorunso"
+    fontsize=18.7954090534945
+    fillcolor=grey59
+    style=filled
+    penwidth=2.17108254641416
+  ];
+  3 [
+    name=4
+    label=Augustin
+    fontsize=15.5013063777207
+    fillcolor=grey70
+    style=filled
+    penwidth=2.8956756235896
+  ];
+  4 [
+    name=5
+    label=btkcodedev
+    fontsize=17.0204579528403
+    fillcolor=grey59
+    style=filled
+    penwidth=2.27109990954653
+  ];
+  5 [
+    name=6
+    label="Anatolii Yatsuk"
+    fontsize=17.4124077099496
+    fillcolor=grey70
+    style=filled
+    penwidth=1.98403703733087
+  ];
+  6 [
+    name=7
+    label="Yue Li"
+    fontsize=15.07135102142
+    fillcolor=grey77
+    style=filled
+    penwidth=1.67703754576624
+  ];
+  7 [
+    name=8
+    label="Patrick Nilan"
+    fontsize=21.1160760699215
+    fillcolor=grey69
+    style=filled
+    penwidth=1.98403703733087
+  ];
+  8 [
+    name=9
+    label="Dhroov Makwana"
+    fontsize=15.2114886281009
+    fillcolor=grey60
+    style=filled
+    penwidth=1.875058333693
+  ];
+  9 [
+    name=10
+    label="Serhii Lazebnyi"
+    fontsize=20.512877598047
+    fillcolor=grey67
+    style=filled
+    penwidth=1.67703754576624
+  ];
+  10 [
+    name=11
+    label="Aldo Gonzalez"
+    fontsize=19.5770561699927
+    fillcolor=grey63
+    style=filled
+    penwidth=2.04516413234229
+  ];
+  11 [
+    name=12
+    label="Aaron Steers (AJ)"
+    fontsize=25.9089340663523
+    fillcolor=grey66
+    style=filled
+    penwidth=1.91414953962996
+  ];
+  12 [
+    name=13
+    label="William Kaper"
+    fontsize=15
+    fillcolor=grey79
+    style=filled
+    penwidth=1.19802078792677
+  ];
+  13 [
+    name=14
+    label="Xhensila Doda"
+    fontsize=15.0469974729113
+    fillcolor=grey83
+    style=filled
+    penwidth=1
+  ];
+  14 [
+    name=15
+    label=CapCaWork
+    fontsize=15.0783291215189
+    fillcolor=grey86
+    style=filled
+    penwidth=1
+  ];
+  15 [
+    name=16
+    label="Thomas Boles"
+    fontsize=15
+    fillcolor=grey94
+    style=filled
+    penwidth=1
+  ];
+  16 [
+    name=17
+    label="Alfredo Garcia"
+    fontsize=20.0392369203976
+    fillcolor=grey70
+    style=filled
+    penwidth=2.01555631864935
+  ];
+  17 [
+    name=18
+    label="Elad Leev"
+    fontsize=15.066579753291
+    fillcolor=grey81
+    style=filled
+    penwidth=1
+  ];
+  18 [
+    name=19
+    label=Karol
+    fontsize=15.0900784897467
+    fillcolor=grey82
+    style=filled
+    penwidth=1
+  ];
+
+  0 -> 3 [
+    weight=114
+  ];
+  0 -> 9 [
+    weight=8
+  ];
+  0 -> 11 [
+    weight=119
+  ];
+  1 -> 3 [
+    weight=5
+  ];
+  1 -> 4 [
+    weight=21
+  ];
+  1 -> 7 [
+    weight=32
+  ];
+  1 -> 10 [
+    weight=2
+  ];
+  1 -> 11 [
+    weight=333
+  ];
+  1 -> 12 [
+    weight=10
+  ];
+  1 -> 16 [
+    weight=14
+  ];
+  2 -> 0 [
+    weight=18
+  ];
+  2 -> 11 [
+    weight=157
+  ];
+  3 -> 11 [
+    weight=128
+  ];
+  4 -> 11 [
+    weight=94
+  ];
+  4 -> 16 [
+    weight=11
+  ];
+  5 -> 1 [
+    weight=5
+  ];
+  5 -> 11 [
+    weight=128
+  ];
+  6 -> 3 [
+    weight=18
+  ];
+  7 -> 1 [
+    weight=46
+  ];
+  7 -> 3 [
+    weight=3
+  ];
+  7 -> 11 [
+    weight=63
+  ];
+  8 -> 11 [
+    weight=54
+  ];
+  9 -> 1 [
+    weight=28
+  ];
+  9 -> 3 [
+    weight=142
+  ];
+  9 -> 11 [
+    weight=155
+  ];
+  9 -> 12 [
+    weight=76
+  ];
+  9 -> 16 [
+    weight=2
+  ];
+  10 -> 11 [
+    weight=913
+  ];
+  10 -> 15 [
+    weight=11
+  ];
+  11 -> 3 [
+    weight=122
+  ];
+  11 -> 4 [
+    weight=3
+  ];
+  11 -> 7 [
+    weight=11
+  ];
+  11 -> 10 [
+    weight=211
+  ];
+  11 -> 12 [
+    weight=117
+  ];
+  11 -> 15 [
+    weight=3
+  ];
+  11 -> 16 [
+    weight=10
+  ];
+  13 -> 11 [
+    weight=12
+  ];
+  14 -> 11 [
+    weight=20
+  ];
+  16 -> 9 [
+    weight=28
+  ];
+  16 -> 11 [
+    weight=103
+  ];
+  17 -> 11 [
+    weight=17
+  ];
+  18 -> 11 [
+    weight=23
+  ];
+}

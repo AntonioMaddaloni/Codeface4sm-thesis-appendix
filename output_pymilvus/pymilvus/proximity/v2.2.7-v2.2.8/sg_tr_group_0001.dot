@@ -1,0 +1,27 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Spin Glass Community (tr) 1 Community Quality =  0"
+    fontsize=30
+  ];
+  0 [
+    name=1
+    label="XuanYang-cn"
+    fontsize=15
+    fillcolor=grey60
+    style=filled
+    penwidth=3.93946765319543
+  ];
+  1 [
+    name=2
+    label="Jiquan Long"
+    fontsize=50
+    fillcolor=grey100
+    style=filled
+    penwidth=2.62639203696027
+  ];
+
+  0 -> 1 [
+    weight=3
+  ];
+}

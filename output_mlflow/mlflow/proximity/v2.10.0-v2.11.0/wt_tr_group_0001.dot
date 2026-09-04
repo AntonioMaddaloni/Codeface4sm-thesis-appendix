@@ -1,0 +1,222 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Random Walk Community (tr) 1 Community Quality =  0.256936736958935"
+    fontsize=30
+  ];
+  0 [
+    name=1
+    label="Harutaka Kawamura"
+    fontsize=34.5827768226203
+    fillcolor=grey61
+    style=filled
+    penwidth=4.16375479002529
+  ];
+  1 [
+    name=2
+    label=WeichenXu
+    fontsize=20.8843171296019
+    fillcolor=grey65
+    style=filled
+    penwidth=2.35801076665005
+  ];
+  2 [
+    name=3
+    label="Chen Qian"
+    fontsize=39.1349523627753
+    fillcolor=grey64
+    style=filled
+    penwidth=2.5793883626284
+  ];
+  3 [
+    name=4
+    label="Ben Wilson"
+    fontsize=15
+    fillcolor=grey71
+    style=filled
+    penwidth=2.05705574979541
+  ];
+  4 [
+    name=5
+    label="Siddharth Murching"
+    fontsize=15.7380224405368
+    fillcolor=grey76
+    style=filled
+    penwidth=1.58486340280745
+  ];
+  5 [
+    name=6
+    label="Michael Berk"
+    fontsize=50
+    fillcolor=grey56
+    style=filled
+    penwidth=2.5793883626284
+  ];
+  6 [
+    name=7
+    label="Ann Zhang"
+    fontsize=22.7946803951453
+    fillcolor=grey69
+    style=filled
+    penwidth=1.34212315868653
+  ];
+  7 [
+    name=8
+    label=TomuHirata
+    fontsize=15.0664739131432
+    fillcolor=grey65
+    style=filled
+    penwidth=1.34212315868653
+  ];
+  8 [
+    name=9
+    label="Ernest Wong"
+    fontsize=15.9271164025846
+    fillcolor=grey72
+    style=filled
+    penwidth=1
+  ];
+  9 [
+    name=10
+    label="Uwe L. Korn"
+    fontsize=15.0212569781594
+    fillcolor=grey95
+    style=filled
+    penwidth=1
+  ];
+  10 [
+    name=11
+    label=Justin
+    fontsize=15.6397283524382
+    fillcolor=grey88
+    style=filled
+    penwidth=1
+  ];
+  11 [
+    name=12
+    label="Ngo Minh Thang Nguyen"
+    fontsize=15.1395952176007
+    fillcolor=grey71
+    style=filled
+    penwidth=1
+  ];
+  12 [
+    name=13
+    label=raphaelauv
+    fontsize=15.0239232717083
+    fillcolor=grey85
+    style=filled
+    penwidth=1
+  ];
+  13 [
+    name=14
+    label="Sunish Sheth"
+    fontsize=15
+    fillcolor=grey81
+    style=filled
+    penwidth=1
+  ];
+
+  0 -> 1 [
+    weight=223
+  ];
+  0 -> 2 [
+    weight=90
+  ];
+  0 -> 5 [
+    weight=833
+  ];
+  0 -> 7 [
+    weight=10
+  ];
+  0 -> 8 [
+    weight=46
+  ];
+  0 -> 10 [
+    weight=14
+  ];
+  0 -> 11 [
+    weight=21
+  ];
+  0 -> 12 [
+    weight=2
+  ];
+  1 -> 0 [
+    weight=52
+  ];
+  1 -> 2 [
+    weight=120
+  ];
+  1 -> 4 [
+    weight=3
+  ];
+  1 -> 5 [
+    weight=68
+  ];
+  2 -> 0 [
+    weight=71
+  ];
+  2 -> 1 [
+    weight=56
+  ];
+  2 -> 5 [
+    weight=96
+  ];
+  2 -> 10 [
+    weight=12
+  ];
+  3 -> 0 [
+    weight=19
+  ];
+  3 -> 2 [
+    weight=72
+  ];
+  4 -> 5 [
+    weight=22
+  ];
+  5 -> 0 [
+    weight=20
+  ];
+  5 -> 1 [
+    weight=50
+  ];
+  5 -> 2 [
+    weight=277
+  ];
+  5 -> 4 [
+    weight=28
+  ];
+  5 -> 6 [
+    weight=123
+  ];
+  6 -> 0 [
+    weight=4
+  ];
+  6 -> 5 [
+    weight=185
+  ];
+  7 -> 0 [
+    weight=5
+  ];
+  8 -> 5 [
+    weight=18
+  ];
+  9 -> 0 [
+    weight=15
+  ];
+  10 -> 0 [
+    weight=4
+  ];
+  10 -> 2 [
+    weight=18
+  ];
+  12 -> 5 [
+    weight=8
+  ];
+  13 -> 5 [
+    weight=7
+  ];
+  13 -> 6 [
+    weight=86
+  ];
+}

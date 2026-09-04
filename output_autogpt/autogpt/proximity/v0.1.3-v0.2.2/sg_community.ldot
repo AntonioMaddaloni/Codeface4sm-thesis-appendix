@@ -1,0 +1,240 @@
+digraph pieGraph {
+	graph [bgcolor=transparent, fontcolor=black, ratio=fill, overlap=prism, splines=TRUE, rank=same, size=7, rankdir=TB];
+	node [label="\N", shape=ellipse, fixedsize=TRUE, fillcolor=transparent, color=black, fontcolor=black, fontsize=14, height="0.5", width="0.75", style=wedged];
+	edge [headport=center, color=black, dir=none, weight="1.0", fontcolor=black, arrowhead=none, arrowtail=none, fontsize=14, labelfontsize=11, arrowsize=1, style=solid, minlen=1, penwidth="1.0"];
+	graph [bb="0 0 2028 2026"];
+	subgraph cluster_0 {
+		graph [bgcolor="#FFFF5D80",
+			bb="",
+			penwidth=75,
+			style=bold,
+			color="#E495A5",
+			label="ID 1",
+			fontsize=120];
+		1 [label=99819553, fillcolor="#E495A5;0.833333333333333:#86B875;0.166666666666667:", height="0.762528796191947", width="0.762528796191947"];
+		2 [label=99819556, fillcolor="#E495A5;0.382716049382716:#86B875;0.333333333333333:#7DB0DD;0.283950617283951:", height=5, width=5];
+		3 [label=99819559, fillcolor="#E495A5;0.474576271186441:#86B875;0.271186440677966:#7DB0DD;0.254237288135593:", height="2.35251109152067", width="2.35251109152067"];
+		5 [label=99819427, fillcolor="#86B875;0.5:#E495A5;0.5:", height="0.766981286335475", width="0.766981286335475"];
+		8 [label=99819457, fillcolor="#E495A5;0.642857142857143:#86B875;0.214285714285714:#7DB0DD;0.142857142857143:", height="1.93293644352456", width="1.93293644352456"];
+		11 [label=99819461, fillcolor="#E495A5;0.523809523809524:#86B875;0.266666666666667:#7DB0DD;0.20952380952381:", height="4.88271316502004", width="4.88271316502004"];
+		15 [label=99819470, fillcolor="#E495A5;1:", height="0.756951672508557", width="0.756951672508557"];
+		17 [label=99819473, fillcolor="#E495A5;0.857142857142857:#86B875;0.142857142857143:", height="0.75"];
+		19 [label=99819475, fillcolor="#E495A5;0.636363636363636:#86B875;0.363636363636364:", height="0.779946933564895", width="0.779946933564895"];
+		20 [label=99819476, fillcolor="#E495A5;0.764705882352941:#86B875;0.117647058823529:#7DB0DD;0.117647058823529:", height="1.26118938152727", width="1.26118938152727"];
+		21 [label=99819479, fillcolor="#E495A5;0.625:#86B875;0.375:", height="1.53534787545253", width="1.53534787545253"];
+		23 [label=99819483, fillcolor="#E495A5;1:", height="0.753972384290604", width="0.753972384290604"];
+		24 [label=99819484, fillcolor="#E495A5;1:", height="0.933279006317867", width="0.933279006317867"];
+		25 [label=99819488, fillcolor="#E495A5;0.736842105263158:#86B875;0.157894736842105:#7DB0DD;0.105263157894737:", height="1.19769881333871", width="1.19769881333871"];
+		27 [label=99819491, fillcolor="#E495A5;1:", height="0.75"];
+		28 [label=99819493, fillcolor="#7DB0DD;0.5:#E495A5;0.444444444444444:#86B875;0.0555555555555556:", height="0.75"];
+		31 [label=99819497, fillcolor="#E495A5;0.846153846153846:#86B875;0.153846153846154:", height="0.848122753403671", width="0.848122753403671"];
+		32 [label=99819499, fillcolor="#E495A5;1:", height="0.75"];
+		34 [label=99819501, fillcolor="#E495A5;1:", height="0.802822675282738", width="0.802822675282738"];
+		35 [label=99819502, fillcolor="#E495A5;0.5:#86B875;0.5:", height="0.841274906649054", width="0.841274906649054"];
+		38 [label=99819507, fillcolor="#E495A5;0.615384615384615:#86B875;0.230769230769231:#7DB0DD;0.153846153846154:", height="1.38378560383438", width="1.38378560383438"];
+		39 [label=99819513, fillcolor="#E495A5;0.666666666666667:#86B875;0.333333333333333:", height="0.78912535923502", width="0.78912535923502"];
+		41 [label=99819520, fillcolor="#E495A5;1:", height="0.761917152871812", width="0.761917152871812"];
+		45 [label=99819527, fillcolor="#E495A5;0.714285714285714:#86B875;0.19047619047619:#7DB0DD;0.0952380952380952:", height="0.818863746821937", width="0.818863746821937"];
+		52 [label=99819543, fillcolor="#86B875;0.375:#7DB0DD;0.375:#E495A5;0.25:", height="1.08565697175406", width="1.08565697175406"];
+		56 [label=99819549, fillcolor="#E495A5;0.75:#86B875;0.25:", height="0.774488053171843", width="0.774488053171843"];
+		57 [label=99819551, fillcolor="#E495A5;0.888888888888889:#86B875;0.111111111111111:", height="0.840233179202365", width="0.840233179202365"];
+		1 -> 11:center [color="#00000040", dir=both, weight=1, arrowhead=open, arrowtail=open, arrowsize="3.33333333333333", penwidth=10];
+		2 -> 1:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		2 -> 3:center [color="#00000040", dir=both, weight=1, arrowhead=open, arrowtail=open, arrowsize="3.33333333333333", penwidth=10];
+		2 -> 8:center [color="#00000040", dir=both, weight=1, arrowhead=open, arrowtail=open, arrowsize="3.33333333333333", penwidth=10];
+		2 -> 11:center [color="#00000040", dir=both, weight=1, arrowhead=open, arrowtail=open, arrowsize="3.33333333333333", penwidth=10];
+		2 -> 17:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		2 -> 19:center [color="#00000040", dir=both, weight=1, arrowhead=open, arrowtail=open, arrowsize="3.33333333333333", penwidth=10];
+		2 -> 27:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		2 -> 28:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		2 -> 35:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		2 -> 39:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		2 -> 45:center [color="#00000040", dir=both, weight=1, arrowhead=open, arrowtail=open, arrowsize="3.33333333333333", penwidth=10];
+		2 -> 56:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		3 -> 8:center [color="#00000040", dir=both, weight=1, arrowhead=open, arrowtail=open, arrowsize="3.33333333333333", penwidth=10];
+		3 -> 11:center [color="#00000040", dir=both, weight=1, arrowhead=open, arrowtail=open, arrowsize="3.33333333333333", penwidth=10];
+		3 -> 17:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		3 -> 19:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		3 -> 28:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		3 -> 31:center [color="#00000040", dir=both, weight=1, arrowhead=open, arrowtail=open, arrowsize="3.33333333333333", penwidth=10];
+		3 -> 35:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		3 -> 45:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		3 -> 57:center [color="#00000040", dir=both, weight=1, arrowhead=open, arrowtail=open, arrowsize="3.33333333333333", penwidth=10];
+		5 -> 11:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		8 -> 11:center [color="#00000040", dir=both, weight=1, arrowhead=open, arrowtail=open, arrowsize="3.33333333333333", penwidth=10];
+		8 -> 17:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		8 -> 20:center [color="#00000040", dir=both, weight=1, arrowhead=open, arrowtail=open, arrowsize="3.33333333333333", penwidth=10];
+		8 -> 24:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		8 -> 25:center [color="#00000040", dir=both, weight=1, arrowhead=open, arrowtail=open, arrowsize="3.33333333333333", penwidth=10];
+		8 -> 28:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		8 -> 31:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		8 -> 45:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		8 -> 57:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		11 -> 17:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		11 -> 19:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		11 -> 20:center [color="#00000040", dir=both, weight=1, arrowhead=open, arrowtail=open, arrowsize="3.33333333333333", penwidth=10];
+		11 -> 21:center [color="#00000040", dir=both, weight=1, arrowhead=open, arrowtail=open, arrowsize="3.33333333333333", penwidth=10];
+		11 -> 23:center [color="#00000040", dir=both, weight=1, arrowhead=open, arrowtail=open, arrowsize="3.33333333333333", penwidth=10];
+		11 -> 25:center [color="#00000040", dir=both, weight=1, arrowhead=open, arrowtail=open, arrowsize="3.33333333333333", penwidth=10];
+		11 -> 28:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		11 -> 31:center [color="#00000040", dir=both, weight=1, arrowhead=open, arrowtail=open, arrowsize="3.33333333333333", penwidth=10];
+		11 -> 32:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		11 -> 45:center [color="#00000040", dir=both, weight=1, arrowhead=open, arrowtail=open, arrowsize="3.33333333333333", penwidth=10];
+		15 -> 11:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		19 -> 45:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		20 -> 2:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		20 -> 3:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		20 -> 45:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		21 -> 2:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		24 -> 11:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		24 -> 15:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		24 -> 17:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		25 -> 2:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		25 -> 3:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		25 -> 17:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		25 -> 20:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		25 -> 45:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		31 -> 28:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		34 -> 11:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		34 -> 23:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		35 -> 11:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		38 -> 2:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		38 -> 3:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		38 -> 8:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		38 -> 11:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		38 -> 20:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		38 -> 25:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		38 -> 28:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		38 -> 45:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		39 -> 11:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		41 -> 11:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		52 -> 11:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		52 -> 45:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		56 -> 11:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		56 -> 28:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		57 -> 11:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		57 -> 28:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		57 -> 31:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+	}
+	subgraph cluster_1 {
+		graph [bgcolor="#FFEB4F80",
+			bb="",
+			penwidth=75,
+			style=bold,
+			color="#86B875",
+			label="ID 2",
+			fontsize=120];
+		4 [label=99819414, fillcolor="#86B875;0.833333333333333:#E495A5;0.166666666666667:", height="0.799157574087854", width="0.799157574087854"];
+		6 [label=99819441, fillcolor="#E495A5;0.67741935483871:#7DB0DD;0.193548387096774:#86B875;0.129032258064516:", height="2.01610966333663", width="2.01610966333663"];
+		10 [label=99819460, fillcolor="#E495A5;0.428571428571429:#86B875;0.375:#7DB0DD;0.196428571428571:", height="2.33250345845061", width="2.33250345845061"];
+		13 [label=99819468, fillcolor="#86B875;1:", height="0.75"];
+		14 [label=99819469, fillcolor="#86B875;0.5:#E495A5;0.5:", height="0.78432430070578", width="0.78432430070578"];
+		18 [label=99819474, fillcolor="#E495A5;0.571428571428571:#86B875;0.428571428571429:", height="0.808119766987894", width="0.808119766987894"];
+		22 [label=99819480, fillcolor="#E495A5;0.833333333333333:#86B875;0.166666666666667:", height="0.787487735475432", width="0.787487735475432"];
+		29 [label=99819495, fillcolor="#E495A5;0.727272727272727:#86B875;0.272727272727273:", height="0.838530247582263", width="0.838530247582263"];
+		30 [label=99819496, fillcolor="#E495A5;0.714285714285714:#86B875;0.285714285714286:", height="1.12317346892552", width="1.12317346892552"];
+		33 [label=99819500, fillcolor="#E495A5;0.444444444444444:#7DB0DD;0.333333333333333:#86B875;0.222222222222222:", height="1.01497613673092", width="1.01497613673092"];
+		37 [label=99819505, fillcolor="#86B875;0.666666666666667:#E495A5;0.333333333333333:", height="0.776281928838226", width="0.776281928838226"];
+		44 [label=99819524, fillcolor="#E495A5;0.5:#86B875;0.5:", height="0.75"];
+		46 [label=99819529, fillcolor="#86B875;0.5:#E495A5;0.5:", height="0.755511354949785", width="0.755511354949785"];
+		48 [label=99819531, fillcolor="#E495A5;0.862068965517241:#86B875;0.137931034482759:", height="1.42314599161882", width="1.42314599161882"];
+		50 [label=99819537, fillcolor="#E495A5;0.666666666666667:#86B875;0.333333333333333:", height="0.762114459072629", width="0.762114459072629"];
+		53 [label=99819544, fillcolor="#86B875;0.75:#E495A5;0.25:", height="0.783418385800455", width="0.783418385800455"];
+		4 -> 10:center [color="#00000040", dir=both, weight=1, arrowhead=open, arrowtail=open, arrowsize="3.33333333333333", penwidth=10];
+		4 -> 44:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		6 -> 10:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		6 -> 18:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		6 -> 44:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		10 -> 13:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		10 -> 18:center [color="#00000040", dir=both, weight=1, arrowhead=open, arrowtail=open, arrowsize="3.33333333333333", penwidth=10];
+		10 -> 44:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		14 -> 10:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		18 -> 44:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		22 -> 10:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		29 -> 10:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		30 -> 10:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		30 -> 44:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		33 -> 6:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		33 -> 10:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		37 -> 10:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		37 -> 44:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		46 -> 10:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		48 -> 10:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		48 -> 29:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		48 -> 44:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		50 -> 10:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		53 -> 10:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		53 -> 29:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		53 -> 48:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+	}
+	subgraph cluster_2 {
+		graph [bgcolor="#FFFF4E80",
+			bb="",
+			penwidth=75,
+			style=bold,
+			color="#7DB0DD",
+			label="ID 3",
+			fontsize=120];
+		7 [label=99819445, fillcolor="#7DB0DD;0.8:#E495A5;0.2:", height="0.778917392172289", width="0.778917392172289"];
+		9 [label=99819459, fillcolor="#7DB0DD;0.545454545454545:#E495A5;0.318181818181818:#86B875;0.136363636363636:", height="1.09768996908078", width="1.09768996908078"];
+		12 [label=99819465, fillcolor="#7DB0DD;0.615384615384615:#E495A5;0.307692307692308:#86B875;0.0769230769230769:", height="0.81549750503991", width="0.81549750503991"];
+		16 [label=99819472, fillcolor="#E495A5;0.612903225806452:#7DB0DD;0.32258064516129:#86B875;0.0645161290322581:", height="0.854714646795318", width="0.854714646795318"];
+		26 [label=99819490, fillcolor="#7DB0DD;0.615384615384615:#E495A5;0.307692307692308:#86B875;0.0769230769230769:", height="0.966189996800353", width="0.966189996800353"];
+		36 [label=99819503, fillcolor="#7DB0DD;0.5:#E495A5;0.4375:#86B875;0.0625:", height="0.791354508719597", width="0.791354508719597"];
+		40 [label=99819518, fillcolor="#E495A5;0.5:#7DB0DD;0.5:", height="0.766928082924667", width="0.766928082924667"];
+		42 [label=99819521, fillcolor="#E495A5;0.642857142857143:#7DB0DD;0.285714285714286:#86B875;0.0714285714285714:", height="0.888549161474706", width="0.888549161474706"];
+		43 [label=99819522, fillcolor="#7DB0DD;0.615384615384615:#E495A5;0.307692307692308:#86B875;0.0769230769230769:", height="0.91032572459701", width="0.91032572459701"];
+		47 [label=99819530, fillcolor="#7DB0DD;0.555555555555556:#E495A5;0.277777777777778:#86B875;0.166666666666667:", height="2.25475417930753", width="2.25475417930753"];
+		49 [label=99819533, fillcolor="#7DB0DD;0.5:#E495A5;0.333333333333333:#86B875;0.166666666666667:", height="1.07063884902114", width="1.07063884902114"];
+		51 [label=99819540, fillcolor="#E495A5;0.4:#7DB0DD;0.4:#86B875;0.2:", height="0.804344843600159", width="0.804344843600159"];
+		54 [label=99819546, fillcolor="#7DB0DD;0.45:#E495A5;0.4:#86B875;0.15:", height="1.63378260944317", width="1.63378260944317"];
+		55 [label=99819548, fillcolor="#E495A5;0.5:#7DB0DD;0.333333333333333:#86B875;0.166666666666667:", height="0.869874145310357", width="0.869874145310357"];
+		7 -> 9:center [color="#00000040", dir=both, weight=1, arrowhead=open, arrowtail=open, arrowsize="3.33333333333333", penwidth=10];
+		9 -> 16:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		9 -> 36:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		9 -> 42:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		12 -> 9:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		12 -> 16:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		12 -> 36:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		12 -> 42:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		26 -> 9:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		26 -> 12:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		26 -> 16:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		26 -> 36:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		26 -> 42:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		26 -> 43:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		36 -> 16:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		40 -> 16:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		42 -> 16:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		42 -> 36:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		43 -> 9:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		43 -> 12:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		43 -> 16:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		43 -> 36:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		43 -> 42:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		47 -> 9:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		47 -> 12:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		47 -> 16:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		47 -> 26:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		47 -> 36:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		47 -> 42:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		47 -> 43:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		47 -> 49:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		47 -> 51:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		47 -> 54:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		49 -> 51:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		49 -> 54:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		54 -> 9:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		54 -> 12:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		54 -> 16:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		54 -> 26:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		54 -> 36:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		54 -> 42:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		54 -> 43:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		55 -> 16:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		55 -> 40:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+	}
+	2 -> 10:center [color=red, dir=both, weight=53, arrowhead=open, arrowtail=open, arrowsize="6.66666666666667", style=bold, penwidth=25];
+	2 -> 47:center [color=red, dir=both, weight=30, arrowhead=open, arrowtail=open, arrowsize="3.61533333333333", style=bold, penwidth="15.8"];
+	10 -> 47:center [color=red, dir=both, weight=3, arrowhead=open, arrowtail=open, arrowsize="0.0333333333333342", style=bold, penwidth=5];
+}

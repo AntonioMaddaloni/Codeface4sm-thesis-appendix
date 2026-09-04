@@ -1,0 +1,124 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Random Walk Community"
+  ];
+  0 [
+    name=1
+    label=1
+    fontsize=40.4083551989303
+    fillcolor="#1f0000"
+    style=filled
+    penwidth=3.51470780006592
+    pencolor=grey50
+  ];
+  1 [
+    name=2
+    label=2
+    fontsize=15
+    fillcolor="#df0000"
+    style=filled
+    penwidth=1
+    pencolor=grey91
+  ];
+  2 [
+    name=3
+    label=3
+    fontsize=15.0867868519806
+    fillcolor="#3f0000"
+    style=filled
+    penwidth=1
+    pencolor=grey97
+  ];
+  3 [
+    name=4
+    label=4
+    fontsize=15.0965896136889
+    fillcolor="#5f0000"
+    style=filled
+    penwidth=1.44732607684597
+    pencolor=grey100
+  ];
+  4 [
+    name=5
+    label=5
+    fontsize=50
+    fillcolor="#7f0000"
+    style=filled
+    penwidth=5
+    pencolor=grey54
+  ];
+  5 [
+    name=6
+    label=6
+    fontsize=20.4129878861051
+    fillcolor="#9f0000"
+    style=filled
+    penwidth=2.61637626145482
+    pencolor=grey77
+  ];
+  6 [
+    name=7
+    label=7
+    fontsize=19.8079623768731
+    fillcolor="#bf0000"
+    style=filled
+    penwidth=3.246106459819
+    pencolor=grey79
+  ];
+
+  0 -> 2 [
+    weight=2186
+  ];
+  0 -> 3 [
+    weight=15
+  ];
+  0 -> 4 [
+    weight=6708
+  ];
+  0 -> 5 [
+    weight=777
+  ];
+  0 -> 6 [
+    weight=240
+  ];
+  2 -> 4 [
+    weight=26
+  ];
+  3 -> 2 [
+    weight=8
+  ];
+  3 -> 4 [
+    weight=27
+  ];
+  4 -> 0 [
+    weight=11954
+  ];
+  4 -> 2 [
+    weight=88
+  ];
+  4 -> 3 [
+    weight=77
+  ];
+  4 -> 5 [
+    weight=9456
+  ];
+  4 -> 6 [
+    weight=2545
+  ];
+  5 -> 0 [
+    weight=301
+  ];
+  5 -> 4 [
+    weight=1451
+  ];
+  6 -> 0 [
+    weight=93
+  ];
+  6 -> 4 [
+    weight=1231
+  ];
+  6 -> 5 [
+    weight=915
+  ];
+}

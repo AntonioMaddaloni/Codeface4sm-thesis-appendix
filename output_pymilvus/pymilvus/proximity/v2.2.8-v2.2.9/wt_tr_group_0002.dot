@@ -1,0 +1,41 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Random Walk Community (tr) 2 Community Quality =  0.215627347858753"
+    fontsize=30
+  ];
+  0 [
+    name=1
+    label="cai.zhang"
+    fontsize=15
+    fillcolor=grey65
+    style=filled
+    penwidth=2.50609816814953
+  ];
+  1 [
+    name=2
+    label="xige-16"
+    fontsize=50
+    fillcolor=grey63
+    style=filled
+    penwidth=2.25615178985583
+  ];
+  2 [
+    name=3
+    label="zhenshan.cao"
+    fontsize=37.2633743300446
+    fillcolor=grey58
+    style=filled
+    penwidth=1.95024214608501
+  ];
+
+  0 -> 1 [
+    weight=333
+  ];
+  0 -> 2 [
+    weight=407
+  ];
+  2 -> 1 [
+    weight=304
+  ];
+}

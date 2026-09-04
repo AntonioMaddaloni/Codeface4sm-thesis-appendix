@@ -1,0 +1,30 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Random Walk Community 4 Community Quality =  0.448275862068966"
+    fontsize=30
+  ];
+  0 [
+    name=1
+    label="Yarden Carmeli"
+    fontsize=20.9900811679174
+    fillcolor=grey75
+    style=filled
+    penwidth=2.01445872450417
+  ];
+  1 [
+    name=2
+    label="devin-ai-integrationbot"
+    fontsize=21.1829930942875
+    fillcolor=grey60
+    style=filled
+    penwidth=2.69870077549547
+  ];
+
+  0 -> 1 [
+    weight=379
+  ];
+  1 -> 0 [
+    weight=5
+  ];
+}

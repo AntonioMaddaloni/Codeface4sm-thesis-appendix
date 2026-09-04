@@ -1,0 +1,49 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Random Walk Community 3 Community Quality =  0.000249979168402633"
+    fontsize=30
+  ];
+  0 [
+    name=1
+    label="Rich Chiodo"
+    fontsize=35.2202202202202
+    fillcolor=grey50
+    style=filled
+    penwidth=2.26185950714291
+  ];
+  1 [
+    name=2
+    label=Copilot
+    fontsize=16.8518518518518
+    fillcolor=grey80
+    style=filled
+    penwidth=1.73814049285708
+  ];
+  2 [
+    name=3
+    label="Stella Huang"
+    fontsize=50
+    fillcolor=grey86
+    style=filled
+    penwidth=3
+  ];
+  3 [
+    name=4
+    label="Max Bachmann"
+    fontsize=15
+    fillcolor=grey62
+    style=filled
+    penwidth=1
+  ];
+
+  0 -> 3 [
+    weight=5800
+  ];
+  1 -> 0 [
+    weight=10
+  ];
+  2 -> 0 [
+    weight=189
+  ];
+}

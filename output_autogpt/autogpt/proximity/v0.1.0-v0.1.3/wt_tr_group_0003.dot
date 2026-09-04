@@ -1,0 +1,38 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Random Walk Community (tr) 3 Community Quality =  0.464285714285714"
+    fontsize=30
+  ];
+  0 [
+    name=1
+    label="Bernhard Mueller"
+    fontsize=16.1520286962267
+    fillcolor=grey62
+    style=filled
+    penwidth=3.85519709760918
+  ];
+  1 [
+    name=2
+    label="Mike Kelly"
+    fontsize=15
+    fillcolor=grey63
+    style=filled
+    penwidth=2.72820875111006
+  ];
+  2 [
+    name=3
+    label="roby.parapat"
+    fontsize=17.438441996491
+    fillcolor=grey78
+    style=filled
+    penwidth=1.4658858311442
+  ];
+
+  1 -> 0 [
+    weight=20
+  ];
+  1 -> 2 [
+    weight=25
+  ];
+}

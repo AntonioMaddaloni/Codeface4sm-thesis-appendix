@@ -1,0 +1,30 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Spin Glass Community (tr) 1 Community Quality =  0"
+    fontsize=30
+  ];
+  0 [
+    name=1
+    label="hand-dot"
+    fontsize=50
+    fillcolor=grey50
+    style=filled
+    penwidth=5
+  ];
+  1 [
+    name=2
+    label="devin-ai-integrationbot"
+    fontsize=50
+    fillcolor=grey61
+    style=filled
+    penwidth=3.7812683372579
+  ];
+
+  0 -> 1 [
+    weight=20
+  ];
+  1 -> 0 [
+    weight=148
+  ];
+}

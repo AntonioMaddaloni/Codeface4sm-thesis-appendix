@@ -1,0 +1,331 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Spin Glass Community"
+  ];
+  0 [
+    name=1
+    label=1
+    fontsize=15
+    fillcolor="#130000"
+    style=filled
+    penwidth=1.41527866638217
+    pencolor=grey79
+  ];
+  1 [
+    name=2
+    label=2
+    fontsize=15
+    fillcolor="#270000"
+    style=filled
+    penwidth=5
+    pencolor=grey50
+  ];
+  2 [
+    name=3
+    label=3
+    fontsize=18.9220307105364
+    fillcolor="#3a0000"
+    style=filled
+    penwidth=3.50555185779797
+    pencolor=grey59
+  ];
+  3 [
+    name=4
+    label=4
+    fontsize=15.589190975458
+    fillcolor="#3a0000"
+    style=filled
+    penwidth=3.67561698253173
+    pencolor=grey63
+  ];
+  4 [
+    name=5
+    label=5
+    fontsize=21.0150720460038
+    fillcolor="#4e0000"
+    style=filled
+    penwidth=3.54106568835169
+    pencolor=grey62
+  ];
+  5 [
+    name=6
+    label=6
+    fontsize=44.7400825860304
+    fillcolor="#4e0000"
+    style=filled
+    penwidth=4.31516692543647
+    pencolor=grey52
+  ];
+  6 [
+    name=7
+    label=7
+    fontsize=36.8146039589181
+    fillcolor="#4e0000"
+    style=filled
+    penwidth=3.71878560024695
+    pencolor=grey59
+  ];
+  7 [
+    name=8
+    label=8
+    fontsize=50
+    fillcolor="#4e0000"
+    style=filled
+    penwidth=3.6024627571215
+    pencolor=grey55
+  ];
+  8 [
+    name=9
+    label=9
+    fontsize=15
+    fillcolor="#620000"
+    style=filled
+    penwidth=2.74809617987632
+    pencolor=grey66
+  ];
+  9 [
+    name=10
+    label=10
+    fontsize=20.9459452215122
+    fillcolor="#4e0000"
+    style=filled
+    penwidth=2.96340450113198
+    pencolor=grey58
+  ];
+  10 [
+    name=11
+    label=11
+    fontsize=26.0416417007189
+    fillcolor="#3a0000"
+    style=filled
+    penwidth=3.58268800918349
+    pencolor=grey64
+  ];
+  11 [
+    name=12
+    label=12
+    fontsize=15
+    fillcolor="#750000"
+    style=filled
+    penwidth=2.02134948264583
+    pencolor=grey85
+  ];
+  12 [
+    name=13
+    label=13
+    fontsize=15.2132655250091
+    fillcolor="#4e0000"
+    style=filled
+    penwidth=2.87853877640847
+    pencolor=grey69
+  ];
+  13 [
+    name=14
+    label=14
+    fontsize=15
+    fillcolor="#890000"
+    style=filled
+    penwidth=1.96424720268011
+    pencolor=grey65
+  ];
+  14 [
+    name=15
+    label=15
+    fontsize=15
+    fillcolor="#9c0000"
+    style=filled
+    penwidth=1.54896853629794
+    pencolor=grey87
+  ];
+  15 [
+    name=16
+    label=16
+    fontsize=15
+    fillcolor="#b00000"
+    style=filled
+    penwidth=1
+    pencolor=grey91
+  ];
+  16 [
+    name=17
+    label=17
+    fontsize=15
+    fillcolor="#c40000"
+    style=filled
+    penwidth=1
+    pencolor=grey83
+  ];
+  17 [
+    name=18
+    label=18
+    fontsize=15
+    fillcolor="#d70000"
+    style=filled
+    penwidth=1
+    pencolor=grey100
+  ];
+  18 [
+    name=19
+    label=19
+    fontsize=15
+    fillcolor="#eb0000"
+    style=filled
+    penwidth=1
+    pencolor=grey98
+  ];
+
+  2 -> 3 [
+    weight=5
+  ];
+  2 -> 5 [
+    weight=21
+  ];
+  2 -> 6 [
+    weight=25
+  ];
+  2 -> 7 [
+    weight=59
+  ];
+  3 -> 6 [
+    weight=3
+  ];
+  3 -> 7 [
+    weight=16
+  ];
+  4 -> 2 [
+    weight=14
+  ];
+  4 -> 3 [
+    weight=6
+  ];
+  4 -> 5 [
+    weight=27
+  ];
+  4 -> 6 [
+    weight=39
+  ];
+  4 -> 7 [
+    weight=75
+  ];
+  4 -> 9 [
+    weight=2
+  ];
+  4 -> 10 [
+    weight=2
+  ];
+  5 -> 2 [
+    weight=31
+  ];
+  5 -> 3 [
+    weight=33
+  ];
+  5 -> 4 [
+    weight=29
+  ];
+  5 -> 6 [
+    weight=144
+  ];
+  5 -> 7 [
+    weight=377
+  ];
+  5 -> 9 [
+    weight=109
+  ];
+  5 -> 10 [
+    weight=29
+  ];
+  5 -> 12 [
+    weight=18
+  ];
+  6 -> 2 [
+    weight=36
+  ];
+  6 -> 3 [
+    weight=23
+  ];
+  6 -> 4 [
+    weight=31
+  ];
+  6 -> 5 [
+    weight=114
+  ];
+  6 -> 7 [
+    weight=329
+  ];
+  6 -> 9 [
+    weight=6
+  ];
+  6 -> 10 [
+    weight=17
+  ];
+  7 -> 2 [
+    weight=68
+  ];
+  7 -> 3 [
+    weight=39
+  ];
+  7 -> 4 [
+    weight=69
+  ];
+  7 -> 5 [
+    weight=214
+  ];
+  7 -> 6 [
+    weight=302
+  ];
+  7 -> 9 [
+    weight=20
+  ];
+  7 -> 10 [
+    weight=41
+  ];
+  7 -> 12 [
+    weight=8
+  ];
+  9 -> 2 [
+    weight=5
+  ];
+  9 -> 3 [
+    weight=2
+  ];
+  9 -> 4 [
+    weight=4
+  ];
+  9 -> 5 [
+    weight=64
+  ];
+  9 -> 6 [
+    weight=20
+  ];
+  9 -> 7 [
+    weight=35
+  ];
+  9 -> 10 [
+    weight=2
+  ];
+  10 -> 2 [
+    weight=17
+  ];
+  10 -> 3 [
+    weight=7
+  ];
+  10 -> 4 [
+    weight=18
+  ];
+  10 -> 5 [
+    weight=47
+  ];
+  10 -> 6 [
+    weight=70
+  ];
+  10 -> 7 [
+    weight=141
+  ];
+  10 -> 9 [
+    weight=5
+  ];
+  12 -> 7 [
+    weight=7
+  ];
+}

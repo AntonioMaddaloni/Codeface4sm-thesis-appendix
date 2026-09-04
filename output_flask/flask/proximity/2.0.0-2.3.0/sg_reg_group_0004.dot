@@ -1,0 +1,30 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Spin Glass Community 4 Community Quality =  0.584"
+    fontsize=30
+  ];
+  0 [
+    name=1
+    label="pre-commit-cibot"
+    fontsize=15.1017948478838
+    fillcolor=grey82
+    style=filled
+    penwidth=2.56833648956927
+  ];
+  1 [
+    name=2
+    label="Miguel Grinberg"
+    fontsize=15.4107771304417
+    fillcolor=grey85
+    style=filled
+    penwidth=1
+  ];
+
+  0 -> 1 [
+    weight=13
+  ];
+  1 -> 0 [
+    weight=13
+  ];
+}

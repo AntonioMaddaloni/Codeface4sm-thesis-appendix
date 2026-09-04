@@ -1,0 +1,27 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Random Walk Community 4 Community Quality =  0.571428571428571"
+    fontsize=30
+  ];
+  0 [
+    name=1
+    label="Chen Qian"
+    fontsize=15
+    fillcolor=grey71
+    style=filled
+    penwidth=2.08347704435976
+  ];
+  1 [
+    name=2
+    label="mlflow-automation"
+    fontsize=19.4480124973676
+    fillcolor=grey70
+    style=filled
+    penwidth=2.68295921088755
+  ];
+
+  1 -> 0 [
+    weight=21
+  ];
+}

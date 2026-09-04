@@ -1,0 +1,202 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Spin Glass Community 3 Community Quality =  0.253024911032028"
+    fontsize=30
+  ];
+  0 [
+    name=1
+    label="Maxime Carbonneau-Leclerc"
+    fontsize=25.3354201723362
+    fillcolor=grey67
+    style=filled
+    penwidth=2.07307912161977
+  ];
+  1 [
+    name=2
+    label="Tope Folorunso"
+    fontsize=18.7954090534945
+    fillcolor=grey59
+    style=filled
+    penwidth=2.17108254641416
+  ];
+  2 [
+    name=3
+    label="Anatolii Yatsuk"
+    fontsize=17.4124077099496
+    fillcolor=grey70
+    style=filled
+    penwidth=1.98403703733087
+  ];
+  3 [
+    name=4
+    label="Patrick Nilan"
+    fontsize=21.1160760699215
+    fillcolor=grey69
+    style=filled
+    penwidth=1.98403703733087
+  ];
+  4 [
+    name=5
+    label="Dhroov Makwana"
+    fontsize=15.2114886281009
+    fillcolor=grey60
+    style=filled
+    penwidth=1.875058333693
+  ];
+  5 [
+    name=6
+    label="Aldo Gonzalez"
+    fontsize=19.5770561699927
+    fillcolor=grey63
+    style=filled
+    penwidth=2.04516413234229
+  ];
+  6 [
+    name=7
+    label="Aaron Steers (AJ)"
+    fontsize=25.9089340663523
+    fillcolor=grey66
+    style=filled
+    penwidth=1.91414953962996
+  ];
+  7 [
+    name=8
+    label="Przemysław Dąbek"
+    fontsize=15.0117493682278
+    fillcolor=grey87
+    style=filled
+    penwidth=1.53653956080988
+  ];
+  8 [
+    name=9
+    label="Xhensila Doda"
+    fontsize=15.0469974729113
+    fillcolor=grey83
+    style=filled
+    penwidth=1
+  ];
+  9 [
+    name=10
+    label=CapCaWork
+    fontsize=15.0783291215189
+    fillcolor=grey86
+    style=filled
+    penwidth=1
+  ];
+  10 [
+    name=11
+    label="Thomas Boles"
+    fontsize=15
+    fillcolor=grey94
+    style=filled
+    penwidth=1
+  ];
+  11 [
+    name=12
+    label="Elad Leev"
+    fontsize=15.066579753291
+    fillcolor=grey81
+    style=filled
+    penwidth=1
+  ];
+  12 [
+    name=13
+    label=FelixJetschiny
+    fontsize=15.0156658243038
+    fillcolor=grey81
+    style=filled
+    penwidth=1
+  ];
+  13 [
+    name=14
+    label="Bill McGuinness"
+    fontsize=15
+    fillcolor=grey85
+    style=filled
+    penwidth=1
+  ];
+  14 [
+    name=15
+    label=Karol
+    fontsize=15.0900784897467
+    fillcolor=grey82
+    style=filled
+    penwidth=1
+  ];
+  15 [
+    name=16
+    label="David Gold"
+    fontsize=15
+    fillcolor=grey79
+    style=filled
+    penwidth=1
+  ];
+
+  0 -> 3 [
+    weight=32
+  ];
+  0 -> 5 [
+    weight=2
+  ];
+  0 -> 6 [
+    weight=333
+  ];
+  0 -> 13 [
+    weight=8
+  ];
+  1 -> 6 [
+    weight=157
+  ];
+  2 -> 0 [
+    weight=5
+  ];
+  2 -> 6 [
+    weight=128
+  ];
+  2 -> 15 [
+    weight=43
+  ];
+  3 -> 0 [
+    weight=46
+  ];
+  3 -> 6 [
+    weight=63
+  ];
+  4 -> 6 [
+    weight=54
+  ];
+  5 -> 6 [
+    weight=913
+  ];
+  5 -> 10 [
+    weight=11
+  ];
+  6 -> 3 [
+    weight=11
+  ];
+  6 -> 5 [
+    weight=211
+  ];
+  6 -> 10 [
+    weight=3
+  ];
+  7 -> 6 [
+    weight=3
+  ];
+  8 -> 6 [
+    weight=12
+  ];
+  9 -> 6 [
+    weight=20
+  ];
+  11 -> 6 [
+    weight=17
+  ];
+  12 -> 6 [
+    weight=4
+  ];
+  14 -> 6 [
+    weight=23
+  ];
+}

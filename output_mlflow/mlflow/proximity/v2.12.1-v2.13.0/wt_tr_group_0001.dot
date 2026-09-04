@@ -1,0 +1,156 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Random Walk Community (tr) 1 Community Quality =  0.22279792746114"
+    fontsize=30
+  ];
+  0 [
+    name=1
+    label=WeichenXu
+    fontsize=21.8514047298005
+    fillcolor=grey72
+    style=filled
+    penwidth=2.24327307141693
+  ];
+  1 [
+    name=2
+    label="Yuki Watanabe"
+    fontsize=19.4514161532032
+    fillcolor=grey72
+    style=filled
+    penwidth=2.34890466064379
+  ];
+  2 [
+    name=3
+    label="Ann Zhang"
+    fontsize=22.5848039264169
+    fillcolor=grey69
+    style=filled
+    penwidth=2.52887255122155
+  ];
+  3 [
+    name=4
+    label="Sunish Sheth"
+    fontsize=26.5138230459123
+    fillcolor=grey68
+    style=filled
+    penwidth=3.10878845071966
+  ];
+  4 [
+    name=5
+    label="Prithvi Kannan"
+    fontsize=15.7480492339483
+    fillcolor=grey76
+    style=filled
+    penwidth=1.62163653570847
+  ];
+  5 [
+    name=6
+    label="Mahmoud Lababidi"
+    fontsize=15.5629167413539
+    fillcolor=grey82
+    style=filled
+    penwidth=1
+  ];
+  6 [
+    name=7
+    label="Yun Park"
+    fontsize=15.1574880798282
+    fillcolor=grey86
+    style=filled
+    penwidth=1
+  ];
+  7 [
+    name=8
+    label="Shicheng Zhou"
+    fontsize=18.1087613948568
+    fillcolor=grey78
+    style=filled
+    penwidth=1
+  ];
+
+  0 -> 1 [
+    weight=47
+  ];
+  0 -> 2 [
+    weight=42
+  ];
+  0 -> 3 [
+    weight=28
+  ];
+  0 -> 7 [
+    weight=24
+  ];
+  1 -> 3 [
+    weight=5
+  ];
+  1 -> 4 [
+    weight=14
+  ];
+  2 -> 0 [
+    weight=206
+  ];
+  2 -> 1 [
+    weight=65
+  ];
+  2 -> 3 [
+    weight=280
+  ];
+  2 -> 4 [
+    weight=15
+  ];
+  2 -> 5 [
+    weight=4
+  ];
+  2 -> 6 [
+    weight=21
+  ];
+  2 -> 7 [
+    weight=70
+  ];
+  3 -> 0 [
+    weight=81
+  ];
+  3 -> 1 [
+    weight=98
+  ];
+  3 -> 2 [
+    weight=513
+  ];
+  3 -> 4 [
+    weight=25
+  ];
+  3 -> 5 [
+    weight=10
+  ];
+  4 -> 1 [
+    weight=14
+  ];
+  4 -> 3 [
+    weight=21
+  ];
+  5 -> 0 [
+    weight=3
+  ];
+  5 -> 3 [
+    weight=5
+  ];
+  6 -> 0 [
+    weight=14
+  ];
+  6 -> 2 [
+    weight=70
+  ];
+  6 -> 3 [
+    weight=32
+  ];
+  7 -> 0 [
+    weight=56
+  ];
+  7 -> 1 [
+    weight=5
+  ];
+  7 -> 3 [
+    weight=32
+  ];
+}

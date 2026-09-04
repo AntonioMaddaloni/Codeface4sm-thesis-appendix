@@ -1,0 +1,27 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Spin Glass Community 11 Community Quality =  0"
+    fontsize=30
+  ];
+  0 [
+    name=1
+    label=Augustin
+    fontsize=15
+    fillcolor=grey73
+    style=filled
+    penwidth=2.50212462633177
+  ];
+  1 [
+    name=2
+    label="Marius Posta"
+    fontsize=22.8311446876226
+    fillcolor=grey74
+    style=filled
+    penwidth=2.35213233418139
+  ];
+
+  1 -> 0 [
+    weight=132
+  ];
+}

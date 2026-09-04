@@ -1,0 +1,72 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Random Walk Community (tr) 6 Community Quality =  0.0869247626004383"
+    fontsize=30
+  ];
+  0 [
+    name=1
+    label="Artem Inzhyyants"
+    fontsize=20.3598027316811
+    fillcolor=grey67
+    style=filled
+    penwidth=2.3501626276125
+  ];
+  1 [
+    name=2
+    label=Augustin
+    fontsize=41.4533082063589
+    fillcolor=grey63
+    style=filled
+    penwidth=3.05024077113174
+  ];
+  2 [
+    name=3
+    label="Natik Gadzhi"
+    fontsize=37.8024837349179
+    fillcolor=grey68
+    style=filled
+    penwidth=3.03219724967931
+  ];
+  3 [
+    name=4
+    label="Christo Grabowski"
+    fontsize=15
+    fillcolor=grey72
+    style=filled
+    penwidth=1.88194312398829
+  ];
+  4 [
+    name=5
+    label="Stephane Geneix"
+    fontsize=15
+    fillcolor=grey74
+    style=filled
+    penwidth=2.09756523362622
+  ];
+
+  0 -> 1 [
+    weight=8
+  ];
+  0 -> 2 [
+    weight=4
+  ];
+  1 -> 0 [
+    weight=36
+  ];
+  1 -> 2 [
+    weight=534
+  ];
+  3 -> 1 [
+    weight=3
+  ];
+  4 -> 0 [
+    weight=15
+  ];
+  4 -> 1 [
+    weight=23
+  ];
+  4 -> 2 [
+    weight=2
+  ];
+}

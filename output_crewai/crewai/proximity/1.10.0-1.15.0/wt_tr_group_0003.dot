@@ -1,0 +1,27 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Random Walk Community (tr) 3 Community Quality =  0.997743936830231"
+    fontsize=30
+  ];
+  0 [
+    name=1
+    label=Sampson
+    fontsize=18.050393710347
+    fillcolor=grey74
+    style=filled
+    penwidth=1
+  ];
+  1 [
+    name=2
+    label="iris-clawd"
+    fontsize=17.4383674955656
+    fillcolor=grey69
+    style=filled
+    penwidth=2.75573844106451
+  ];
+
+  1 -> 0 [
+    weight=2
+  ];
+}

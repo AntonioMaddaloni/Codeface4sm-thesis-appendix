@@ -1,0 +1,148 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Spin Glass Community"
+  ];
+  0 [
+    name=1
+    label=1
+    fontsize=50
+    fillcolor="#110000"
+    style=filled
+    penwidth=5
+    pencolor=grey50
+  ];
+  1 [
+    name=2
+    label=2
+    fontsize=15
+    fillcolor="#220000"
+    style=filled
+    penwidth=4.83476523856234
+    pencolor=grey53
+  ];
+  2 [
+    name=3
+    label=3
+    fontsize=15
+    fillcolor="#330000"
+    style=filled
+    penwidth=2.43062636956976
+    pencolor=grey69
+  ];
+  3 [
+    name=4
+    label=4
+    fontsize=50
+    fillcolor="#110000"
+    style=filled
+    penwidth=3.7812683372579
+    pencolor=grey61
+  ];
+  4 [
+    name=5
+    label=5
+    fontsize=15
+    fillcolor="#440000"
+    style=filled
+    penwidth=4.2487159090103
+    pencolor=grey63
+  ];
+  5 [
+    name=6
+    label=6
+    fontsize=15
+    fillcolor="#550000"
+    style=filled
+    penwidth=1.92195657367667
+    pencolor=grey65
+  ];
+  6 [
+    name=7
+    label=7
+    fontsize=15
+    fillcolor="#660000"
+    style=filled
+    penwidth=1.58168983383341
+    pencolor=grey67
+  ];
+  7 [
+    name=8
+    label=8
+    fontsize=15
+    fillcolor="#770000"
+    style=filled
+    penwidth=1
+    pencolor=grey96
+  ];
+  8 [
+    name=9
+    label=9
+    fontsize=15
+    fillcolor="#880000"
+    style=filled
+    penwidth=1.34026673984326
+    pencolor=grey75
+  ];
+  9 [
+    name=10
+    label=10
+    fontsize=15
+    fillcolor="#990000"
+    style=filled
+    penwidth=1.58168983383341
+    pencolor=grey68
+  ];
+  10 [
+    name=11
+    label=11
+    fontsize=15
+    fillcolor="#aa0000"
+    style=filled
+    penwidth=1
+    pencolor=grey100
+  ];
+  11 [
+    name=12
+    label=12
+    fontsize=15
+    fillcolor="#bb0000"
+    style=filled
+    penwidth=1
+    pencolor=grey93
+  ];
+  12 [
+    name=13
+    label=13
+    fontsize=15
+    fillcolor="#cc0000"
+    style=filled
+    penwidth=1.34026673984326
+    pencolor=grey83
+  ];
+  13 [
+    name=14
+    label=14
+    fontsize=15
+    fillcolor="#dd0000"
+    style=filled
+    penwidth=1.34026673984326
+    pencolor=grey64
+  ];
+  14 [
+    name=15
+    label=15
+    fontsize=15
+    fillcolor="#ee0000"
+    style=filled
+    penwidth=1
+    pencolor=grey90
+  ];
+
+  0 -> 3 [
+    weight=20
+  ];
+  3 -> 0 [
+    weight=148
+  ];
+}

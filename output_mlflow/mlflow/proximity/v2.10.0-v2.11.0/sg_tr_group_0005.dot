@@ -1,0 +1,27 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Spin Glass Community (tr) 5 Community Quality =  0.696649029982363"
+    fontsize=30
+  ];
+  0 [
+    name=1
+    label="Ann Zhang"
+    fontsize=22.7946803951453
+    fillcolor=grey69
+    style=filled
+    penwidth=1.34212315868653
+  ];
+  1 [
+    name=2
+    label="Sunish Sheth"
+    fontsize=15
+    fillcolor=grey81
+    style=filled
+    penwidth=1
+  ];
+
+  1 -> 0 [
+    weight=86
+  ];
+}

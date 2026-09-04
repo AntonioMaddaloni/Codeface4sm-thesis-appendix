@@ -1,0 +1,30 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Spin Glass Community 1 Community Quality =  0"
+    fontsize=30
+  ];
+  0 [
+    name=1
+    label="Martin Donadieu"
+    fontsize=50
+    fillcolor=grey50
+    style=filled
+    penwidth=5
+  ];
+  1 [
+    name=2
+    label=WcaleNieWolny
+    fontsize=50
+    fillcolor=grey71
+    style=filled
+    penwidth=2.02374233520931
+  ];
+
+  0 -> 1 [
+    weight=364
+  ];
+  1 -> 0 [
+    weight=130
+  ];
+}

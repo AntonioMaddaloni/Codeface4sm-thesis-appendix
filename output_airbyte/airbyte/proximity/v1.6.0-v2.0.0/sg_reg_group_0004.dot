@@ -1,0 +1,261 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Spin Glass Community 4 Community Quality =  0.165627825093972"
+    fontsize=30
+  ];
+  0 [
+    name=1
+    label=Airbyte
+    fontsize=15
+    fillcolor=grey57
+    style=filled
+    penwidth=4.83488738851126
+  ];
+  1 [
+    name=2
+    label="Anatolii Yatsuk"
+    fontsize=37.8311408967858
+    fillcolor=grey62
+    style=filled
+    penwidth=2.52584846175892
+  ];
+  2 [
+    name=3
+    label="Edward Gao"
+    fontsize=42.5266586268472
+    fillcolor=grey62
+    style=filled
+    penwidth=3.01392047490262
+  ];
+  3 [
+    name=4
+    label="Patrick Nilan"
+    fontsize=50
+    fillcolor=grey61
+    style=filled
+    penwidth=2.52584846175892
+  ];
+  4 [
+    name=5
+    label="Serhii Lazebnyi"
+    fontsize=15
+    fillcolor=grey65
+    style=filled
+    penwidth=1.9224226621972
+  ];
+  5 [
+    name=6
+    label="Brian Lai"
+    fontsize=32.1151861222174
+    fillcolor=grey56
+    style=filled
+    penwidth=2.44319946811898
+  ];
+  6 [
+    name=7
+    label="Aaron Steers"
+    fontsize=20.2874553416706
+    fillcolor=grey68
+    style=filled
+    penwidth=2.95639160859872
+  ];
+  7 [
+    name=8
+    label="Benoit Moriceau"
+    fontsize=15.6226587651588
+    fillcolor=grey70
+    style=filled
+    penwidth=2.52584846175892
+  ];
+  8 [
+    name=9
+    label="Davin Chia"
+    fontsize=21.0108322683123
+    fillcolor=grey72
+    style=filled
+    penwidth=2.4965175727403
+  ];
+  9 [
+    name=10
+    label="Michal Krawczyk"
+    fontsize=15
+    fillcolor=grey84
+    style=filled
+    penwidth=1.19220322409582
+  ];
+  10 [
+    name=11
+    label="Alfredo Garcia"
+    fontsize=20.5566926560712
+    fillcolor=grey70
+    style=filled
+    penwidth=2.38311516987404
+  ];
+  11 [
+    name=12
+    label="Idan Sheinberg"
+    fontsize=15
+    fillcolor=grey76
+    style=filled
+    penwidth=1.32857358182596
+  ];
+  12 [
+    name=13
+    label="David Gold"
+    fontsize=45.8113021625657
+    fillcolor=grey67
+    style=filled
+    penwidth=2.43177647015025
+  ];
+  13 [
+    name=14
+    label="Jose Pefaur"
+    fontsize=31.0301163769068
+    fillcolor=grey77
+    style=filled
+    penwidth=2.15774937268733
+  ];
+  14 [
+    name=15
+    label="Kat Wilson"
+    fontsize=24.5199358471689
+    fillcolor=grey74
+    style=filled
+    penwidth=1.19220322409582
+  ];
+  15 [
+    name=16
+    label="Davide Miranda"
+    fontsize=15
+    fillcolor=grey84
+    style=filled
+    penwidth=1
+  ];
+  16 [
+    name=17
+    label="Gary James"
+    fontsize=15.5808088582903
+    fillcolor=grey77
+    style=filled
+    penwidth=1
+  ];
+
+  1 -> 3 [
+    weight=436
+  ];
+  1 -> 5 [
+    weight=247
+  ];
+  1 -> 9 [
+    weight=118
+  ];
+  1 -> 12 [
+    weight=16
+  ];
+  2 -> 3 [
+    weight=1147
+  ];
+  2 -> 8 [
+    weight=304
+  ];
+  2 -> 12 [
+    weight=6
+  ];
+  3 -> 1 [
+    weight=2739
+  ];
+  3 -> 2 [
+    weight=14
+  ];
+  3 -> 5 [
+    weight=501
+  ];
+  3 -> 10 [
+    weight=281
+  ];
+  3 -> 14 [
+    weight=12
+  ];
+  3 -> 15 [
+    weight=6
+  ];
+  5 -> 1 [
+    weight=805
+  ];
+  5 -> 3 [
+    weight=39
+  ];
+  5 -> 4 [
+    weight=271
+  ];
+  5 -> 10 [
+    weight=99
+  ];
+  5 -> 11 [
+    weight=5
+  ];
+  5 -> 15 [
+    weight=16
+  ];
+  6 -> 3 [
+    weight=41
+  ];
+  6 -> 7 [
+    weight=24
+  ];
+  6 -> 8 [
+    weight=74
+  ];
+  7 -> 6 [
+    weight=36
+  ];
+  8 -> 2 [
+    weight=15
+  ];
+  8 -> 6 [
+    weight=293
+  ];
+  10 -> 5 [
+    weight=170
+  ];
+  12 -> 0 [
+    weight=14
+  ];
+  12 -> 2 [
+    weight=200
+  ];
+  12 -> 8 [
+    weight=71
+  ];
+  12 -> 13 [
+    weight=68
+  ];
+  13 -> 2 [
+    weight=174
+  ];
+  13 -> 3 [
+    weight=35
+  ];
+  13 -> 8 [
+    weight=17
+  ];
+  13 -> 12 [
+    weight=9
+  ];
+  14 -> 1 [
+    weight=300
+  ];
+  14 -> 3 [
+    weight=2
+  ];
+  14 -> 5 [
+    weight=129
+  ];
+  16 -> 3 [
+    weight=31
+  ];
+  16 -> 10 [
+    weight=3
+  ];
+}

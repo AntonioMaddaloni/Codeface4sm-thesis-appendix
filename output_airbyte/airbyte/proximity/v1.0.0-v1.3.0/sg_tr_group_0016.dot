@@ -1,0 +1,27 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Spin Glass Community (tr) 16 Community Quality =  0"
+    fontsize=30
+  ];
+  0 [
+    name=1
+    label="Anatolii Yatsuk"
+    fontsize=29.1963398340558
+    fillcolor=grey70
+    style=filled
+    penwidth=1.94372317767664
+  ];
+  1 [
+    name=2
+    label="Ryan Hall"
+    fontsize=15
+    fillcolor=grey90
+    style=filled
+    penwidth=1
+  ];
+
+  1 -> 0 [
+    weight=8
+  ];
+}

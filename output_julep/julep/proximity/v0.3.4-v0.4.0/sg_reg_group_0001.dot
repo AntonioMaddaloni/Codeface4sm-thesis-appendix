@@ -1,0 +1,113 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Spin Glass Community 1 Community Quality =  0.00103069808903003"
+    fontsize=30
+  ];
+  0 [
+    name=1
+    label="Diwank Singh Tomer"
+    fontsize=50
+    fillcolor=grey50
+    style=filled
+    penwidth=4.71074353625022
+  ];
+  1 [
+    name=2
+    label="Dmitry Paramonov"
+    fontsize=23.4858102415057
+    fillcolor=grey62
+    style=filled
+    penwidth=4.56512790570426
+  ];
+  2 [
+    name=3
+    label="Julep Developers"
+    fontsize=15.2576296860274
+    fillcolor=grey65
+    style=filled
+    penwidth=2.84505496812311
+  ];
+  3 [
+    name=4
+    label=whiterabbit1983
+    fontsize=15.0145468425434
+    fillcolor=grey73
+    style=filled
+    penwidth=2.08006779338393
+  ];
+  4 [
+    name=5
+    label="Diwank Tomer"
+    fontsize=46.3759120628507
+    fillcolor=grey53
+    style=filled
+    penwidth=5
+  ];
+  5 [
+    name=6
+    label="Hamada Salhab"
+    fontsize=19.957501541118
+    fillcolor=grey68
+    style=filled
+    penwidth=3.53854383547233
+  ];
+
+  0 -> 1 [
+    weight=5808
+  ];
+  0 -> 2 [
+    weight=97
+  ];
+  0 -> 3 [
+    weight=74
+  ];
+  0 -> 4 [
+    weight=27682
+  ];
+  0 -> 5 [
+    weight=534
+  ];
+  1 -> 0 [
+    weight=1460
+  ];
+  1 -> 3 [
+    weight=18
+  ];
+  1 -> 4 [
+    weight=8300
+  ];
+  2 -> 0 [
+    weight=41
+  ];
+  2 -> 4 [
+    weight=277
+  ];
+  3 -> 0 [
+    weight=4
+  ];
+  3 -> 1 [
+    weight=9
+  ];
+  4 -> 0 [
+    weight=20055
+  ];
+  4 -> 1 [
+    weight=2591
+  ];
+  4 -> 3 [
+    weight=80
+  ];
+  5 -> 0 [
+    weight=1615
+  ];
+  5 -> 1 [
+    weight=386
+  ];
+  5 -> 2 [
+    weight=28
+  ];
+  5 -> 4 [
+    weight=2663
+  ];
+}

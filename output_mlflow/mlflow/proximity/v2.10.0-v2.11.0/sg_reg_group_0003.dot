@@ -1,0 +1,27 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Spin Glass Community 3 Community Quality =  0.613275613275613"
+    fontsize=30
+  ];
+  0 [
+    name=1
+    label="Daniel Lok"
+    fontsize=20.06242588283
+    fillcolor=grey55
+    style=filled
+    penwidth=3.39060742618269
+  ];
+  1 [
+    name=2
+    label="Lu Wang"
+    fontsize=17.7323072416836
+    fillcolor=grey76
+    style=filled
+    penwidth=1
+  ];
+
+  1 -> 0 [
+    weight=268
+  ];
+}

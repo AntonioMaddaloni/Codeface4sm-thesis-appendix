@@ -1,0 +1,130 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Random Walk Community (tr) 5 Community Quality =  0.0911392405063291"
+    fontsize=30
+  ];
+  0 [
+    name=1
+    label="Natik Gadzhi"
+    fontsize=16.9595121024382
+    fillcolor=grey58
+    style=filled
+    penwidth=2.42497898784142
+  ];
+  1 [
+    name=2
+    label=letiescanciano
+    fontsize=15.4412775594075
+    fillcolor=grey93
+    style=filled
+    penwidth=1
+  ];
+  2 [
+    name=3
+    label="Marcos Marx"
+    fontsize=15.5840417170585
+    fillcolor=grey75
+    style=filled
+    penwidth=1.44749747652099
+  ];
+  3 [
+    name=4
+    label="Lake Mossman"
+    fontsize=15.2528126207853
+    fillcolor=grey82
+    style=filled
+    penwidth=1
+  ];
+  4 [
+    name=5
+    label="Ben Church"
+    fontsize=16.5678866518165
+    fillcolor=grey73
+    style=filled
+    penwidth=1.33851877288312
+  ];
+  5 [
+    name=6
+    label="Ian Alton"
+    fontsize=19.3523341731143
+    fillcolor=grey69
+    style=filled
+    penwidth=2.39783981978331
+  ];
+  6 [
+    name=7
+    label="devin-ai-integrationbot"
+    fontsize=19.014110713204
+    fillcolor=grey60
+    style=filled
+    penwidth=2.45068910043984
+  ];
+
+  0 -> 2 [
+    weight=10
+  ];
+  0 -> 3 [
+    weight=11
+  ];
+  0 -> 4 [
+    weight=34
+  ];
+  0 -> 5 [
+    weight=129
+  ];
+  0 -> 6 [
+    weight=68
+  ];
+  2 -> 5 [
+    weight=36
+  ];
+  2 -> 6 [
+    weight=4
+  ];
+  3 -> 4 [
+    weight=14
+  ];
+  3 -> 5 [
+    weight=2
+  ];
+  3 -> 6 [
+    weight=5
+  ];
+  4 -> 3 [
+    weight=2
+  ];
+  4 -> 5 [
+    weight=16
+  ];
+  4 -> 6 [
+    weight=10
+  ];
+  5 -> 1 [
+    weight=8
+  ];
+  5 -> 2 [
+    weight=10
+  ];
+  5 -> 6 [
+    weight=42
+  ];
+  6 -> 0 [
+    weight=543
+  ];
+  6 -> 1 [
+    weight=10
+  ];
+  6 -> 2 [
+    weight=2
+  ];
+  6 -> 3 [
+    weight=5
+  ];
+  6 -> 4 [
+    weight=34
+  ];
+  6 -> 5 [
+    weight=82
+  ];
+}

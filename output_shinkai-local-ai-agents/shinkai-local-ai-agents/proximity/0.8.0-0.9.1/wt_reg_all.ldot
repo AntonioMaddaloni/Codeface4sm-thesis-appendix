@@ -1,0 +1,73 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Random Walk Community"
+  ];
+  0 [
+    name=1
+    label=1
+    fontsize=50
+    fillcolor="#1f0000"
+    style=filled
+    penwidth=4.89030517571964
+    pencolor=grey52
+  ];
+  1 [
+    name=2
+    label=2
+    fontsize=15
+    fillcolor="#5f0000"
+    style=filled
+    penwidth=5
+    pencolor=grey50
+  ];
+  2 [
+    name=3
+    label=3
+    fontsize=15
+    fillcolor="#7f0000"
+    style=filled
+    penwidth=4.87379264477963
+    pencolor=grey73
+  ];
+  3 [
+    name=4
+    label=4
+    fontsize=15
+    fillcolor="#9f0000"
+    style=filled
+    penwidth=4.08143148375711
+    pencolor=grey59
+  ];
+  4 [
+    name=5
+    label=5
+    fontsize=15
+    fillcolor="#bf0000"
+    style=filled
+    penwidth=2.0283249988819
+    pencolor=grey68
+  ];
+  5 [
+    name=6
+    label=6
+    fontsize=15
+    fillcolor="#3f0000"
+    style=filled
+    penwidth=4.96965711202117
+    pencolor=grey71
+  ];
+  6 [
+    name=7
+    label=7
+    fontsize=15
+    fillcolor="#df0000"
+    style=filled
+    penwidth=1
+    pencolor=grey100
+  ];
+
+  0 -> 5 [
+    weight=2
+  ];
+}

@@ -1,0 +1,160 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Spin Glass Community 2 Community Quality =  0.0383051907442151"
+    fontsize=30
+  ];
+  0 [
+    name=1
+    label="Lorenze Jay"
+    fontsize=38.5853054938593
+    fillcolor=grey56
+    style=filled
+    penwidth=3.58333620902876
+  ];
+  1 [
+    name=2
+    label="Greyson LaLonde"
+    fontsize=50
+    fillcolor=grey52
+    style=filled
+    penwidth=4.33001455378827
+  ];
+  2 [
+    name=3
+    label="Lucas Gomide"
+    fontsize=18.9591782841685
+    fillcolor=grey66
+    style=filled
+    penwidth=2.31961899287648
+  ];
+  3 [
+    name=4
+    label="Gil Feig"
+    fontsize=15
+    fillcolor=grey73
+    style=filled
+    penwidth=1.35573931152416
+  ];
+  4 [
+    name=5
+    label="Matt Aitchison"
+    fontsize=15
+    fillcolor=grey83
+    style=filled
+    penwidth=1.60814036982815
+  ];
+  5 [
+    name=6
+    label="Vidit Ostwal"
+    fontsize=17.0589802865936
+    fillcolor=grey75
+    style=filled
+    penwidth=1.96387968135231
+  ];
+  6 [
+    name=7
+    label="João Moura"
+    fontsize=25.9690845510057
+    fillcolor=grey57
+    style=filled
+    penwidth=3.06300517206315
+  ];
+  7 [
+    name=8
+    label="Thiago Moretto"
+    fontsize=15.0521123549108
+    fillcolor=grey61
+    style=filled
+    penwidth=1.35573931152416
+  ];
+  8 [
+    name=9
+    label=GininDenis
+    fontsize=15.412362054708
+    fillcolor=grey94
+    style=filled
+    penwidth=1
+  ];
+  9 [
+    name=10
+    label=Koushiv
+    fontsize=15.1122419951925
+    fillcolor=grey86
+    style=filled
+    penwidth=1
+  ];
+
+  0 -> 1 [
+    weight=8432
+  ];
+  0 -> 5 [
+    weight=237
+  ];
+  0 -> 6 [
+    weight=1026
+  ];
+  0 -> 8 [
+    weight=8
+  ];
+  1 -> 0 [
+    weight=8772
+  ];
+  1 -> 2 [
+    weight=82
+  ];
+  1 -> 3 [
+    weight=5
+  ];
+  1 -> 4 [
+    weight=30
+  ];
+  1 -> 5 [
+    weight=376
+  ];
+  1 -> 6 [
+    weight=2589
+  ];
+  1 -> 9 [
+    weight=566
+  ];
+  2 -> 0 [
+    weight=466
+  ];
+  2 -> 1 [
+    weight=1131
+  ];
+  2 -> 6 [
+    weight=74
+  ];
+  2 -> 8 [
+    weight=8
+  ];
+  5 -> 0 [
+    weight=121
+  ];
+  5 -> 1 [
+    weight=886
+  ];
+  6 -> 0 [
+    weight=2417
+  ];
+  6 -> 1 [
+    weight=3237
+  ];
+  7 -> 1 [
+    weight=26
+  ];
+  8 -> 0 [
+    weight=70
+  ];
+  8 -> 1 [
+    weight=123
+  ];
+  8 -> 6 [
+    weight=17
+  ];
+  9 -> 1 [
+    weight=56
+  ];
+}

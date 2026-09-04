@@ -1,0 +1,30 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Random Walk Community 8 Community Quality =  0.0363752393107849"
+    fontsize=30
+  ];
+  0 [
+    name=1
+    label="Aaron Steers (AJ)"
+    fontsize=31.4895073544915
+    fillcolor=grey58
+    style=filled
+    penwidth=2.64380132119588
+  ];
+  1 [
+    name=2
+    label="Guen Prawiroatmodjo"
+    fontsize=29.0299983986588
+    fillcolor=grey71
+    style=filled
+    penwidth=1.73458034035996
+  ];
+
+  0 -> 1 [
+    weight=1031
+  ];
+  1 -> 0 [
+    weight=479
+  ];
+}

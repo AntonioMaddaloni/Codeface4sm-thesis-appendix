@@ -1,0 +1,58 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Random Walk Community (tr) 1 Community Quality =  0.428571428571429"
+    fontsize=30
+  ];
+  0 [
+    name=1
+    label="Maiko Bossuyt"
+    fontsize=25.75553066826
+    fillcolor=grey55
+    style=filled
+    penwidth=4.49820450137858
+  ];
+  1 [
+    name=2
+    label="Yossi Marouani"
+    fontsize=18.0331838161041
+    fillcolor=grey95
+    style=filled
+    penwidth=1.4658858311442
+  ];
+  2 [
+    name=3
+    label="Itamar Friedman"
+    fontsize=15
+    fillcolor=grey56
+    style=filled
+    penwidth=3.58676993351079
+  ];
+  3 [
+    name=4
+    label="Kory Becker"
+    fontsize=16.8434416841714
+    fillcolor=grey79
+    style=filled
+    penwidth=2.05283256352366
+  ];
+
+  0 -> 1 [
+    weight=2
+  ];
+  0 -> 3 [
+    weight=2
+  ];
+  1 -> 0 [
+    weight=3
+  ];
+  2 -> 0 [
+    weight=6
+  ];
+  3 -> 0 [
+    weight=3
+  ];
+  3 -> 1 [
+    weight=2
+  ];
+}

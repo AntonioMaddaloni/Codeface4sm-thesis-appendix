@@ -1,0 +1,41 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Random Walk Community (tr) 5 Community Quality =  0.385892116182573"
+    fontsize=30
+  ];
+  0 [
+    name=1
+    label="Rodi Reich Zilberman"
+    fontsize=22.6115816816689
+    fillcolor=grey71
+    style=filled
+    penwidth=2.17792396957369
+  ];
+  1 [
+    name=2
+    label="Yue Li"
+    fontsize=18.8684816397374
+    fillcolor=grey79
+    style=filled
+    penwidth=1.76292423087946
+  ];
+  2 [
+    name=3
+    label="Wenqi Hu"
+    fontsize=15
+    fillcolor=grey71
+    style=filled
+    penwidth=1.80810425619167
+  ];
+
+  1 -> 0 [
+    weight=24
+  ];
+  2 -> 0 [
+    weight=13
+  ];
+  2 -> 1 [
+    weight=37
+  ];
+}

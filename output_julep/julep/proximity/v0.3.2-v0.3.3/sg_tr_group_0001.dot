@@ -1,0 +1,41 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Spin Glass Community (tr) 1 Community Quality =  0"
+    fontsize=30
+  ];
+  0 [
+    name=1
+    label="Siddharth Balyan"
+    fontsize=26.9970703125
+    fillcolor=grey70
+    style=filled
+    penwidth=3.93448792211824
+  ];
+  1 [
+    name=2
+    label="Dmitry Paramonov"
+    fontsize=40.771484375
+    fillcolor=grey100
+    style=filled
+    penwidth=3.79198339556315
+  ];
+  2 [
+    name=3
+    label=whiterabbit1983
+    fontsize=50
+    fillcolor=grey50
+    style=filled
+    penwidth=4.8510092515301
+  ];
+
+  1 -> 2 [
+    weight=55
+  ];
+  2 -> 0 [
+    weight=27
+  ];
+  2 -> 1 [
+    weight=58
+  ];
+}

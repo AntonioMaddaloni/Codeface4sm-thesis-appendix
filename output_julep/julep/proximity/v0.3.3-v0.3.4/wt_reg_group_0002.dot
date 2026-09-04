@@ -1,0 +1,30 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Random Walk Community 2 Community Quality =  0.443478260869565"
+    fontsize=30
+  ];
+  0 [
+    name=1
+    label="Siddharth Balyan"
+    fontsize=22.5709854831489
+    fillcolor=grey79
+    style=filled
+    penwidth=2.37604077912077
+  ];
+  1 [
+    name=2
+    label="Diwank Singh Tomer"
+    fontsize=50
+    fillcolor=grey50
+    style=filled
+    penwidth=3.75208155824155
+  ];
+
+  0 -> 1 [
+    weight=6
+  ];
+  1 -> 0 [
+    weight=26
+  ];
+}

@@ -1,0 +1,27 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Spin Glass Community (tr) 11 Community Quality =  0"
+    fontsize=30
+  ];
+  0 [
+    name=1
+    label="Omri Grossman"
+    fontsize=27.5610670049482
+    fillcolor=grey81
+    style=filled
+    penwidth=1
+  ];
+  1 [
+    name=2
+    label="Ryan Johns"
+    fontsize=15
+    fillcolor=grey90
+    style=filled
+    penwidth=1
+  ];
+
+  1 -> 0 [
+    weight=51
+  ];
+}

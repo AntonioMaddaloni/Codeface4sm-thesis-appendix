@@ -1,0 +1,142 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Spin Glass Community (tr) 1 Community Quality =  0.454718055819252"
+    fontsize=30
+  ];
+  0 [
+    name=1
+    label="Harutaka Kawamura"
+    fontsize=34.5827768226203
+    fillcolor=grey61
+    style=filled
+    penwidth=4.16375479002529
+  ];
+  1 [
+    name=2
+    label=WeichenXu
+    fontsize=20.8843171296019
+    fillcolor=grey65
+    style=filled
+    penwidth=2.35801076665005
+  ];
+  2 [
+    name=3
+    label="Siddharth Murching"
+    fontsize=15.7380224405368
+    fillcolor=grey76
+    style=filled
+    penwidth=1.58486340280745
+  ];
+  3 [
+    name=4
+    label="Michael Berk"
+    fontsize=50
+    fillcolor=grey56
+    style=filled
+    penwidth=2.5793883626284
+  ];
+  4 [
+    name=5
+    label=TomuHirata
+    fontsize=15.0664739131432
+    fillcolor=grey65
+    style=filled
+    penwidth=1.34212315868653
+  ];
+  5 [
+    name=6
+    label="Ernest Wong"
+    fontsize=15.9271164025846
+    fillcolor=grey72
+    style=filled
+    penwidth=1
+  ];
+  6 [
+    name=7
+    label="Uwe L. Korn"
+    fontsize=15.0212569781594
+    fillcolor=grey95
+    style=filled
+    penwidth=1
+  ];
+  7 [
+    name=8
+    label="Ngo Minh Thang Nguyen"
+    fontsize=15.1395952176007
+    fillcolor=grey71
+    style=filled
+    penwidth=1
+  ];
+  8 [
+    name=9
+    label=raphaelauv
+    fontsize=15.0239232717083
+    fillcolor=grey85
+    style=filled
+    penwidth=1
+  ];
+  9 [
+    name=10
+    label="Mingyang Ge"
+    fontsize=15.2838854533021
+    fillcolor=grey88
+    style=filled
+    penwidth=1
+  ];
+
+  0 -> 1 [
+    weight=223
+  ];
+  0 -> 3 [
+    weight=833
+  ];
+  0 -> 4 [
+    weight=10
+  ];
+  0 -> 5 [
+    weight=46
+  ];
+  0 -> 7 [
+    weight=21
+  ];
+  0 -> 8 [
+    weight=2
+  ];
+  1 -> 0 [
+    weight=52
+  ];
+  1 -> 2 [
+    weight=3
+  ];
+  1 -> 3 [
+    weight=68
+  ];
+  2 -> 3 [
+    weight=22
+  ];
+  3 -> 0 [
+    weight=20
+  ];
+  3 -> 1 [
+    weight=50
+  ];
+  3 -> 2 [
+    weight=28
+  ];
+  3 -> 9 [
+    weight=12
+  ];
+  4 -> 0 [
+    weight=5
+  ];
+  5 -> 3 [
+    weight=18
+  ];
+  6 -> 0 [
+    weight=15
+  ];
+  8 -> 3 [
+    weight=8
+  ];
+}

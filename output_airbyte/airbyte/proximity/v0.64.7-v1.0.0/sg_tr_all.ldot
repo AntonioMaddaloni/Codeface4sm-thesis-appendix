@@ -1,0 +1,244 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Spin Glass Community"
+  ];
+  0 [
+    name=1
+    label=1
+    fontsize=15
+    fillcolor="#090000"
+    style=filled
+    penwidth=4.60670846130971
+    pencolor=grey59
+  ];
+  1 [
+    name=2
+    label=2
+    fontsize=15
+    fillcolor="#130000"
+    style=filled
+    penwidth=5
+    pencolor=grey50
+  ];
+  2 [
+    name=3
+    label=3
+    fontsize=15
+    fillcolor="#1d0000"
+    style=filled
+    penwidth=1.82282828071788
+    pencolor=grey94
+  ];
+  3 [
+    name=4
+    label=4
+    fontsize=15
+    fillcolor="#270000"
+    style=filled
+    penwidth=1.62244556560998
+    pencolor=grey84
+  ];
+  4 [
+    name=5
+    label=5
+    fontsize=15
+    fillcolor="#310000"
+    style=filled
+    penwidth=1.36410731462201
+    pencolor=grey98
+  ];
+  5 [
+    name=6
+    label=6
+    fontsize=15
+    fillcolor="#3a0000"
+    style=filled
+    penwidth=1
+    pencolor=grey79
+  ];
+  6 [
+    name=7
+    label=7
+    fontsize=15
+    fillcolor="#440000"
+    style=filled
+    penwidth=1.62244556560998
+    pencolor=grey63
+  ];
+  7 [
+    name=8
+    label=8
+    fontsize=15
+    fillcolor="#4e0000"
+    style=filled
+    penwidth=1
+    pencolor=grey92
+  ];
+  8 [
+    name=9
+    label=9
+    fontsize=15
+    fillcolor="#580000"
+    style=filled
+    penwidth=1.82282828071788
+    pencolor=grey60
+  ];
+  9 [
+    name=10
+    label=10
+    fontsize=15
+    fillcolor="#620000"
+    style=filled
+    penwidth=1.62244556560998
+    pencolor=grey84
+  ];
+  10 [
+    name=11
+    label=11
+    fontsize=15
+    fillcolor="#6b0000"
+    style=filled
+    penwidth=1.62244556560998
+    pencolor=grey76
+  ];
+  11 [
+    name=12
+    label=12
+    fontsize=15
+    fillcolor="#750000"
+    style=filled
+    penwidth=1.36410731462201
+    pencolor=grey77
+  ];
+  12 [
+    name=13
+    label=13
+    fontsize=15
+    fillcolor="#7f0000"
+    style=filled
+    penwidth=1.36410731462201
+    pencolor=grey100
+  ];
+  13 [
+    name=14
+    label=14
+    fontsize=15
+    fillcolor="#890000"
+    style=filled
+    penwidth=1
+    pencolor=grey82
+  ];
+  14 [
+    name=15
+    label=15
+    fontsize=15
+    fillcolor="#930000"
+    style=filled
+    penwidth=1.62244556560998
+    pencolor=grey91
+  ];
+  15 [
+    name=16
+    label=16
+    fontsize=15
+    fillcolor="#9c0000"
+    style=filled
+    penwidth=1.36410731462201
+    pencolor=grey98
+  ];
+  16 [
+    name=17
+    label=17
+    fontsize=15
+    fillcolor="#a60000"
+    style=filled
+    penwidth=3.0216580781656
+    pencolor=grey67
+  ];
+  17 [
+    name=18
+    label=18
+    fontsize=15
+    fillcolor="#b00000"
+    style=filled
+    penwidth=1.98655288023198
+    pencolor=grey70
+  ];
+  18 [
+    name=19
+    label=19
+    fontsize=15
+    fillcolor="#ba0000"
+    style=filled
+    penwidth=1.36410731462201
+    pencolor=grey86
+  ];
+  19 [
+    name=20
+    label=20
+    fontsize=15
+    fillcolor="#c40000"
+    style=filled
+    penwidth=1
+    pencolor=grey68
+  ];
+  20 [
+    name=21
+    label=21
+    fontsize=15
+    fillcolor="#cd0000"
+    style=filled
+    penwidth=1
+    pencolor=grey91
+  ];
+  21 [
+    name=22
+    label=22
+    fontsize=15
+    fillcolor="#d70000"
+    style=filled
+    penwidth=1.36410731462201
+    pencolor=grey58
+  ];
+  22 [
+    name=23
+    label=23
+    fontsize=15
+    fillcolor="#e10000"
+    style=filled
+    penwidth=1.36410731462201
+    pencolor=grey87
+  ];
+  23 [
+    name=24
+    label=24
+    fontsize=15
+    fillcolor="#eb0000"
+    style=filled
+    penwidth=1
+    pencolor=grey69
+  ];
+  24 [
+    name=25
+    label=25
+    fontsize=15
+    fillcolor="#f50000"
+    style=filled
+    penwidth=1
+    pencolor=grey87
+  ];
+  25 [
+    name=26
+    label=26
+    fontsize=50
+    fillcolor="#620000"
+    style=filled
+    penwidth=1.36410731462201
+    pencolor=grey90
+  ];
+
+  9 -> 25 [
+    weight=2
+  ];
+}

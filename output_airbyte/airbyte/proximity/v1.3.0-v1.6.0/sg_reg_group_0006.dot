@@ -1,0 +1,27 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Spin Glass Community 6 Community Quality =  0.586206896551724"
+    fontsize=30
+  ];
+  0 [
+    name=1
+    label="Jason T Brown"
+    fontsize=15.0939949458226
+    fillcolor=grey79
+    style=filled
+    penwidth=1.53653956080988
+  ];
+  1 [
+    name=2
+    label="Nick Copley"
+    fontsize=15.7387188873077
+    fillcolor=grey88
+    style=filled
+    penwidth=1.19802078792677
+  ];
+
+  1 -> 0 [
+    weight=12
+  ];
+}

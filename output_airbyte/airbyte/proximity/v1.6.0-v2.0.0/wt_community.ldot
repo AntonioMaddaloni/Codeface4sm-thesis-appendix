@@ -1,0 +1,141 @@
+digraph pieGraph {
+	graph [bgcolor=transparent, fontcolor=black, ratio=fill, overlap=prism, splines=TRUE, rank=same, size=7, rankdir=TB];
+	node [label="\N", shape=ellipse, fixedsize=TRUE, fillcolor=transparent, color=black, fontcolor=black, fontsize=14, height="0.5", width="0.75", style=wedged];
+	edge [headport=center, color=black, dir=none, weight="1.0", fontcolor=black, arrowhead=none, arrowtail=none, fontsize=14, labelfontsize=11, arrowsize=1, style=solid, minlen=1, penwidth="1.0"];
+	graph [bb="0 0 941 941"];
+	subgraph cluster_0 {
+		graph [bgcolor="#FFFF2E80",
+			bb="",
+			penwidth=75,
+			style=bold,
+			color="#E495A5",
+			label="ID 1",
+			fontsize=120];
+		1 [label=99819827, fillcolor="#86B875;0.5:#E495A5;0.5:", height="1.46007235116129", width="1.46007235116129"];
+		5 [label=99819739, fillcolor="#86B875;0.619047619047619:#E495A5;0.380952380952381:", height="1.72398905498462", width="1.72398905498462"];
+		10 [label=99819740, fillcolor="#E495A5;0.75:#86B875;0.25:", height="1.04002861870526", width="1.04002861870526"];
+		12 [label=99819744, fillcolor="#86B875;0.652173913043478:#E495A5;0.260869565217391:#39BEB1;0.0869565217391304:", height="4.17117248973413", width="4.17117248973413"];
+		19 [label=99819796, fillcolor="#E495A5;0.5:#86B875;0.5:", height="1.02461934481796", width="1.02461934481796"];
+		1 -> 10:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		1 -> 12:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		5 -> 10:center [color="#00000040", dir=both, weight=1, arrowhead=open, arrowtail=open, arrowsize="3.33333333333333", penwidth=10];
+		5 -> 12:center [color="#00000040", dir=both, weight=1, arrowhead=open, arrowtail=open, arrowsize="3.33333333333333", penwidth=10];
+		12 -> 10:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		19 -> 1:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+	}
+	subgraph cluster_1 {
+		graph [bgcolor="#75FF8480",
+			bb="",
+			penwidth=75,
+			style=bold,
+			color="#C7A76C",
+			label="ID 2",
+			fontsize=120];
+		2 [label=99819720, fillcolor="#C7A76C;1:", height="1.77756231559154", width="1.77756231559154"];
+		4 [label=99819710, fillcolor="#C7A76C;1:", height="1.60895862495384", width="1.60895862495384"];
+		9 [label=99819734, fillcolor="#C7A76C;0.555555555555556:#CD99D8;0.444444444444444:", height="0.792803156794607", width="0.792803156794607"];
+		14 [label=99819756, fillcolor="#C7A76C;1:", height="1.18587388356367", width="1.18587388356367"];
+		16 [label=99819774, fillcolor="#C7A76C;0.826086956521739:#CD99D8;0.173913043478261:", height="2.98024223268444", width="2.98024223268444"];
+		21 [label=99819823, fillcolor="#C7A76C;1:", height="1.14620819956248", width="1.14620819956248"];
+		24 [label=99819856, fillcolor="#C7A76C;1:", height="1.05807018110526", width="1.05807018110526"];
+		30 [label=99819936, fillcolor="#C7A76C;0.666666666666667:#CD99D8;0.333333333333333:", height="0.75"];
+		2 -> 4:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		2 -> 16:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		2 -> 21:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		2 -> 24:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		4 -> 16:center [color="#00000040", dir=both, weight=1, arrowhead=open, arrowtail=open, arrowsize="3.33333333333333", penwidth=10];
+		9 -> 16:center [color="#00000040", dir=both, weight=1, arrowhead=open, arrowtail=open, arrowsize="3.33333333333333", penwidth=10];
+		9 -> 30:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		14 -> 16:center [color="#00000040", dir=both, weight=1, arrowhead=open, arrowtail=open, arrowsize="3.33333333333333", penwidth=10];
+		16 -> 21:center [color="#00000040", dir=both, weight=1, arrowhead=open, arrowtail=open, arrowsize="3.33333333333333", penwidth=10];
+		16 -> 30:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		21 -> 4:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		24 -> 4:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		24 -> 16:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		24 -> 21:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+	}
+	subgraph cluster_2 {
+		graph [bgcolor="#FFFF6680",
+			bb="",
+			penwidth=75,
+			style=bold,
+			color="#86B875",
+			label="ID 3",
+			fontsize=120];
+		3 [label=99819940, fillcolor="#E495A5;0.476190476190476:#86B875;0.476190476190476:#39BEB1;0.0476190476190476:", height="3.52235282318114", width="3.52235282318114"];
+		8 [label=99819726, fillcolor="#86B875;0.535714285714286:#E495A5;0.25:#39BEB1;0.178571428571429:#CD99D8;0.0357142857142857:", height=5, width=5];
+		11 [label=99819741, fillcolor="#86B875;0.6:#E495A5;0.4:", height="2.82827260055497", width="2.82827260055497"];
+		20 [label=99819805, fillcolor="#86B875;0.545454545454545:#E495A5;0.454545454545455:", height="1.42474125109436", width="1.42474125109436"];
+		25 [label=99819896, fillcolor="#86B875;0.857142857142857:#E495A5;0.142857142857143:", height="1.90599221001336", width="1.90599221001336"];
+		26 [label=99819898, fillcolor="#86B875;1:", height="0.820526789935251", width="0.820526789935251"];
+		27 [label=99819900, fillcolor="#86B875;1:", height="0.75"];
+		29 [label=99819924, fillcolor="#86B875;1:", height="0.75"];
+		31 [label=99819950, fillcolor="#86B875;0.5:#E495A5;0.5:", height="0.75"];
+		3 -> 8:center [color="#00000040", dir=both, weight=1, arrowhead=open, arrowtail=open, arrowsize="3.33333333333333", penwidth=10];
+		3 -> 11:center [color="#00000040", dir=both, weight=1, arrowhead=open, arrowtail=open, arrowsize="3.33333333333333", penwidth=10];
+		3 -> 27:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		8 -> 11:center [color="#00000040", dir=both, weight=1, arrowhead=open, arrowtail=open, arrowsize="3.33333333333333", penwidth=10];
+		8 -> 20:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		8 -> 25:center [color="#00000040", dir=both, weight=1, arrowhead=open, arrowtail=open, arrowsize="3.33333333333333", penwidth=10];
+		8 -> 29:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		11 -> 20:center [color="#00000040", dir=both, weight=1, arrowhead=open, arrowtail=open, arrowsize="3.33333333333333", penwidth=10];
+		11 -> 29:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		11 -> 31:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		25 -> 3:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		25 -> 11:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		26 -> 8:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		26 -> 20:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+	}
+	subgraph cluster_3 {
+		graph [bgcolor="#FFFF5A80",
+			bb="",
+			penwidth=75,
+			style=bold,
+			color="#39BEB1",
+			label="ID 4",
+			fontsize=120];
+		6 [label=99819872, fillcolor="#39BEB1;0.384615384615385:#86B875;0.307692307692308:#CD99D8;0.307692307692308:", height="4.09252283326002", width="4.09252283326002"];
+		22 [label=99819833, fillcolor="#39BEB1;0.75:#86B875;0.0833333333333333:#E495A5;0.0833333333333333:#CD99D8;0.0833333333333333:", height="4.4913724054544", width="4.4913724054544"];
+		23 [label=99819845, fillcolor="#39BEB1;0.714285714285714:#86B875;0.142857142857143:#CD99D8;0.142857142857143:", height="2.69651413148154", width="2.69651413148154"];
+		32 [label=99819810, fillcolor="#E495A5;0.5:#39BEB1;0.5:", height="0.75"];
+		6 -> 22:center [color="#00000040", dir=both, weight=1, arrowhead=open, arrowtail=open, arrowsize="3.33333333333333", penwidth=10];
+		22 -> 23:center [color="#00000040", dir=both, weight=1, arrowhead=open, arrowtail=open, arrowsize="3.33333333333333", penwidth=10];
+		22 -> 32:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		23 -> 6:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+	}
+	subgraph cluster_4 {
+		graph [bgcolor="#4DFF4D80",
+			bb="",
+			penwidth=75,
+			style=bold,
+			color="#7DB0DD",
+			label="ID 5",
+			fontsize=120];
+		7 [label=99819691, fillcolor="#7DB0DD;1:", height="0.872894385313623", width="0.872894385313623"];
+		18 [label=99819794, fillcolor="#7DB0DD;1:", height="1.6393380607457", width="1.6393380607457"];
+		28 [label=99819923, fillcolor="#7DB0DD;1:", height="0.75"];
+		7 -> 28:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		18 -> 7:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+		18 -> 28:center [color="#00000040", dir=forward, weight=1, arrowhead=open, arrowsize="3.33333333333333", penwidth=10];
+	}
+	subgraph cluster_5 {
+		graph [bgcolor="#FFFF3B80",
+			bb="",
+			penwidth=75,
+			style=bold,
+			color="#CD99D8",
+			label="ID 6",
+			fontsize=120];
+		13 [label=99819751, fillcolor="#C7A76C;0.5:#CD99D8;0.444444444444444:#86B875;0.0555555555555556:", height="1.39204814863144", width="1.39204814863144"];
+		15 [label=99819765, fillcolor="#CD99D8;1:", height="0.825608564340715", width="0.825608564340715"];
+		17 [label=99819788, fillcolor="#39BEB1;0.6:#CD99D8;0.4:", height="1.47988677543793", width="1.47988677543793"];
+		13 -> 15:center [color="#00000040", dir=both, weight=1, arrowhead=open, arrowtail=open, arrowsize="3.33333333333333", penwidth=10];
+		13 -> 17:center [color="#00000040", dir=both, weight=1, arrowhead=open, arrowtail=open, arrowsize="3.33333333333333", penwidth=10];
+	}
+	8 -> 12:center [color=red, dir=both, weight=12, arrowhead=open, arrowtail=open, arrowsize="6.66666666666667", style=bold, penwidth=25];
+	8 -> 22:center [color=red, dir=both, weight=2, arrowhead=open, arrowtail=open, arrowsize="0.636363636363637", style=bold, penwidth="6.81818181818182"];
+	12 -> 22:center [color=red, dir=forward, weight=2, arrowhead=open, arrowsize="0.636363636363637", style=bold, penwidth="6.81818181818182"];
+	16 -> 17:center [color=red, dir=both, weight=2, arrowhead=open, arrowtail=open, arrowsize="0.636363636363637", style=bold, penwidth="6.81818181818182"];
+	17 -> 8:center [color=red, dir=forward, weight=1, arrowhead=open, arrowsize="0.033333333333334", style=bold, penwidth=5];
+	17 -> 22:center [color=red, dir=both, weight=1, arrowhead=open, arrowtail=open, arrowsize="0.033333333333334", style=bold, penwidth=5];
+}

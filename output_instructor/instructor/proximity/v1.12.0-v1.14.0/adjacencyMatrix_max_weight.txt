@@ -1,0 +1,14 @@
+99819306	99819307	99819315	99819317	99819327	99819328	99819329	99819330	99819331	99819332	99819333	99819334	99819335
+File_Level	None	None	None	None	update_genai_kwargs	None	from_provider	None	None	from_provider	None	None
+None	None	None	None	None	None	None	None	None	None	None	None	None
+from_provider	None	None	None	None	None	None	from_provider	None	None	from_provider	None	None
+_validate_model_from_json	None	None	None	None	None	None	None	None	None	None	None	None
+None	None	None	None	None	None	None	None	None	None	None	None	None
+test_verify_no_unions_always_returns_true	None	None	None	None	verify_no_unions	None	None	None	None	None	None	None
+None	None	None	None	None	None	None	None	None	None	None	None	None
+from_provider	None	None	None	None	None	None	None	None	None	from_provider	None	None
+None	None	None	None	None	None	None	None	None	None	None	None	None
+None	None	None	None	None	None	None	None	None	None	None	None	None
+from_provider	None	None	None	None	None	None	None	None	None	None	None	None
+None	None	None	None	None	None	None	None	None	None	None	None	None
+_openai_image_part_to_bedrock	None	None	None	None	None	None	None	None	None	None	_to_bedrock_content_items	None

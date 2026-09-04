@@ -1,0 +1,27 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Random Walk Community (tr) 3 Community Quality =  0.815384615384615"
+    fontsize=30
+  ];
+  0 [
+    name=1
+    label="Yue Liu"
+    fontsize=15.2608728452143
+    fillcolor=grey88
+    style=filled
+    penwidth=1.42482520786218
+  ];
+  1 [
+    name=2
+    label="Chris Cheney"
+    fontsize=15.0401696537597
+    fillcolor=grey92
+    style=filled
+    penwidth=1
+  ];
+
+  1 -> 0 [
+    weight=6
+  ];
+}

@@ -1,0 +1,27 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Random Walk Community (tr) 2 Community Quality =  0.142857142857143"
+    fontsize=30
+  ];
+  0 [
+    name=1
+    label="Philip DePetro"
+    fontsize=15
+    fillcolor=grey76
+    style=filled
+    penwidth=2.66808753429294
+  ];
+  1 [
+    name=2
+    label="Mathias Fußenegger"
+    fontsize=26.6666666666667
+    fillcolor=grey93
+    style=filled
+    penwidth=1
+  ];
+
+  0 -> 1 [
+    weight=9
+  ];
+}

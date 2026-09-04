@@ -1,0 +1,30 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Spin Glass Community (tr) 1 Community Quality =  0.591304347826087"
+    fontsize=30
+  ];
+  0 [
+    name=1
+    label="devin-ai-integrationbot"
+    fontsize=18.9199658528467
+    fillcolor=grey70
+    style=filled
+    penwidth=2.84643052388048
+  ];
+  1 [
+    name=2
+    label="Jeongyoon Moon"
+    fontsize=15.9979491916007
+    fillcolor=grey71
+    style=filled
+    penwidth=2.92891553439706
+  ];
+
+  0 -> 1 [
+    weight=14
+  ];
+  1 -> 0 [
+    weight=127
+  ];
+}

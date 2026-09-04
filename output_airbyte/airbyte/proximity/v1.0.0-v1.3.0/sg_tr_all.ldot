@@ -1,0 +1,1117 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Spin Glass Community"
+  ];
+  0 [
+    name=1
+    label=1
+    fontsize=15
+    fillcolor="#020000"
+    style=filled
+    penwidth=4.63637566481777
+    pencolor=grey58
+  ];
+  1 [
+    name=2
+    label=2
+    fontsize=15
+    fillcolor="#050000"
+    style=filled
+    penwidth=5
+    pencolor=grey50
+  ];
+  2 [
+    name=3
+    label=3
+    fontsize=15
+    fillcolor="#080000"
+    style=filled
+    penwidth=1.88194312398829
+    pencolor=grey87
+  ];
+  3 [
+    name=4
+    label=4
+    fontsize=15
+    fillcolor="#0a0000"
+    style=filled
+    penwidth=3.00404617125727
+    pencolor=grey78
+  ];
+  4 [
+    name=5
+    label=5
+    fontsize=20.3598027316811
+    fillcolor="#150000"
+    style=filled
+    penwidth=2.3501626276125
+    pencolor=grey67
+  ];
+  5 [
+    name=6
+    label=6
+    fontsize=40.7080617603275
+    fillcolor="#180000"
+    style=filled
+    penwidth=2.32008587199556
+    pencolor=grey67
+  ];
+  6 [
+    name=7
+    label=7
+    fontsize=15
+    fillcolor="#1d0000"
+    style=filled
+    penwidth=1.99961003423381
+    pencolor=grey86
+  ];
+  7 [
+    name=8
+    label=8
+    fontsize=29.1963398340558
+    fillcolor="#200000"
+    style=filled
+    penwidth=2.58791446463872
+    pencolor=grey58
+  ];
+  8 [
+    name=9
+    label=9
+    fontsize=41.4533082063589
+    fillcolor="#150000"
+    style=filled
+    penwidth=3.05024077113174
+    pencolor=grey63
+  ];
+  9 [
+    name=10
+    label=10
+    fontsize=15
+    fillcolor="#230000"
+    style=filled
+    penwidth=2.4570701868338
+    pencolor=grey71
+  ];
+  10 [
+    name=11
+    label=11
+    fontsize=15
+    fillcolor="#250000"
+    style=filled
+    penwidth=1.23775183702621
+    pencolor=grey88
+  ];
+  11 [
+    name=12
+    label=12
+    fontsize=15.6443752459457
+    fillcolor="#180000"
+    style=filled
+    penwidth=2.71088791045689
+    pencolor=grey57
+  ];
+  12 [
+    name=13
+    label=13
+    fontsize=26.6031225173249
+    fillcolor="#1b0000"
+    style=filled
+    penwidth=2.2548666988952
+    pencolor=grey65
+  ];
+  13 [
+    name=14
+    label=14
+    fontsize=37.8024837349179
+    fillcolor="#150000"
+    style=filled
+    penwidth=3.03219724967931
+    pencolor=grey68
+  ];
+  14 [
+    name=15
+    label=15
+    fontsize=15
+    fillcolor="#280000"
+    style=filled
+    penwidth=2.37877162732204
+    pencolor=grey69
+  ];
+  15 [
+    name=16
+    label=16
+    fontsize=29.1963398340558
+    fillcolor="#2b0000"
+    style=filled
+    penwidth=1.94372317767664
+    pencolor=grey70
+  ];
+  16 [
+    name=17
+    label=17
+    fontsize=20.0945517245817
+    fillcolor="#1b0000"
+    style=filled
+    penwidth=1.99961003423381
+    pencolor=grey77
+  ];
+  17 [
+    name=18
+    label=18
+    fontsize=15
+    fillcolor="#120000"
+    style=filled
+    penwidth=1.88194312398829
+    pencolor=grey72
+  ];
+  18 [
+    name=19
+    label=19
+    fontsize=15
+    fillcolor="#2e0000"
+    style=filled
+    penwidth=2.82566630166493
+    pencolor=grey68
+  ];
+  19 [
+    name=20
+    label=20
+    fontsize=15
+    fillcolor="#300000"
+    style=filled
+    penwidth=1.88194312398829
+    pencolor=grey87
+  ];
+  20 [
+    name=21
+    label=21
+    fontsize=15
+    fillcolor="#330000"
+    style=filled
+    penwidth=1
+    pencolor=grey92
+  ];
+  21 [
+    name=22
+    label=22
+    fontsize=15
+    fillcolor="#150000"
+    style=filled
+    penwidth=2.09756523362622
+    pencolor=grey74
+  ];
+  22 [
+    name=23
+    label=23
+    fontsize=15
+    fillcolor="#360000"
+    style=filled
+    penwidth=2.4570701868338
+    pencolor=grey66
+  ];
+  23 [
+    name=24
+    label=24
+    fontsize=15
+    fillcolor="#380000"
+    style=filled
+    penwidth=1.23775183702621
+    pencolor=grey92
+  ];
+  24 [
+    name=25
+    label=25
+    fontsize=34.3705321156788
+    fillcolor="#3b0000"
+    style=filled
+    penwidth=3.17752048975975
+    pencolor=grey64
+  ];
+  25 [
+    name=26
+    label=26
+    fontsize=15
+    fillcolor="#3e0000"
+    style=filled
+    penwidth=1.88194312398829
+    pencolor=grey86
+  ];
+  26 [
+    name=27
+    label=27
+    fontsize=15
+    fillcolor="#410000"
+    style=filled
+    penwidth=1.53728372774078
+    pencolor=grey89
+  ];
+  27 [
+    name=28
+    label=28
+    fontsize=15
+    fillcolor="#430000"
+    style=filled
+    penwidth=1.64419128696207
+    pencolor=grey77
+  ];
+  28 [
+    name=29
+    label=29
+    fontsize=15
+    fillcolor="#200000"
+    style=filled
+    penwidth=2.05063073689794
+    pencolor=grey70
+  ];
+  29 [
+    name=30
+    label=30
+    fontsize=15
+    fillcolor="#460000"
+    style=filled
+    penwidth=1.23775183702621
+    pencolor=grey67
+  ];
+  30 [
+    name=31
+    label=31
+    fontsize=15
+    fillcolor="#490000"
+    style=filled
+    penwidth=1
+    pencolor=grey81
+  ];
+  31 [
+    name=32
+    label=32
+    fontsize=15
+    fillcolor="#4b0000"
+    style=filled
+    penwidth=1.23775183702621
+    pencolor=grey80
+  ];
+  32 [
+    name=33
+    label=33
+    fontsize=15
+    fillcolor="#4e0000"
+    style=filled
+    penwidth=1.23775183702621
+    pencolor=grey88
+  ];
+  33 [
+    name=34
+    label=34
+    fontsize=15
+    fillcolor="#510000"
+    style=filled
+    penwidth=1
+    pencolor=grey96
+  ];
+  34 [
+    name=35
+    label=35
+    fontsize=15
+    fillcolor="#540000"
+    style=filled
+    penwidth=1.23775183702621
+    pencolor=grey82
+  ];
+  35 [
+    name=36
+    label=36
+    fontsize=15
+    fillcolor="#560000"
+    style=filled
+    penwidth=1.81287889987172
+    pencolor=grey75
+  ];
+  36 [
+    name=37
+    label=37
+    fontsize=38.2517110475606
+    fillcolor="#180000"
+    style=filled
+    penwidth=2.09756523362622
+    pencolor=grey70
+  ];
+  37 [
+    name=38
+    label=38
+    fontsize=15.6443752459457
+    fillcolor="#0d0000"
+    style=filled
+    penwidth=1.99961003423381
+    pencolor=grey69
+  ];
+  38 [
+    name=39
+    label=39
+    fontsize=15
+    fillcolor="#590000"
+    style=filled
+    penwidth=2.09756523362622
+    pencolor=grey83
+  ];
+  39 [
+    name=40
+    label=40
+    fontsize=22.1837639334364
+    fillcolor="#150000"
+    style=filled
+    penwidth=2.05063073689794
+    pencolor=grey75
+  ];
+  40 [
+    name=41
+    label=41
+    fontsize=15
+    fillcolor="#5c0000"
+    style=filled
+    penwidth=1
+    pencolor=grey89
+  ];
+  41 [
+    name=42
+    label=42
+    fontsize=50
+    fillcolor="#100000"
+    style=filled
+    penwidth=2.64380132119588
+    pencolor=grey58
+  ];
+  42 [
+    name=43
+    label=43
+    fontsize=15
+    fillcolor="#5e0000"
+    style=filled
+    penwidth=1
+    pencolor=grey99
+  ];
+  43 [
+    name=44
+    label=44
+    fontsize=18.5223057275136
+    fillcolor="#0d0000"
+    style=filled
+    penwidth=1.88194312398829
+    pencolor=grey74
+  ];
+  44 [
+    name=45
+    label=45
+    fontsize=15
+    fillcolor="#610000"
+    style=filled
+    penwidth=2.43211458323474
+    pencolor=grey63
+  ];
+  45 [
+    name=46
+    label=46
+    fontsize=19.6145396197696
+    fillcolor="#1b0000"
+    style=filled
+    penwidth=1.40643944993586
+    pencolor=grey76
+  ];
+  46 [
+    name=47
+    label=47
+    fontsize=15
+    fillcolor="#640000"
+    style=filled
+    penwidth=1.53728372774078
+    pencolor=grey71
+  ];
+  47 [
+    name=48
+    label=48
+    fontsize=15
+    fillcolor="#670000"
+    style=filled
+    penwidth=1.73458034035996
+    pencolor=grey65
+  ];
+  48 [
+    name=49
+    label=49
+    fontsize=15
+    fillcolor="#690000"
+    style=filled
+    penwidth=2.56803567352266
+    pencolor=grey61
+  ];
+  49 [
+    name=50
+    label=50
+    fontsize=15
+    fillcolor="#6c0000"
+    style=filled
+    penwidth=2.79900861217161
+    pencolor=grey60
+  ];
+  50 [
+    name=51
+    label=51
+    fontsize=15
+    fillcolor="#6f0000"
+    style=filled
+    penwidth=1.23775183702621
+    pencolor=grey94
+  ];
+  51 [
+    name=52
+    label=52
+    fontsize=15
+    fillcolor="#710000"
+    style=filled
+    penwidth=2.54745924023169
+    pencolor=grey60
+  ];
+  52 [
+    name=53
+    label=53
+    fontsize=15
+    fillcolor="#2b0000"
+    style=filled
+    penwidth=1
+    pencolor=grey90
+  ];
+  53 [
+    name=54
+    label=54
+    fontsize=15
+    fillcolor="#740000"
+    style=filled
+    penwidth=1
+    pencolor=grey92
+  ];
+  54 [
+    name=55
+    label=55
+    fontsize=15
+    fillcolor="#770000"
+    style=filled
+    penwidth=1.73458034035996
+    pencolor=grey74
+  ];
+  55 [
+    name=56
+    label=56
+    fontsize=15
+    fillcolor="#7a0000"
+    style=filled
+    penwidth=1.23775183702621
+    pencolor=grey94
+  ];
+  56 [
+    name=57
+    label=57
+    fontsize=15
+    fillcolor="#7c0000"
+    style=filled
+    penwidth=1
+    pencolor=grey91
+  ];
+  57 [
+    name=58
+    label=58
+    fontsize=15
+    fillcolor="#7f0000"
+    style=filled
+    penwidth=1.73458034035996
+    pencolor=grey74
+  ];
+  58 [
+    name=59
+    label=59
+    fontsize=15
+    fillcolor="#820000"
+    style=filled
+    penwidth=1
+    pencolor=grey77
+  ];
+  59 [
+    name=60
+    label=60
+    fontsize=15
+    fillcolor="#840000"
+    style=filled
+    penwidth=1
+    pencolor=grey80
+  ];
+  60 [
+    name=61
+    label=61
+    fontsize=15
+    fillcolor="#870000"
+    style=filled
+    penwidth=1.81287889987172
+    pencolor=grey84
+  ];
+  61 [
+    name=62
+    label=62
+    fontsize=15
+    fillcolor="#8a0000"
+    style=filled
+    penwidth=1.23775183702621
+    pencolor=grey91
+  ];
+  62 [
+    name=63
+    label=63
+    fontsize=15
+    fillcolor="#8d0000"
+    style=filled
+    penwidth=1.81287889987172
+    pencolor=grey69
+  ];
+  63 [
+    name=64
+    label=64
+    fontsize=22.8698442361157
+    fillcolor="#1b0000"
+    style=filled
+    penwidth=1.73458034035996
+    pencolor=grey78
+  ];
+  64 [
+    name=65
+    label=65
+    fontsize=15
+    fillcolor="#8f0000"
+    style=filled
+    penwidth=1
+    pencolor=grey88
+  ];
+  65 [
+    name=66
+    label=66
+    fontsize=27.8887822177612
+    fillcolor="#3b0000"
+    style=filled
+    penwidth=1.94372317767664
+    pencolor=grey73
+  ];
+  66 [
+    name=67
+    label=67
+    fontsize=15
+    fillcolor="#920000"
+    style=filled
+    penwidth=1
+    pencolor=grey99
+  ];
+  67 [
+    name=68
+    label=68
+    fontsize=15
+    fillcolor="#950000"
+    style=filled
+    penwidth=1.23775183702621
+    pencolor=grey94
+  ];
+  68 [
+    name=69
+    label=69
+    fontsize=15
+    fillcolor="#970000"
+    style=filled
+    penwidth=1.81287889987172
+    pencolor=grey79
+  ];
+  69 [
+    name=70
+    label=70
+    fontsize=38.7961928681416
+    fillcolor="#100000"
+    style=filled
+    penwidth=1.73458034035996
+    pencolor=grey71
+  ];
+  70 [
+    name=71
+    label=71
+    fontsize=15
+    fillcolor="#9a0000"
+    style=filled
+    penwidth=1
+    pencolor=grey74
+  ];
+  71 [
+    name=72
+    label=72
+    fontsize=15
+    fillcolor="#9d0000"
+    style=filled
+    penwidth=1
+    pencolor=grey99
+  ];
+  72 [
+    name=73
+    label=73
+    fontsize=15
+    fillcolor="#a00000"
+    style=filled
+    penwidth=1
+    pencolor=grey66
+  ];
+  73 [
+    name=74
+    label=74
+    fontsize=15
+    fillcolor="#a20000"
+    style=filled
+    penwidth=1.81287889987172
+    pencolor=grey89
+  ];
+  74 [
+    name=75
+    label=75
+    fontsize=15
+    fillcolor="#a50000"
+    style=filled
+    penwidth=1
+    pencolor=grey98
+  ];
+  75 [
+    name=76
+    label=76
+    fontsize=15
+    fillcolor="#a80000"
+    style=filled
+    penwidth=1.23775183702621
+    pencolor=grey88
+  ];
+  76 [
+    name=77
+    label=77
+    fontsize=15
+    fillcolor="#aa0000"
+    style=filled
+    penwidth=1
+    pencolor=grey95
+  ];
+  77 [
+    name=78
+    label=78
+    fontsize=15
+    fillcolor="#ad0000"
+    style=filled
+    penwidth=1.40643944993586
+    pencolor=grey81
+  ];
+  78 [
+    name=79
+    label=79
+    fontsize=15
+    fillcolor="#b00000"
+    style=filled
+    penwidth=1
+    pencolor=grey99
+  ];
+  79 [
+    name=80
+    label=80
+    fontsize=15
+    fillcolor="#b30000"
+    style=filled
+    penwidth=1
+    pencolor=grey64
+  ];
+  80 [
+    name=81
+    label=81
+    fontsize=15
+    fillcolor="#b50000"
+    style=filled
+    penwidth=1
+    pencolor=grey79
+  ];
+  81 [
+    name=82
+    label=82
+    fontsize=15
+    fillcolor="#b80000"
+    style=filled
+    penwidth=1
+    pencolor=grey90
+  ];
+  82 [
+    name=83
+    label=83
+    fontsize=15
+    fillcolor="#bb0000"
+    style=filled
+    penwidth=1
+    pencolor=grey91
+  ];
+  83 [
+    name=84
+    label=84
+    fontsize=15
+    fillcolor="#3b0000"
+    style=filled
+    penwidth=1.53728372774078
+    pencolor=grey76
+  ];
+  84 [
+    name=85
+    label=85
+    fontsize=23.0592525850728
+    fillcolor="#1b0000"
+    style=filled
+    penwidth=1.40643944993586
+    pencolor=grey87
+  ];
+  85 [
+    name=86
+    label=86
+    fontsize=15
+    fillcolor="#bd0000"
+    style=filled
+    penwidth=1.23775183702621
+    pencolor=grey80
+  ];
+  86 [
+    name=87
+    label=87
+    fontsize=15
+    fillcolor="#c00000"
+    style=filled
+    penwidth=1.53728372774078
+    pencolor=grey94
+  ];
+  87 [
+    name=88
+    label=88
+    fontsize=15
+    fillcolor="#c30000"
+    style=filled
+    penwidth=1.23775183702621
+    pencolor=grey92
+  ];
+  88 [
+    name=89
+    label=89
+    fontsize=15
+    fillcolor="#c60000"
+    style=filled
+    penwidth=1
+    pencolor=grey76
+  ];
+  89 [
+    name=90
+    label=90
+    fontsize=15
+    fillcolor="#c80000"
+    style=filled
+    penwidth=1
+    pencolor=grey74
+  ];
+  90 [
+    name=91
+    label=91
+    fontsize=15
+    fillcolor="#cb0000"
+    style=filled
+    penwidth=1
+    pencolor=grey81
+  ];
+  91 [
+    name=92
+    label=92
+    fontsize=15
+    fillcolor="#ce0000"
+    style=filled
+    penwidth=1.40643944993586
+    pencolor=grey77
+  ];
+  92 [
+    name=93
+    label=93
+    fontsize=15
+    fillcolor="#d00000"
+    style=filled
+    penwidth=1
+    pencolor=grey98
+  ];
+  93 [
+    name=94
+    label=94
+    fontsize=15
+    fillcolor="#d30000"
+    style=filled
+    penwidth=1
+    pencolor=grey84
+  ];
+  94 [
+    name=95
+    label=95
+    fontsize=15
+    fillcolor="#d60000"
+    style=filled
+    penwidth=1
+    pencolor=grey99
+  ];
+  95 [
+    name=96
+    label=96
+    fontsize=15
+    fillcolor="#d90000"
+    style=filled
+    penwidth=1.40643944993586
+    pencolor=grey71
+  ];
+  96 [
+    name=97
+    label=97
+    fontsize=15
+    fillcolor="#db0000"
+    style=filled
+    penwidth=1
+    pencolor=grey81
+  ];
+  97 [
+    name=98
+    label=98
+    fontsize=15
+    fillcolor="#de0000"
+    style=filled
+    penwidth=1
+    pencolor=grey88
+  ];
+  98 [
+    name=99
+    label=99
+    fontsize=15
+    fillcolor="#e10000"
+    style=filled
+    penwidth=1
+    pencolor=grey87
+  ];
+  99 [
+    name=100
+    label=100
+    fontsize=15
+    fillcolor="#180000"
+    style=filled
+    penwidth=1.23775183702621
+    pencolor=grey79
+  ];
+  100 [
+    name=101
+    label=101
+    fontsize=15
+    fillcolor="#e30000"
+    style=filled
+    penwidth=1
+    pencolor=grey70
+  ];
+  101 [
+    name=102
+    label=102
+    fontsize=15
+    fillcolor="#e60000"
+    style=filled
+    penwidth=1
+    pencolor=grey97
+  ];
+  102 [
+    name=103
+    label=103
+    fontsize=15
+    fillcolor="#e90000"
+    style=filled
+    penwidth=1.23775183702621
+    pencolor=grey81
+  ];
+  103 [
+    name=104
+    label=104
+    fontsize=15
+    fillcolor="#ec0000"
+    style=filled
+    penwidth=1.23775183702621
+    pencolor=grey92
+  ];
+  104 [
+    name=105
+    label=105
+    fontsize=15
+    fillcolor="#ee0000"
+    style=filled
+    penwidth=1
+    pencolor=grey99
+  ];
+  105 [
+    name=106
+    label=106
+    fontsize=15
+    fillcolor="#f10000"
+    style=filled
+    penwidth=1.23775183702621
+    pencolor=grey92
+  ];
+  106 [
+    name=107
+    label=107
+    fontsize=15
+    fillcolor="#f40000"
+    style=filled
+    penwidth=1
+    pencolor=grey76
+  ];
+  107 [
+    name=108
+    label=108
+    fontsize=15
+    fillcolor="#f60000"
+    style=filled
+    penwidth=1.23775183702621
+    pencolor=grey91
+  ];
+  108 [
+    name=109
+    label=109
+    fontsize=15
+    fillcolor="#f90000"
+    style=filled
+    penwidth=1
+    pencolor=grey82
+  ];
+  109 [
+    name=110
+    label=110
+    fontsize=15
+    fillcolor="#fc0000"
+    style=filled
+    penwidth=1
+    pencolor=grey96
+  ];
+
+  4 -> 8 [
+    weight=8
+  ];
+  4 -> 13 [
+    weight=4
+  ];
+  4 -> 39 [
+    weight=10
+  ];
+  5 -> 11 [
+    weight=3
+  ];
+  5 -> 36 [
+    weight=93
+  ];
+  5 -> 37 [
+    weight=3
+  ];
+  5 -> 43 [
+    weight=3
+  ];
+  8 -> 4 [
+    weight=36
+  ];
+  8 -> 13 [
+    weight=534
+  ];
+  8 -> 41 [
+    weight=60
+  ];
+  17 -> 8 [
+    weight=3
+  ];
+  21 -> 4 [
+    weight=15
+  ];
+  21 -> 8 [
+    weight=23
+  ];
+  21 -> 13 [
+    weight=2
+  ];
+  21 -> 36 [
+    weight=12
+  ];
+  28 -> 7 [
+    weight=23
+  ];
+  37 -> 5 [
+    weight=72
+  ];
+  37 -> 43 [
+    weight=18
+  ];
+  41 -> 8 [
+    weight=10
+  ];
+  41 -> 12 [
+    weight=2
+  ];
+  41 -> 13 [
+    weight=27
+  ];
+  41 -> 69 [
+    weight=1031
+  ];
+  45 -> 12 [
+    weight=2
+  ];
+  45 -> 41 [
+    weight=2
+  ];
+  45 -> 84 [
+    weight=2
+  ];
+  52 -> 15 [
+    weight=8
+  ];
+  63 -> 12 [
+    weight=9
+  ];
+  63 -> 16 [
+    weight=16
+  ];
+  63 -> 41 [
+    weight=9
+  ];
+  63 -> 45 [
+    weight=9
+  ];
+  63 -> 84 [
+    weight=9
+  ];
+  65 -> 24 [
+    weight=58
+  ];
+  69 -> 41 [
+    weight=479
+  ];
+  83 -> 24 [
+    weight=7
+  ];
+  83 -> 65 [
+    weight=69
+  ];
+  84 -> 12 [
+    weight=4
+  ];
+  84 -> 41 [
+    weight=4
+  ];
+  84 -> 45 [
+    weight=2
+  ];
+  84 -> 63 [
+    weight=9
+  ];
+  99 -> 5 [
+    weight=9
+  ];
+}

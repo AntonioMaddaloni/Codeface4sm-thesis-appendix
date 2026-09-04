@@ -1,0 +1,13 @@
+"range","range.date","devs","ml.only.devs","code.only.devs","ml.code.devs","perc.ml.only.devs","perc.code.only.devs","perc.ml.code.devs","sponsored.devs","ratio.sponsored","sponsored.core.devs","ratio.sponsored.core","num.tz","core.global.devs","core.mail.devs","core.code.devs","org.silo","prima.donnas","radio.silence","black.cloud","missing.links","st.congruence","communicability","global.turnover","code.turnover","core.global.turnover","core.mail.turnover","core.code.turnover","ratio.smelly.quitters","ratio.smelly.devs","global.truck","mail.truck","code.truck","closeness.centr","betweenness.centr","degree centr","global.mod","mail.mod","code.mod","density","mail.only.core.devs","code.only.core.devs","ml.code.core.devs","ratio.mail.only.core","ratio.code.only.core","ratio.ml.code.core"
+"0.2.0-0.2.1","2022-12 -- 2023-05",1,0,1,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0,0,0,1,0,1,NA,NA,NA,0,0,0,NA,0,0,0,NA,NA,NA
+"0.2.1-0.2.2","2023-05 -- 2023-08",1,0,1,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1,1,NA,NA,0,0,0,1,0,1,NA,NA,NA,0,0,0,NA,0,0,0,NA,NA,NA
+"0.2.2-0.2.3","2023-08 -- 2023-09",1,0,1,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1,1,NA,NA,0,0,0,1,0,1,NA,NA,NA,0,0,0,NA,0,0,0,NA,NA,NA
+"0.2.3-0.2.4","2023-09 -- 2023-09",1,0,1,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1,1,NA,NA,0,0,0,1,0,1,NA,NA,NA,0,0,0,NA,0,0,0,NA,NA,NA
+"0.2.4-0.2.5","2023-09 -- 2023-10",1,0,1,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0,0,0,1,0,1,NA,NA,NA,0,0,0,NA,0,0,0,NA,NA,NA
+"0.2.5-0.2.6","2023-10 -- 2023-10",1,0,1,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0,0,0,1,0,1,NA,NA,NA,0,0,0,NA,0,0,0,NA,NA,NA
+"0.2.6-0.2.7","2023-10 -- 2023-10",1,0,1,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0,0,0,1,0,1,NA,NA,NA,0,0,0,NA,0,0,0,NA,NA,NA
+"0.2.7-0.2.8","2023-10 -- 2023-12",1,0,1,0,0,1,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,1,1,NA,NA,0,0,0,1,0,1,NA,NA,NA,0,0,0,NA,0,0,0,NA,NA,NA
+"0.2.8-0.2.9","2023-12 -- 2024-05",1,0,1,0,0,1,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0,0,0,1,0,1,NA,NA,NA,0,0,0,NA,0,0,0,NA,NA,NA
+"0.2.9-0.2.10","2024-05 -- 2024-06",1,0,1,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0,0,0,1,0,1,NA,NA,NA,0,0,0,NA,0,0,0,NA,NA,NA
+"0.2.10-0.2.11","2024-06 -- 2024-12",2,0,2,0,0,1,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0.6667,0.6667,NA,NA,0,0,0,1,0,1,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA
+"0.2.11-0.2.12","2024-12 -- 2025-06",1,0,1,0,0,1,0,1,1,0,0,4,0,0,0,0,0,0,0,0,0,0,1.3333,1.3333,NA,NA,0,0,0,1,0,1,NA,NA,NA,0,0,0,NA,0,0,0,NA,NA,NA

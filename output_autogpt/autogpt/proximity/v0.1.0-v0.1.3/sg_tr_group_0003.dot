@@ -1,0 +1,38 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Spin Glass Community (tr) 3 Community Quality =  0.806228373702422"
+    fontsize=30
+  ];
+  0 [
+    name=1
+    label="Merwane Hamadi"
+    fontsize=25.9605400592232
+    fillcolor=grey50
+    style=filled
+    penwidth=3.45896991713048
+  ];
+  1 [
+    name=2
+    label="Andy Melnikov"
+    fontsize=15
+    fillcolor=grey86
+    style=filled
+    penwidth=2.05283256352366
+  ];
+  2 [
+    name=3
+    label=Mark
+    fontsize=15
+    fillcolor=grey69
+    style=filled
+    penwidth=1.4658858311442
+  ];
+
+  1 -> 0 [
+    weight=6
+  ];
+  2 -> 0 [
+    weight=22
+  ];
+}

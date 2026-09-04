@@ -1,0 +1,27 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Spin Glass Community 1 Community Quality =  0"
+    fontsize=30
+  ];
+  0 [
+    name=1
+    label=rUv
+    fontsize=50
+    fillcolor=grey53
+    style=filled
+    penwidth=4.47901137679956
+  ];
+  1 [
+    name=2
+    label=Reuven
+    fontsize=15
+    fillcolor=grey50
+    style=filled
+    penwidth=5
+  ];
+
+  0 -> 1 [
+    weight=17
+  ];
+}

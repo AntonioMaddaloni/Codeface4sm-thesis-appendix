@@ -1,0 +1,49 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Spin Glass Community (tr) 9 Community Quality =  0.3"
+    fontsize=30
+  ];
+  0 [
+    name=1
+    label="Maxime Carbonneau-Leclerc"
+    fontsize=40.7080617603275
+    fillcolor=grey67
+    style=filled
+    penwidth=2.32008587199556
+  ];
+  1 [
+    name=2
+    label=btkcodedev
+    fontsize=15.6443752459457
+    fillcolor=grey57
+    style=filled
+    penwidth=2.71088791045689
+  ];
+  2 [
+    name=3
+    label="Aldo Gonzalez"
+    fontsize=38.2517110475606
+    fillcolor=grey70
+    style=filled
+    penwidth=2.09756523362622
+  ];
+  3 [
+    name=4
+    label="Alexandre Girard"
+    fontsize=15
+    fillcolor=grey79
+    style=filled
+    penwidth=1.23775183702621
+  ];
+
+  0 -> 1 [
+    weight=3
+  ];
+  0 -> 2 [
+    weight=93
+  ];
+  3 -> 0 [
+    weight=9
+  ];
+}

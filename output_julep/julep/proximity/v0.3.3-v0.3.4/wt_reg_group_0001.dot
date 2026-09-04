@@ -1,0 +1,27 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Random Walk Community 1 Community Quality =  0.525773195876289"
+    fontsize=30
+  ];
+  0 [
+    name=1
+    label="alt-glitch"
+    fontsize=31.9827612393682
+    fillcolor=grey100
+    style=filled
+    penwidth=1
+  ];
+  1 [
+    name=2
+    label=whiterabbit1983
+    fontsize=46.5457728464539
+    fillcolor=grey72
+    style=filled
+    penwidth=3.48699407509591
+  ];
+
+  0 -> 1 [
+    weight=23
+  ];
+}

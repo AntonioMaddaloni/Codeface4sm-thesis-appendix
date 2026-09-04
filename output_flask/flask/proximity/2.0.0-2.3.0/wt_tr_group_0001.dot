@@ -1,0 +1,38 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Random Walk Community (tr) 1 Community Quality =  0.547169811320755"
+    fontsize=30
+  ];
+  0 [
+    name=1
+    label="Karuna Tata"
+    fontsize=17.9132279595526
+    fillcolor=grey93
+    style=filled
+    penwidth=1
+  ];
+  1 [
+    name=2
+    label=AntoineMath
+    fontsize=15.0137152686179
+    fillcolor=grey86
+    style=filled
+    penwidth=1
+  ];
+  2 [
+    name=3
+    label="Thomas Rhines"
+    fontsize=15.0137152686179
+    fillcolor=grey91
+    style=filled
+    penwidth=1.2894131673441
+  ];
+
+  1 -> 0 [
+    weight=8
+  ];
+  2 -> 0 [
+    weight=4
+  ];
+}

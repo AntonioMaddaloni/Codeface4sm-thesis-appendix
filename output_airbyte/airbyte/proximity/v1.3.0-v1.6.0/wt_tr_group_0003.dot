@@ -1,0 +1,49 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Random Walk Community (tr) 3 Community Quality =  0.332344213649852"
+    fontsize=30
+  ];
+  0 [
+    name=1
+    label="Daryna Ishchenko"
+    fontsize=15
+    fillcolor=grey67
+    style=filled
+    penwidth=1.91414953962996
+  ];
+  1 [
+    name=2
+    label=Baz
+    fontsize=16.395775368842
+    fillcolor=grey63
+    style=filled
+    penwidth=1.73456034873665
+  ];
+  2 [
+    name=3
+    label="jake horban"
+    fontsize=15.4697967154647
+    fillcolor=grey80
+    style=filled
+    penwidth=1.19802078792677
+  ];
+  3 [
+    name=4
+    label=Rhiyo
+    fontsize=15.9222699477412
+    fillcolor=grey92
+    style=filled
+    penwidth=1
+  ];
+
+  0 -> 1 [
+    weight=110
+  ];
+  0 -> 2 [
+    weight=103
+  ];
+  1 -> 3 [
+    weight=12
+  ];
+}

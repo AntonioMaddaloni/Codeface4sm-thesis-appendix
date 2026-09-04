@@ -1,0 +1,27 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Random Walk Community (tr) 1 Community Quality =  0.626666666666667"
+    fontsize=30
+  ];
+  0 [
+    name=1
+    label=jaime
+    fontsize=31.7066968805849
+    fillcolor=grey62
+    style=filled
+    penwidth=1.55585602206452
+  ];
+  1 [
+    name=2
+    label="yihao.dai"
+    fontsize=15
+    fillcolor=grey79
+    style=filled
+    penwidth=1.55585602206452
+  ];
+
+  1 -> 0 [
+    weight=56
+  ];
+}

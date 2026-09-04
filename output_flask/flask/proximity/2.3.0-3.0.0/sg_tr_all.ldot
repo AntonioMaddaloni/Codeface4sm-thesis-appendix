@@ -1,0 +1,136 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Spin Glass Community"
+  ];
+  0 [
+    name=1
+    label=1
+    fontsize=15
+    fillcolor="#120000"
+    style=filled
+    penwidth=5
+    pencolor=grey55
+  ];
+  1 [
+    name=2
+    label=2
+    fontsize=15
+    fillcolor="#240000"
+    style=filled
+    penwidth=3.36658932490988
+    pencolor=grey77
+  ];
+  2 [
+    name=3
+    label=3
+    fontsize=50
+    fillcolor="#120000"
+    style=filled
+    penwidth=3.67503583010543
+    pencolor=grey50
+  ];
+  3 [
+    name=4
+    label=4
+    fontsize=15
+    fillcolor="#360000"
+    style=filled
+    penwidth=3.13724312264813
+    pencolor=grey79
+  ];
+  4 [
+    name=5
+    label=5
+    fontsize=15
+    fillcolor="#480000"
+    style=filled
+    penwidth=1.71241437421604
+    pencolor=grey89
+  ];
+  5 [
+    name=6
+    label=6
+    fontsize=15
+    fillcolor="#5b0000"
+    style=filled
+    penwidth=1
+    pencolor=grey100
+  ];
+  6 [
+    name=7
+    label=7
+    fontsize=15
+    fillcolor="#6d0000"
+    style=filled
+    penwidth=1
+    pencolor=grey94
+  ];
+  7 [
+    name=8
+    label=8
+    fontsize=15
+    fillcolor="#7f0000"
+    style=filled
+    penwidth=1
+    pencolor=grey94
+  ];
+  8 [
+    name=9
+    label=9
+    fontsize=15
+    fillcolor="#910000"
+    style=filled
+    penwidth=1.41673569389111
+    pencolor=grey94
+  ];
+  9 [
+    name=10
+    label=10
+    fontsize=15
+    fillcolor="#a30000"
+    style=filled
+    penwidth=1
+    pencolor=grey97
+  ];
+  10 [
+    name=11
+    label=11
+    fontsize=15
+    fillcolor="#b60000"
+    style=filled
+    penwidth=1
+    pencolor=grey94
+  ];
+  11 [
+    name=12
+    label=12
+    fontsize=15
+    fillcolor="#c80000"
+    style=filled
+    penwidth=1
+    pencolor=grey87
+  ];
+  12 [
+    name=13
+    label=13
+    fontsize=15
+    fillcolor="#da0000"
+    style=filled
+    penwidth=1
+    pencolor=grey95
+  ];
+  13 [
+    name=14
+    label=14
+    fontsize=15
+    fillcolor="#ec0000"
+    style=filled
+    penwidth=1
+    pencolor=grey97
+  ];
+
+  0 -> 2 [
+    weight=7
+  ];
+}

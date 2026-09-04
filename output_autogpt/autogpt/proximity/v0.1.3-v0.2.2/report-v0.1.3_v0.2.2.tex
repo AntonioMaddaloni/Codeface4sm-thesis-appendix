@@ -1,0 +1,50 @@
+\documentclass{article}
+\usepackage[landscape,a4paper,pdftex,top=5mm,bottom=5mm,left=5mm,right=5mm]{geometry}
+\usepackage{graphicx}
+\usepackage{calc}
+\usepackage{lmodern}
+\begin{document}
+\setlength{\parindent}{0pt}
+\begin{center}
+\begin{Large}
+\textbf{Analysis Data for Development Cycle v0.1.3--v0.2.2}
+\end{Large}
+\end{center}
+\section{Developer rankings}
+\begin{small}\renewcommand{\tabcolsep}{1pt}
+\begin{minipage}{0.5\linewidth}
+PageRank\\
+\input{/home/antonio/progetti_analisi/output_autogpt/autogpt/proximity/v0.1.3-v0.2.2/top20.pr.tex}
+\end{minipage}%
+\begin{minipage}{0.5\linewidth}
+PageRank (transposed)\\
+\input{/home/antonio/progetti_analisi/output_autogpt/autogpt/proximity/v0.1.3-v0.2.2/top20.pr.tr.tex}
+\end{minipage}
+
+\renewcommand{\tabcolsep}{5pt}
+\begin{minipage}{0.5\linewidth}
+Number of commits\\
+\input{/home/antonio/progetti_analisi/output_autogpt/autogpt/proximity/v0.1.3-v0.2.2/top20.numcommits.tex}
+\end{minipage}%
+\begin{minipage}{0.5\linewidth}
+Changed lines\\
+\input{/home/antonio/progetti_analisi/output_autogpt/autogpt/proximity/v0.1.3-v0.2.2/top20.total.tex}
+\end{minipage}
+\end{small}
+\newpage\section{Community Clusters (spin glass)}
+\subsection{Cluster Contents (regular page rank)}
+\includegraphics[width=0.5\linewidth]{/home/antonio/progetti_analisi/output_autogpt/autogpt/proximity/v0.1.3-v0.2.2/sg_reg_group_0001.pdf}\includegraphics[width=0.5\linewidth]{/home/antonio/progetti_analisi/output_autogpt/autogpt/proximity/v0.1.3-v0.2.2/sg_reg_group_0003.pdf}\\
+\includegraphics[width=0.5\linewidth]{/home/antonio/progetti_analisi/output_autogpt/autogpt/proximity/v0.1.3-v0.2.2/sg_reg_group_0004.pdf}\includegraphics[width=0.5\linewidth]{/home/antonio/progetti_analisi/output_autogpt/autogpt/proximity/v0.1.3-v0.2.2/sg_reg_group_0028.pdf}\\
+\\
+\newpage\subsection{Cluster Contents (transposed page rank)}
+\includegraphics[width=0.5\linewidth]{/home/antonio/progetti_analisi/output_autogpt/autogpt/proximity/v0.1.3-v0.2.2/sg_tr_group_0001.pdf}\includegraphics[width=0.5\linewidth]{/home/antonio/progetti_analisi/output_autogpt/autogpt/proximity/v0.1.3-v0.2.2/sg_tr_group_0003.pdf}\\
+\includegraphics[width=0.5\linewidth]{/home/antonio/progetti_analisi/output_autogpt/autogpt/proximity/v0.1.3-v0.2.2/sg_tr_group_0004.pdf}\includegraphics[width=0.5\linewidth]{/home/antonio/progetti_analisi/output_autogpt/autogpt/proximity/v0.1.3-v0.2.2/sg_tr_group_0028.pdf}\\
+\\
+\newpage\section{Community Clusters (random walk)}
+\subsection{Cluster Contents (regular page rank)}
+\includegraphics[width=0.5\linewidth]{/home/antonio/progetti_analisi/output_autogpt/autogpt/proximity/v0.1.3-v0.2.2/wt_reg_group_0001.pdf}\includegraphics[width=0.5\linewidth]{/home/antonio/progetti_analisi/output_autogpt/autogpt/proximity/v0.1.3-v0.2.2/wt_reg_group_0002.pdf}\\
+\includegraphics[width=0.5\linewidth]{/home/antonio/progetti_analisi/output_autogpt/autogpt/proximity/v0.1.3-v0.2.2/wt_reg_group_0003.pdf}\\
+\newpage\subsection{Cluster Contents (transposed page rank)}
+\includegraphics[width=0.5\linewidth]{/home/antonio/progetti_analisi/output_autogpt/autogpt/proximity/v0.1.3-v0.2.2/wt_tr_group_0001.pdf}\includegraphics[width=0.5\linewidth]{/home/antonio/progetti_analisi/output_autogpt/autogpt/proximity/v0.1.3-v0.2.2/wt_tr_group_0002.pdf}\\
+\includegraphics[width=0.5\linewidth]{/home/antonio/progetti_analisi/output_autogpt/autogpt/proximity/v0.1.3-v0.2.2/wt_tr_group_0003.pdf}\\
+\end{document}

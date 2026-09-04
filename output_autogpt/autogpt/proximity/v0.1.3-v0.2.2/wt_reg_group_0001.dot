@@ -1,0 +1,27 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Random Walk Community 1 Community Quality =  0.727272727272727"
+    fontsize=30
+  ];
+  0 [
+    name=1
+    label="Summit Suen"
+    fontsize=15.0327137529814
+    fillcolor=grey81
+    style=filled
+    penwidth=1.42482520786218
+  ];
+  1 [
+    name=2
+    label=zvrr
+    fontsize=15.4350102670343
+    fillcolor=grey97
+    style=filled
+    penwidth=1
+  ];
+
+  1 -> 0 [
+    weight=3
+  ];
+}

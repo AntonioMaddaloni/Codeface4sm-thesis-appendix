@@ -1,0 +1,72 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Random Walk Community 3 Community Quality =  0.275275735294118"
+    fontsize=30
+  ];
+  0 [
+    name=1
+    label="Thomas Coquereau"
+    fontsize=15
+    fillcolor=grey85
+    style=filled
+    penwidth=1
+  ];
+  1 [
+    name=2
+    label="Daniel Lok"
+    fontsize=20.06242588283
+    fillcolor=grey55
+    style=filled
+    penwidth=3.39060742618269
+  ];
+  2 [
+    name=3
+    label="Yuki Watanabe"
+    fontsize=46.2556565531468
+    fillcolor=grey59
+    style=filled
+    penwidth=3.0232949482559
+  ];
+  3 [
+    name=4
+    label="Lu Wang"
+    fontsize=17.7323072416836
+    fillcolor=grey76
+    style=filled
+    penwidth=1
+  ];
+  4 [
+    name=5
+    label="Ying Chen"
+    fontsize=26.9100103928814
+    fillcolor=grey68
+    style=filled
+    penwidth=1.58486340280745
+  ];
+
+  1 -> 2 [
+    weight=40
+  ];
+  2 -> 0 [
+    weight=121
+  ];
+  2 -> 1 [
+    weight=29
+  ];
+  2 -> 4 [
+    weight=672
+  ];
+  3 -> 1 [
+    weight=268
+  ];
+  3 -> 4 [
+    weight=20
+  ];
+  4 -> 1 [
+    weight=262
+  ];
+  4 -> 2 [
+    weight=165
+  ];
+}

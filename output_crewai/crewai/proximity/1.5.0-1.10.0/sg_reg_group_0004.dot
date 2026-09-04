@@ -1,0 +1,27 @@
+/* Created by igraph 1.2.6 */
+digraph {
+  graph [
+    label="Spin Glass Community 4 Community Quality =  0"
+    fontsize=30
+  ];
+  0 [
+    name=1
+    label="Rip&Tear"
+    fontsize=16.0443931095998
+    fillcolor=grey86
+    style=filled
+    penwidth=1.60814036982815
+  ];
+  1 [
+    name=2
+    label=Sampson
+    fontsize=15
+    fillcolor=grey80
+    style=filled
+    penwidth=1
+  ];
+
+  0 -> 1 [
+    weight=7
+  ];
+}
