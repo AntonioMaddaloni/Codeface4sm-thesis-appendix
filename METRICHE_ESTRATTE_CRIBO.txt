@@ -1,0 +1,254 @@
+=====================================================================
+ DATASET METRICHE REALI E COMPONENTE BOT: CRIBO 
+ INCLUSIONE NODI ISOLATI (UMANI + AGENTI) PER COMMUNITY SMELLS
+=====================================================================
+
+RELEASE INTERVALLO: v0.1.0-v0.1.1 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 0 
+Nodi_Isolati (Senza Interazione): 0 
+Archi_Collaborazione_Effettivi: 0 
+Densita_Reale_Rete: 0 
+Centralizzazione_Reale: 0 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nessun contributore umano rilevato (la release potrebbe contenere solo bot).
+
+[BOT RILEVATI NELLA TOP 20]
+Nessun file top20.numcommits.txt presente (Release vuota o singolo sviluppatore).
+---------------------------------------------------------------------
+
+RELEASE INTERVALLO: v0.1.0-v0.2.0 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 0 
+Nodi_Isolati (Senza Interazione): 0 
+Archi_Collaborazione_Effettivi: 0 
+Densita_Reale_Rete: 0 
+Centralizzazione_Reale: 0 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nessun contributore umano rilevato (la release potrebbe contenere solo bot).
+
+[BOT RILEVATI NELLA TOP 20]
+Nessun file top20.numcommits.txt presente (Release vuota o singolo sviluppatore).
+---------------------------------------------------------------------
+
+RELEASE INTERVALLO: v0.1.1-v0.1.2 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 0 
+Nodi_Isolati (Senza Interazione): 0 
+Archi_Collaborazione_Effettivi: 0 
+Densita_Reale_Rete: 0 
+Centralizzazione_Reale: 0 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nessun contributore umano rilevato (la release potrebbe contenere solo bot).
+
+[BOT RILEVATI NELLA TOP 20]
+Nessun file top20.numcommits.txt presente (Release vuota o singolo sviluppatore).
+---------------------------------------------------------------------
+
+RELEASE INTERVALLO: v0.1.2-v0.2.0 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 0 
+Nodi_Isolati (Senza Interazione): 0 
+Archi_Collaborazione_Effettivi: 0 
+Densita_Reale_Rete: 0 
+Centralizzazione_Reale: 0 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nessun contributore umano rilevato (la release potrebbe contenere solo bot).
+
+[BOT RILEVATI NELLA TOP 20]
+Nessun file top20.numcommits.txt presente (Release vuota o singolo sviluppatore).
+---------------------------------------------------------------------
+
+RELEASE INTERVALLO: v0.2.0-v0.3.1 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 0 
+Nodi_Isolati (Senza Interazione): 0 
+Archi_Collaborazione_Effettivi: 0 
+Densita_Reale_Rete: 0 
+Centralizzazione_Reale: 0 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nessun contributore umano rilevato (la release potrebbe contenere solo bot).
+
+[BOT RILEVATI NELLA TOP 20]
+Nessun file top20.numcommits.txt presente (Release vuota o singolo sviluppatore).
+---------------------------------------------------------------------
+
+RELEASE INTERVALLO: v0.3.1-v0.3.2 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 0 
+Nodi_Isolati (Senza Interazione): 0 
+Archi_Collaborazione_Effettivi: 0 
+Densita_Reale_Rete: 0 
+Centralizzazione_Reale: 0 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nessun contributore umano rilevato (la release potrebbe contenere solo bot).
+
+[BOT RILEVATI NELLA TOP 20]
+Nessun file top20.numcommits.txt presente (Release vuota o singolo sviluppatore).
+---------------------------------------------------------------------
+
+RELEASE INTERVALLO: v0.3.1-v0.4.0 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 0 
+Nodi_Isolati (Senza Interazione): 0 
+Archi_Collaborazione_Effettivi: 0 
+Densita_Reale_Rete: 0 
+Centralizzazione_Reale: 0 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nessun contributore umano rilevato (la release potrebbe contenere solo bot).
+
+[BOT RILEVATI NELLA TOP 20]
+Nessun file top20.numcommits.txt presente (Release vuota o singolo sviluppatore).
+---------------------------------------------------------------------
+
+RELEASE INTERVALLO: v0.3.2-v0.3.3 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 0 
+Nodi_Isolati (Senza Interazione): 0 
+Archi_Collaborazione_Effettivi: 0 
+Densita_Reale_Rete: 0 
+Centralizzazione_Reale: 0 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nessun contributore umano rilevato (la release potrebbe contenere solo bot).
+
+[BOT RILEVATI NELLA TOP 20]
+Nessun file top20.numcommits.txt presente (Release vuota o singolo sviluppatore).
+---------------------------------------------------------------------
+
+RELEASE INTERVALLO: v0.3.3-v0.3.4 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 0 
+Nodi_Isolati (Senza Interazione): 0 
+Archi_Collaborazione_Effettivi: 0 
+Densita_Reale_Rete: 0 
+Centralizzazione_Reale: 0 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nessun contributore umano rilevato (la release potrebbe contenere solo bot).
+
+[BOT RILEVATI NELLA TOP 20]
+Nessun file top20.numcommits.txt presente (Release vuota o singolo sviluppatore).
+---------------------------------------------------------------------
+
+RELEASE INTERVALLO: v0.3.4-v0.3.5 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 0 
+Nodi_Isolati (Senza Interazione): 0 
+Archi_Collaborazione_Effettivi: 0 
+Densita_Reale_Rete: 0 
+Centralizzazione_Reale: 0 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nessun contributore umano rilevato (la release potrebbe contenere solo bot).
+
+[BOT RILEVATI NELLA TOP 20]
+Nessun file top20.numcommits.txt presente (Release vuota o singolo sviluppatore).
+---------------------------------------------------------------------
+
+RELEASE INTERVALLO: v0.3.5-v0.3.6 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 0 
+Nodi_Isolati (Senza Interazione): 0 
+Archi_Collaborazione_Effettivi: 0 
+Densita_Reale_Rete: 0 
+Centralizzazione_Reale: 0 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nessun contributore umano rilevato (la release potrebbe contenere solo bot).
+
+[BOT RILEVATI NELLA TOP 20]
+Nessun file top20.numcommits.txt presente (Release vuota o singolo sviluppatore).
+---------------------------------------------------------------------
+
+RELEASE INTERVALLO: v0.4.0-v0.5.0 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 0 
+Nodi_Isolati (Senza Interazione): 0 
+Archi_Collaborazione_Effettivi: 0 
+Densita_Reale_Rete: 0 
+Centralizzazione_Reale: 0 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nessun contributore umano rilevato (la release potrebbe contenere solo bot).
+
+[BOT RILEVATI NELLA TOP 20]
+Nessun file top20.numcommits.txt presente (Release vuota o singolo sviluppatore).
+---------------------------------------------------------------------
+
+RELEASE INTERVALLO: v0.5.0-v0.6.0 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 4 
+Nodi_Isolati (Senza Interazione): 2 
+Archi_Collaborazione_Effettivi: 1 
+Densita_Reale_Rete: 0.1667 
+Centralizzazione_Reale: 0.1667 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nome_Sviluppatore         ID_Codeface  Commit     Percentuale_%    Isolato_Rete   
+Konstantin Vyatkin        1            259        55.1063829787234 NO             
+[ARCHI COLLABORATIVI CON TOP HUMAN DETECTED]
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 4 e ID: 1
+
+[BOT RILEVATI NELLA TOP 20]
+Nome_Bot                  ID_Codeface Commit     Percentuale_%
+GitHub                    2          168        35.7446808510638
+renovatebot               3          39         8.29787234042553
+Copilot                   4          4          0.851063829787234
+
+[ARCHI COLLABORATIVI CON BOT DETECTED]
+ -> Trovato arco collaborativo tra BOT/ID: 4 e ID: 1
+---------------------------------------------------------------------
+
+RELEASE INTERVALLO: v0.6.0-v0.7.0 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 0 
+Nodi_Isolati (Senza Interazione): 0 
+Archi_Collaborazione_Effettivi: 0 
+Densita_Reale_Rete: 0 
+Centralizzazione_Reale: 0 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nessun contributore umano rilevato (la release potrebbe contenere solo bot).
+
+[BOT RILEVATI NELLA TOP 20]
+Nessun file top20.numcommits.txt presente (Release vuota o singolo sviluppatore).
+---------------------------------------------------------------------
+
+RELEASE INTERVALLO: v0.7.0-v0.8.0 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 0 
+Nodi_Isolati (Senza Interazione): 0 
+Archi_Collaborazione_Effettivi: 0 
+Densita_Reale_Rete: 0 
+Centralizzazione_Reale: 0 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nessun contributore umano rilevato (la release potrebbe contenere solo bot).
+
+[BOT RILEVATI NELLA TOP 20]
+Nessun file top20.numcommits.txt presente (Release vuota o singolo sviluppatore).
+---------------------------------------------------------------------
+
+RELEASE INTERVALLO: v0.8.0-v0.8.4 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 0 
+Nodi_Isolati (Senza Interazione): 0 
+Archi_Collaborazione_Effettivi: 0 
+Densita_Reale_Rete: 0 
+Centralizzazione_Reale: 0 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nessun contributore umano rilevato (la release potrebbe contenere solo bot).
+
+[BOT RILEVATI NELLA TOP 20]
+Nessun file top20.numcommits.txt presente (Release vuota o singolo sviluppatore).
+---------------------------------------------------------------------
+
