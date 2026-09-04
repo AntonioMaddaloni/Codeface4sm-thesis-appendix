@@ -1,0 +1,480 @@
+=====================================================================
+ DATASET METRICHE REALI E COMPONENTE BOT: WOLFTPM 
+ INCLUSIONE NODI ISOLATI (UMANI + AGENTI) PER COMMUNITY SMELLS
+=====================================================================
+
+RELEASE INTERVALLO: v1.1-v1.2 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 2 
+Nodi_Isolati (Senza Interazione): 0 
+Archi_Collaborazione_Effettivi: 1 
+Densita_Reale_Rete: 1 
+Centralizzazione_Reale: 0 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nome_Sviluppatore         ID_Codeface  Commit     Percentuale_%    Isolato_Rete   
+David Garske              1            34         94.4444444444444 NO             
+[ARCHI COLLABORATIVI CON TOP HUMAN DETECTED]
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 2 e ID: 1
+
+[BOT RILEVATI NELLA TOP 20]
+Nessun bot rilevato nella Top 20.
+---------------------------------------------------------------------
+
+RELEASE INTERVALLO: v1.2-v1.3 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 3 
+Nodi_Isolati (Senza Interazione): 1 
+Archi_Collaborazione_Effettivi: 1 
+Densita_Reale_Rete: 0.3333 
+Centralizzazione_Reale: 0.1667 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nome_Sviluppatore         ID_Codeface  Commit     Percentuale_%    Isolato_Rete   
+David Garske              1            34         85               NO             
+[ARCHI COLLABORATIVI CON TOP HUMAN DETECTED]
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 3
+
+[BOT RILEVATI NELLA TOP 20]
+Nessun bot rilevato nella Top 20.
+---------------------------------------------------------------------
+
+RELEASE INTERVALLO: v1.3-v1.4 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 3 
+Nodi_Isolati (Senza Interazione): 0 
+Archi_Collaborazione_Effettivi: 2 
+Densita_Reale_Rete: 0.6667 
+Centralizzazione_Reale: 0.3333 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nome_Sviluppatore         ID_Codeface  Commit     Percentuale_%    Isolato_Rete   
+David Garske              1            73         93.5897435897436 NO             
+[ARCHI COLLABORATIVI CON TOP HUMAN DETECTED]
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 2 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 3 e ID: 1
+
+[BOT RILEVATI NELLA TOP 20]
+Nessun bot rilevato nella Top 20.
+---------------------------------------------------------------------
+
+RELEASE INTERVALLO: v1.4-v1.5 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 0 
+Nodi_Isolati (Senza Interazione): 0 
+Archi_Collaborazione_Effettivi: 0 
+Densita_Reale_Rete: 0 
+Centralizzazione_Reale: 0 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nessun contributore umano rilevato (la release potrebbe contenere solo bot).
+
+[BOT RILEVATI NELLA TOP 20]
+Nessun file top20.numcommits.txt presente (Release vuota o singolo sviluppatore).
+---------------------------------------------------------------------
+
+RELEASE INTERVALLO: v1.5-v1.6.0 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 0 
+Nodi_Isolati (Senza Interazione): 0 
+Archi_Collaborazione_Effettivi: 0 
+Densita_Reale_Rete: 0 
+Centralizzazione_Reale: 0 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nessun contributore umano rilevato (la release potrebbe contenere solo bot).
+
+[BOT RILEVATI NELLA TOP 20]
+Nessun file top20.numcommits.txt presente (Release vuota o singolo sviluppatore).
+---------------------------------------------------------------------
+
+RELEASE INTERVALLO: v1.6.0-v1.7 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 0 
+Nodi_Isolati (Senza Interazione): 0 
+Archi_Collaborazione_Effettivi: 0 
+Densita_Reale_Rete: 0 
+Centralizzazione_Reale: 0 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nessun contributore umano rilevato (la release potrebbe contenere solo bot).
+
+[BOT RILEVATI NELLA TOP 20]
+Nessun file top20.numcommits.txt presente (Release vuota o singolo sviluppatore).
+---------------------------------------------------------------------
+
+RELEASE INTERVALLO: v1.7-v1.8 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 3 
+Nodi_Isolati (Senza Interazione): 0 
+Archi_Collaborazione_Effettivi: 3 
+Densita_Reale_Rete: 1 
+Centralizzazione_Reale: 0 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nome_Sviluppatore         ID_Codeface  Commit     Percentuale_%    Isolato_Rete   
+David Garske              1            35         76.0869565217391 NO             
+[ARCHI COLLABORATIVI CON TOP HUMAN DETECTED]
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 2
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 3 e ID: 1
+
+[BOT RILEVATI NELLA TOP 20]
+Nessun bot rilevato nella Top 20.
+---------------------------------------------------------------------
+
+RELEASE INTERVALLO: v1.8-v1.9.0 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 3 
+Nodi_Isolati (Senza Interazione): 0 
+Archi_Collaborazione_Effettivi: 3 
+Densita_Reale_Rete: 1 
+Centralizzazione_Reale: 0 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nome_Sviluppatore         ID_Codeface  Commit     Percentuale_%    Isolato_Rete   
+Dimitar Tomov             3            72         67.9245283018868 NO             
+[ARCHI COLLABORATIVI CON TOP HUMAN DETECTED]
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 3
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 2 e ID: 3
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 3 e ID: 1
+
+[BOT RILEVATI NELLA TOP 20]
+Nessun bot rilevato nella Top 20.
+---------------------------------------------------------------------
+
+RELEASE INTERVALLO: v1.9.0-v2.0.0 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 3 
+Nodi_Isolati (Senza Interazione): 0 
+Archi_Collaborazione_Effettivi: 3 
+Densita_Reale_Rete: 1 
+Centralizzazione_Reale: 0 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nome_Sviluppatore         ID_Codeface  Commit     Percentuale_%    Isolato_Rete   
+Elms                      3            78         40.2061855670103 NO             
+[ARCHI COLLABORATIVI CON TOP HUMAN DETECTED]
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 3
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 2 e ID: 3
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 3 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 3 e ID: 2
+
+[BOT RILEVATI NELLA TOP 20]
+Nessun bot rilevato nella Top 20.
+---------------------------------------------------------------------
+
+RELEASE INTERVALLO: v2.0.0-v2.1.0 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 3 
+Nodi_Isolati (Senza Interazione): 0 
+Archi_Collaborazione_Effettivi: 2 
+Densita_Reale_Rete: 0.6667 
+Centralizzazione_Reale: 0.3333 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nome_Sviluppatore         ID_Codeface  Commit     Percentuale_%    Isolato_Rete   
+Dimitar Tomov             2            38         52.7777777777778 NO             
+[ARCHI COLLABORATIVI CON TOP HUMAN DETECTED]
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 2
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 2 e ID: 1
+
+[BOT RILEVATI NELLA TOP 20]
+Nessun bot rilevato nella Top 20.
+---------------------------------------------------------------------
+
+RELEASE INTERVALLO: v2.1.0-v2.2.0 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 3 
+Nodi_Isolati (Senza Interazione): 0 
+Archi_Collaborazione_Effettivi: 3 
+Densita_Reale_Rete: 1 
+Centralizzazione_Reale: 0 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nome_Sviluppatore         ID_Codeface  Commit     Percentuale_%    Isolato_Rete   
+David Garske              1            76         56.7164179104478 NO             
+[ARCHI COLLABORATIVI CON TOP HUMAN DETECTED]
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 2
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 3
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 2 e ID: 1
+
+[BOT RILEVATI NELLA TOP 20]
+Nessun bot rilevato nella Top 20.
+---------------------------------------------------------------------
+
+RELEASE INTERVALLO: v2.2.0-v2.3.0 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 3 
+Nodi_Isolati (Senza Interazione): 1 
+Archi_Collaborazione_Effettivi: 1 
+Densita_Reale_Rete: 0.3333 
+Centralizzazione_Reale: 0.1667 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nome_Sviluppatore         ID_Codeface  Commit     Percentuale_%    Isolato_Rete   
+David Garske              1            18         64.2857142857143 NO             
+[ARCHI COLLABORATIVI CON TOP HUMAN DETECTED]
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 3
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 3 e ID: 1
+
+[BOT RILEVATI NELLA TOP 20]
+Nessun bot rilevato nella Top 20.
+---------------------------------------------------------------------
+
+RELEASE INTERVALLO: v2.3.0-v2.4.0 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 3 
+Nodi_Isolati (Senza Interazione): 0 
+Archi_Collaborazione_Effettivi: 2 
+Densita_Reale_Rete: 0.6667 
+Centralizzazione_Reale: 0.3333 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nome_Sviluppatore         ID_Codeface  Commit     Percentuale_%    Isolato_Rete   
+Elms                      2            42         75               NO             
+[ARCHI COLLABORATIVI CON TOP HUMAN DETECTED]
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 2 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 2 e ID: 3
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 3 e ID: 2
+
+[BOT RILEVATI NELLA TOP 20]
+Nessun bot rilevato nella Top 20.
+---------------------------------------------------------------------
+
+RELEASE INTERVALLO: v2.4.0-v2.5.0 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 4 
+Nodi_Isolati (Senza Interazione): 1 
+Archi_Collaborazione_Effettivi: 2 
+Densita_Reale_Rete: 0.3333 
+Centralizzazione_Reale: 0.3333 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nome_Sviluppatore         ID_Codeface  Commit     Percentuale_%    Isolato_Rete   
+David Garske              1            55         91.6666666666667 NO             
+[ARCHI COLLABORATIVI CON TOP HUMAN DETECTED]
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 4
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 2 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 4 e ID: 1
+
+[BOT RILEVATI NELLA TOP 20]
+Nessun bot rilevato nella Top 20.
+---------------------------------------------------------------------
+
+RELEASE INTERVALLO: v2.5.0-v2.6.0 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 2 
+Nodi_Isolati (Senza Interazione): 0 
+Archi_Collaborazione_Effettivi: 1 
+Densita_Reale_Rete: 1 
+Centralizzazione_Reale: 0 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nome_Sviluppatore         ID_Codeface  Commit     Percentuale_%    Isolato_Rete   
+David Garske              1            12         60               NO             
+[ARCHI COLLABORATIVI CON TOP HUMAN DETECTED]
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 2
+
+[BOT RILEVATI NELLA TOP 20]
+Nessun bot rilevato nella Top 20.
+---------------------------------------------------------------------
+
+RELEASE INTERVALLO: v2.6.0-v2.7.0 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 0 
+Nodi_Isolati (Senza Interazione): 0 
+Archi_Collaborazione_Effettivi: 0 
+Densita_Reale_Rete: 0 
+Centralizzazione_Reale: 0 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nessun contributore umano rilevato (la release potrebbe contenere solo bot).
+
+[BOT RILEVATI NELLA TOP 20]
+Nessun file top20.numcommits.txt presente (Release vuota o singolo sviluppatore).
+---------------------------------------------------------------------
+
+RELEASE INTERVALLO: v2.7.0-v3.0.0 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 7 
+Nodi_Isolati (Senza Interazione): 2 
+Archi_Collaborazione_Effettivi: 5 
+Densita_Reale_Rete: 0.2381 
+Centralizzazione_Reale: 0.4286 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nome_Sviluppatore         ID_Codeface  Commit     Percentuale_%    Isolato_Rete   
+David Garske              1            144        69.9029126213592 NO             
+[ARCHI COLLABORATIVI CON TOP HUMAN DETECTED]
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 3
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 4
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 5
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 3 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 4 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 6 e ID: 1
+
+[BOT RILEVATI NELLA TOP 20]
+Nome_Bot                  ID_Codeface Commit     Percentuale_%
+GitHub                    7          6          2.9126213592233
+---------------------------------------------------------------------
+
+RELEASE INTERVALLO: v3.0.0-v3.1.0 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 0 
+Nodi_Isolati (Senza Interazione): 0 
+Archi_Collaborazione_Effettivi: 0 
+Densita_Reale_Rete: 0 
+Centralizzazione_Reale: 0 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nessun contributore umano rilevato (la release potrebbe contenere solo bot).
+
+[BOT RILEVATI NELLA TOP 20]
+Nessun file top20.numcommits.txt presente (Release vuota o singolo sviluppatore).
+---------------------------------------------------------------------
+
+RELEASE INTERVALLO: v3.1.0-v3.2.0 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 3 
+Nodi_Isolati (Senza Interazione): 0 
+Archi_Collaborazione_Effettivi: 2 
+Densita_Reale_Rete: 0.6667 
+Centralizzazione_Reale: 0.3333 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nome_Sviluppatore         ID_Codeface  Commit     Percentuale_%    Isolato_Rete   
+David Garske              1            80         95.2380952380952 NO             
+[ARCHI COLLABORATIVI CON TOP HUMAN DETECTED]
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 3
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 2 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 3 e ID: 1
+
+[BOT RILEVATI NELLA TOP 20]
+Nessun bot rilevato nella Top 20.
+---------------------------------------------------------------------
+
+RELEASE INTERVALLO: v3.10.0-v4.0.0 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 7 
+Nodi_Isolati (Senza Interazione): 1 
+Archi_Collaborazione_Effettivi: 11 
+Densita_Reale_Rete: 0.5238 
+Centralizzazione_Reale: 0.3095 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nome_Sviluppatore         ID_Codeface  Commit     Percentuale_%    Isolato_Rete   
+aidan garske              5            288        71.2871287128713 NO             
+[ARCHI COLLABORATIVI CON TOP HUMAN DETECTED]
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 5
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 3 e ID: 5
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 4 e ID: 5
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 5 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 5 e ID: 3
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 5 e ID: 4
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 5 e ID: 6
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 5 e ID: 7
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 6 e ID: 5
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 7 e ID: 5
+
+[BOT RILEVATI NELLA TOP 20]
+Nessun bot rilevato nella Top 20.
+---------------------------------------------------------------------
+
+RELEASE INTERVALLO: v3.2.0-v3.4.0 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 3 
+Nodi_Isolati (Senza Interazione): 0 
+Archi_Collaborazione_Effettivi: 2 
+Densita_Reale_Rete: 0.6667 
+Centralizzazione_Reale: 0.3333 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nome_Sviluppatore         ID_Codeface  Commit     Percentuale_%    Isolato_Rete   
+David Garske              1            36         69.2307692307692 NO             
+[ARCHI COLLABORATIVI CON TOP HUMAN DETECTED]
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 2
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 3 e ID: 1
+
+[BOT RILEVATI NELLA TOP 20]
+Nessun bot rilevato nella Top 20.
+---------------------------------------------------------------------
+
+RELEASE INTERVALLO: v3.4.0-v3.6.0 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 3 
+Nodi_Isolati (Senza Interazione): 1 
+Archi_Collaborazione_Effettivi: 1 
+Densita_Reale_Rete: 0.3333 
+Centralizzazione_Reale: 0.1667 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nome_Sviluppatore         ID_Codeface  Commit     Percentuale_%    Isolato_Rete   
+David Garske              1            48         82.7586206896552 NO             
+[ARCHI COLLABORATIVI CON TOP HUMAN DETECTED]
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 2
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 2 e ID: 1
+
+[BOT RILEVATI NELLA TOP 20]
+Nessun bot rilevato nella Top 20.
+---------------------------------------------------------------------
+
+RELEASE INTERVALLO: v3.6.0-v3.8.0 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 4 
+Nodi_Isolati (Senza Interazione): 2 
+Archi_Collaborazione_Effettivi: 1 
+Densita_Reale_Rete: 0.1667 
+Centralizzazione_Reale: 0.1667 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nome_Sviluppatore         ID_Codeface  Commit     Percentuale_%    Isolato_Rete   
+David Garske              1            27         75               NO             
+[ARCHI COLLABORATIVI CON TOP HUMAN DETECTED]
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 4
+
+[BOT RILEVATI NELLA TOP 20]
+Nessun bot rilevato nella Top 20.
+---------------------------------------------------------------------
+
+RELEASE INTERVALLO: v3.8.0-v3.9.0 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 5 
+Nodi_Isolati (Senza Interazione): 0 
+Archi_Collaborazione_Effettivi: 7 
+Densita_Reale_Rete: 0.7 
+Centralizzazione_Reale: 0.3 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nome_Sviluppatore         ID_Codeface  Commit     Percentuale_%    Isolato_Rete   
+David Garske              1            32         51.6129032258064 NO             
+[ARCHI COLLABORATIVI CON TOP HUMAN DETECTED]
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 3
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 4
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 5
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 2 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 4 e ID: 1
+
+[BOT RILEVATI NELLA TOP 20]
+Nessun bot rilevato nella Top 20.
+---------------------------------------------------------------------
+
+RELEASE INTERVALLO: v3.9.0-v3.10.0 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 5 
+Nodi_Isolati (Senza Interazione): 1 
+Archi_Collaborazione_Effettivi: 3 
+Densita_Reale_Rete: 0.3 
+Centralizzazione_Reale: 0.45 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nome_Sviluppatore         ID_Codeface  Commit     Percentuale_%    Isolato_Rete   
+David Garske              1            132        84.6153846153846 NO             
+[ARCHI COLLABORATIVI CON TOP HUMAN DETECTED]
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 2 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 3 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 5 e ID: 1
+
+[BOT RILEVATI NELLA TOP 20]
+Nessun bot rilevato nella Top 20.
+---------------------------------------------------------------------
+
