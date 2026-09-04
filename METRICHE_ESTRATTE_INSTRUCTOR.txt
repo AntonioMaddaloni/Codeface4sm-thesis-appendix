@@ -1,0 +1,103 @@
+=====================================================================
+ DATASET METRICHE REALI E COMPONENTE BOT: INSTRUCTOR 
+ INCLUSIONE NODI ISOLATI (UMANI + AGENTI) PER COMMUNITY SMELLS
+=====================================================================
+
+RELEASE INTERVALLO: 1.10.0-v1.12.0 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 20 
+Nodi_Isolati (Senza Interazione): 7 
+Archi_Collaborazione_Effettivi: 14 
+Densita_Reale_Rete: 0.0737 
+Centralizzazione_Reale: 0.5579 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nome_Sviluppatore         ID_Codeface  Commit     Percentuale_%    Isolato_Rete   
+jxnl                      1            96         47.5247524752475 NO             
+[ARCHI COLLABORATIVI CON TOP HUMAN DETECTED]
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 3
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 10
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 12
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 13
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 14
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 3 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 4 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 5 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 9 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 10 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 11 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 12 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 14 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 16 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 17 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 18 e ID: 1
+
+[BOT RILEVATI NELLA TOP 20]
+Nome_Bot                  ID_Codeface Commit     Percentuale_%
+GitHub                    2          22         10.8910891089109
+devin-ai-integrationbot   12         11         5.44554455445545
+
+[ARCHI COLLABORATIVI CON BOT DETECTED]
+ -> Trovato arco collaborativo tra BOT/ID: 1 e ID: 12
+ -> Trovato arco collaborativo tra BOT/ID: 12 e ID: 1
+ -> Trovato arco collaborativo tra BOT/ID: 12 e ID: 14
+ -> Trovato arco collaborativo tra BOT/ID: 14 e ID: 12
+---------------------------------------------------------------------
+
+RELEASE INTERVALLO: v1.12.0-v1.14.0 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 13 
+Nodi_Isolati (Senza Interazione): 5 
+Archi_Collaborazione_Effettivi: 10 
+Densita_Reale_Rete: 0.1282 
+Centralizzazione_Reale: 0.3718 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nome_Sviluppatore         ID_Codeface  Commit     Percentuale_%    Isolato_Rete   
+jxnl                      1            29         42.6470588235294 NO             
+[ARCHI COLLABORATIVI CON TOP HUMAN DETECTED]
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 3
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 4
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 6
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 8
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 11
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 13
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 6 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 8 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 11 e ID: 1
+
+[BOT RILEVATI NELLA TOP 20]
+Nome_Bot                  ID_Codeface Commit     Percentuale_%
+GitHub                    2          26         38.2352941176471
+devin-ai-integrationbot   4          1          1.47058823529412
+dependabotbot             9          1          1.47058823529412
+
+[ARCHI COLLABORATIVI CON BOT DETECTED]
+ -> Trovato arco collaborativo tra BOT/ID: 1 e ID: 4
+---------------------------------------------------------------------
+
+RELEASE INTERVALLO: v1.14.0-v1.15.1 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 13 
+Nodi_Isolati (Senza Interazione): 7 
+Archi_Collaborazione_Effettivi: 5 
+Densita_Reale_Rete: 0.0641 
+Centralizzazione_Reale: 0.3526 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nome_Sviluppatore         ID_Codeface  Commit     Percentuale_%    Isolato_Rete   
+jxnl                      1            45         47.8723404255319 NO             
+[ARCHI COLLABORATIVI CON TOP HUMAN DETECTED]
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 3
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 6
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 10
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 11
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 5 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 10 e ID: 1
+
+[BOT RILEVATI NELLA TOP 20]
+Nome_Bot                  ID_Codeface Commit     Percentuale_%
+GitHub                    2          30         31.9148936170213
+dependabotbot             4          2          2.12765957446809
+---------------------------------------------------------------------
+
