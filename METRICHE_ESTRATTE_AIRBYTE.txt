@@ -1,0 +1,137 @@
+=====================================================================
+ DATASET METRICHE REALI E COMPONENTE BOT: AIRBYTE 
+ INCLUSIONE NODI ISOLATI (UMANI + AGENTI) PER COMMUNITY SMELLS
+=====================================================================
+
+RELEASE INTERVALLO: v0.64.0-v0.64.7 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 20 
+Nodi_Isolati (Senza Interazione): 14 
+Archi_Collaborazione_Effettivi: 5 
+Densita_Reale_Rete: 0.0263 
+Centralizzazione_Reale: 0.1316 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nome_Sviluppatore         ID_Codeface  Commit     Percentuale_%    Isolato_Rete   
+Airbyte                   1            348        32.1033210332103 SI             
+[ARCHI COLLABORATIVI CON TOP HUMAN DETECTED]
+ Nessun arco di collaborazione trovato per questo sviluppatore.
+
+[BOT RILEVATI NELLA TOP 20]
+Nome_Bot                  ID_Codeface Commit     Percentuale_%
+GitHub                    2          507        46.7712177121771
+---------------------------------------------------------------------
+
+RELEASE INTERVALLO: v0.64.7-v1.0.0 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 20 
+Nodi_Isolati (Senza Interazione): 18 
+Archi_Collaborazione_Effettivi: 1 
+Densita_Reale_Rete: 0.0053 
+Centralizzazione_Reale: 0.0474 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nome_Sviluppatore         ID_Codeface  Commit     Percentuale_%    Isolato_Rete   
+Airbyte                   1            110        31.4285714285714 SI             
+[ARCHI COLLABORATIVI CON TOP HUMAN DETECTED]
+ Nessun arco di collaborazione trovato per questo sviluppatore.
+
+[BOT RILEVATI NELLA TOP 20]
+Nome_Bot                  ID_Codeface Commit     Percentuale_%
+GitHub                    2          171        48.8571428571429
+---------------------------------------------------------------------
+
+RELEASE INTERVALLO: v1.0.0-v1.3.0 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 20 
+Nodi_Isolati (Senza Interazione): 13 
+Archi_Collaborazione_Effettivi: 7 
+Densita_Reale_Rete: 0.0368 
+Centralizzazione_Reale: 0.1211 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nome_Sviluppatore         ID_Codeface  Commit     Percentuale_%    Isolato_Rete   
+Airbyte                   1            986        26.0295670538543 SI             
+[ARCHI COLLABORATIVI CON TOP HUMAN DETECTED]
+ Nessun arco di collaborazione trovato per questo sviluppatore.
+
+[BOT RILEVATI NELLA TOP 20]
+Nome_Bot                  ID_Codeface Commit     Percentuale_%
+GitHub                    2          1834       48.416050686378
+---------------------------------------------------------------------
+
+RELEASE INTERVALLO: v1.3.0-v1.6.0 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 20 
+Nodi_Isolati (Senza Interazione): 10 
+Archi_Collaborazione_Effettivi: 22 
+Densita_Reale_Rete: 0.0733 
+Centralizzazione_Reale: 0.3017 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nome_Sviluppatore         ID_Codeface  Commit     Percentuale_%    Isolato_Rete   
+Airbyte                   1            6352       44.031609593789  SI             
+[ARCHI COLLABORATIVI CON TOP HUMAN DETECTED]
+ Nessun arco di collaborazione trovato per questo sviluppatore.
+
+[BOT RILEVATI NELLA TOP 20]
+Nome_Bot                  ID_Codeface Commit     Percentuale_%
+GitHub                    2          7211       49.986136143075
+devin-ai-integrationbot   72         38         0.263413281574934
+github-actionsbot         46         20         0.138638569249965
+
+[ARCHI COLLABORATIVI CON BOT DETECTED]
+ -> Trovato arco collaborativo tra BOT/ID: 11 e ID: 72
+ -> Trovato arco collaborativo tra BOT/ID: 18 e ID: 72
+ -> Trovato arco collaborativo tra BOT/ID: 25 e ID: 72
+ -> Trovato arco collaborativo tra BOT/ID: 33 e ID: 72
+ -> Trovato arco collaborativo tra BOT/ID: 41 e ID: 72
+ -> Trovato arco collaborativo tra BOT/ID: 72 e ID: 6
+ -> Trovato arco collaborativo tra BOT/ID: 72 e ID: 9
+ -> Trovato arco collaborativo tra BOT/ID: 72 e ID: 11
+ -> Trovato arco collaborativo tra BOT/ID: 72 e ID: 15
+ -> Trovato arco collaborativo tra BOT/ID: 72 e ID: 18
+ -> Trovato arco collaborativo tra BOT/ID: 72 e ID: 25
+ -> Trovato arco collaborativo tra BOT/ID: 72 e ID: 32
+ -> Trovato arco collaborativo tra BOT/ID: 72 e ID: 33
+ -> Trovato arco collaborativo tra BOT/ID: 72 e ID: 41
+---------------------------------------------------------------------
+
+RELEASE INTERVALLO: v1.6.0-v2.0.0 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 20 
+Nodi_Isolati (Senza Interazione): 5 
+Archi_Collaborazione_Effettivi: 41 
+Densita_Reale_Rete: 0.1168 
+Centralizzazione_Reale: 0.2293 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nome_Sviluppatore         ID_Codeface  Commit     Percentuale_%    Isolato_Rete   
+Airbyte                   1            6522       35.2654915107602 NO             
+[ARCHI COLLABORATIVI CON TOP HUMAN DETECTED]
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 25 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 68 e ID: 1
+
+[BOT RILEVATI NELLA TOP 20]
+Nome_Bot                  ID_Codeface Commit     Percentuale_%
+GitHub                    2          9240       49.9621498864497
+octavia-bot-hoardbot      71         1183       6.39666919000757
+devin-ai-integrationbot   56         71         0.383908294582027
+octavia-botbot            75         61         0.329836703795826
+
+[ARCHI COLLABORATIVI CON BOT DETECTED]
+ -> Trovato arco collaborativo tra BOT/ID: 6 e ID: 56
+ -> Trovato arco collaborativo tra BOT/ID: 10 e ID: 56
+ -> Trovato arco collaborativo tra BOT/ID: 19 e ID: 56
+ -> Trovato arco collaborativo tra BOT/ID: 27 e ID: 56
+ -> Trovato arco collaborativo tra BOT/ID: 35 e ID: 56
+ -> Trovato arco collaborativo tra BOT/ID: 44 e ID: 56
+ -> Trovato arco collaborativo tra BOT/ID: 56 e ID: 10
+ -> Trovato arco collaborativo tra BOT/ID: 56 e ID: 15
+ -> Trovato arco collaborativo tra BOT/ID: 56 e ID: 35
+ -> Trovato arco collaborativo tra BOT/ID: 56 e ID: 44
+ -> Trovato arco collaborativo tra BOT/ID: 56 e ID: 65
+ -> Trovato arco collaborativo tra BOT/ID: 65 e ID: 56
+ -> Trovato arco collaborativo tra BOT/ID: 72 e ID: 56
+---------------------------------------------------------------------
+
