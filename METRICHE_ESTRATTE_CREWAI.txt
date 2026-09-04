@@ -1,0 +1,118 @@
+=====================================================================
+ DATASET METRICHE REALI E COMPONENTE BOT: CREWAI 
+ INCLUSIONE NODI ISOLATI (UMANI + AGENTI) PER COMMUNITY SMELLS
+=====================================================================
+
+RELEASE INTERVALLO: 1.1.0-1.5.0 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 9 
+Nodi_Isolati (Senza Interazione): 6 
+Archi_Collaborazione_Effettivi: 2 
+Densita_Reale_Rete: 0.0556 
+Centralizzazione_Reale: 0.1944 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nome_Sviluppatore         ID_Codeface  Commit     Percentuale_%    Isolato_Rete   
+Greyson LaLonde           3            19         21.5909090909091 NO             
+[ARCHI COLLABORATIVI CON TOP HUMAN DETECTED]
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 3
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 3 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 3 e ID: 4
+
+[BOT RILEVATI NELLA TOP 20]
+Nome_Bot                  ID_Codeface Commit     Percentuale_%
+GitHub                    2          44         50        
+---------------------------------------------------------------------
+
+RELEASE INTERVALLO: 1.10.0-1.15.0 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 20 
+Nodi_Isolati (Senza Interazione): 5 
+Archi_Collaborazione_Effettivi: 41 
+Densita_Reale_Rete: 0.2158 
+Centralizzazione_Reale: 0.4684 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nome_Sviluppatore         ID_Codeface  Commit     Percentuale_%    Isolato_Rete   
+Greyson LaLonde           3            301        26.1739130434783 NO             
+[ARCHI COLLABORATIVI CON TOP HUMAN DETECTED]
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 3
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 3 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 3 e ID: 5
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 3 e ID: 6
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 3 e ID: 7
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 3 e ID: 9
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 3 e ID: 11
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 3 e ID: 12
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 3 e ID: 13
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 3 e ID: 14
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 3 e ID: 15
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 3 e ID: 16
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 3 e ID: 17
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 3 e ID: 18
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 3 e ID: 22
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 3 e ID: 24
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 3 e ID: 32
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 3 e ID: 35
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 3 e ID: 37
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 3 e ID: 38
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 6 e ID: 3
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 7 e ID: 3
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 9 e ID: 3
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 11 e ID: 3
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 12 e ID: 3
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 13 e ID: 3
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 15 e ID: 3
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 16 e ID: 3
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 17 e ID: 3
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 18 e ID: 3
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 28 e ID: 3
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 30 e ID: 3
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 35 e ID: 3
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 37 e ID: 3
+
+[BOT RILEVATI NELLA TOP 20]
+Nome_Bot                  ID_Codeface Commit     Percentuale_%
+GitHub                    2          574        49.9130434782609
+dependabotbot             8          3          0.260869565217391
+---------------------------------------------------------------------
+
+RELEASE INTERVALLO: 1.5.0-1.10.0 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 20 
+Nodi_Isolati (Senza Interazione): 5 
+Archi_Collaborazione_Effettivi: 29 
+Densita_Reale_Rete: 0.1526 
+Centralizzazione_Reale: 0.4789 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nome_Sviluppatore         ID_Codeface  Commit     Percentuale_%    Isolato_Rete   
+Greyson LaLonde           3            88         22.680412371134  NO             
+[ARCHI COLLABORATIVI CON TOP HUMAN DETECTED]
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 3
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 3 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 3 e ID: 4
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 3 e ID: 6
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 3 e ID: 8
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 3 e ID: 9
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 3 e ID: 12
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 3 e ID: 13
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 3 e ID: 14
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 3 e ID: 17
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 3 e ID: 21
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 4 e ID: 3
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 6 e ID: 3
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 10 e ID: 3
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 12 e ID: 3
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 13 e ID: 3
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 14 e ID: 3
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 15 e ID: 3
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 16 e ID: 3
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 17 e ID: 3
+
+[BOT RILEVATI NELLA TOP 20]
+Nome_Bot                  ID_Codeface Commit     Percentuale_%
+GitHub                    2          190        48.9690721649485
+dependabotbot             7          3          0.77319587628866
+---------------------------------------------------------------------
+
