@@ -1,0 +1,177 @@
+=====================================================================
+ DATASET METRICHE REALI E COMPONENTE BOT: JULEP 
+ INCLUSIONE NODI ISOLATI (UMANI + AGENTI) PER COMMUNITY SMELLS
+=====================================================================
+
+RELEASE INTERVALLO: v0.2.12-v0.3.0 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 15 
+Nodi_Isolati (Senza Interazione): 10 
+Archi_Collaborazione_Effettivi: 10 
+Densita_Reale_Rete: 0.0952 
+Centralizzazione_Reale: 0.1905 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nome_Sviluppatore         ID_Codeface  Commit     Percentuale_%    Isolato_Rete   
+Diwank Singh Tomer        4            76         15.8333333333333 NO             
+[ARCHI COLLABORATIVI CON TOP HUMAN DETECTED]
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 4
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 3 e ID: 4
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 4 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 4 e ID: 3
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 4 e ID: 6
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 4 e ID: 9
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 6 e ID: 4
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 9 e ID: 4
+
+[BOT RILEVATI NELLA TOP 20]
+Nome_Bot                  ID_Codeface Commit     Percentuale_%
+GitHub                    2          166        34.5833333333333
+sweep-aibot               3          90         18.75     
+github-actionsbot         8          45         9.375     
+dependabotbot             5          3          0.625     
+gitbook-combot            12         3          0.625     
+gitbook-bot               14         3          0.625     
+
+[ARCHI COLLABORATIVI CON BOT DETECTED]
+ -> Trovato arco collaborativo tra BOT/ID: 1 e ID: 3
+ -> Trovato arco collaborativo tra BOT/ID: 3 e ID: 1
+ -> Trovato arco collaborativo tra BOT/ID: 3 e ID: 4
+ -> Trovato arco collaborativo tra BOT/ID: 3 e ID: 6
+ -> Trovato arco collaborativo tra BOT/ID: 3 e ID: 9
+ -> Trovato arco collaborativo tra BOT/ID: 4 e ID: 3
+ -> Trovato arco collaborativo tra BOT/ID: 6 e ID: 3
+ -> Trovato arco collaborativo tra BOT/ID: 9 e ID: 3
+---------------------------------------------------------------------
+
+RELEASE INTERVALLO: v0.3.0-v0.3.2 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 0 
+Nodi_Isolati (Senza Interazione): 0 
+Archi_Collaborazione_Effettivi: 0 
+Densita_Reale_Rete: 0 
+Centralizzazione_Reale: 0 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nessun contributore umano rilevato (la release potrebbe contenere solo bot).
+
+[BOT RILEVATI NELLA TOP 20]
+Nessun file top20.numcommits.txt presente (Release vuota o singolo sviluppatore).
+---------------------------------------------------------------------
+
+RELEASE INTERVALLO: v0.3.2-v0.3.3 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 11 
+Nodi_Isolati (Senza Interazione): 8 
+Archi_Collaborazione_Effettivi: 2 
+Densita_Reale_Rete: 0.0364 
+Centralizzazione_Reale: 0.1636 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nome_Sviluppatore         ID_Codeface  Commit     Percentuale_%    Isolato_Rete   
+whiterabbit1983           10           20         19.6078431372549 NO             
+[ARCHI COLLABORATIVI CON TOP HUMAN DETECTED]
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 3 e ID: 10
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 10 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 10 e ID: 3
+
+[BOT RILEVATI NELLA TOP 20]
+Nome_Bot                  ID_Codeface Commit     Percentuale_%
+github-actionsbot         5          22         21.5686274509804
+GitHub                    2          13         12.7450980392157
+gitbook-combot            7          7          6.86274509803922
+gitbook-bot               9          7          6.86274509803922
+---------------------------------------------------------------------
+
+RELEASE INTERVALLO: v0.3.3-v0.3.4 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 7 
+Nodi_Isolati (Senza Interazione): 3 
+Archi_Collaborazione_Effettivi: 3 
+Densita_Reale_Rete: 0.1429 
+Centralizzazione_Reale: 0.1905 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nome_Sviluppatore         ID_Codeface  Commit     Percentuale_%    Isolato_Rete   
+Diwank Singh Tomer        3            7          20.5882352941176 NO             
+[ARCHI COLLABORATIVI CON TOP HUMAN DETECTED]
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 1 e ID: 3
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 3 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 3 e ID: 6
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 6 e ID: 3
+
+[BOT RILEVATI NELLA TOP 20]
+Nome_Bot                  ID_Codeface Commit     Percentuale_%
+GitHub                    2          14         41.1764705882353
+github-actionsbot         4          1          2.94117647058824
+---------------------------------------------------------------------
+
+RELEASE INTERVALLO: v0.3.4-v0.4.0 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 16 
+Nodi_Isolati (Senza Interazione): 9 
+Archi_Collaborazione_Effettivi: 15 
+Densita_Reale_Rete: 0.125 
+Centralizzazione_Reale: 0.275 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nome_Sviluppatore         ID_Codeface  Commit     Percentuale_%    Isolato_Rete   
+Diwank Tomer              14           206        32.0872274143302 NO             
+[ARCHI COLLABORATIVI CON TOP HUMAN DETECTED]
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 3 e ID: 14
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 5 e ID: 14
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 10 e ID: 14
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 14 e ID: 1
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 14 e ID: 3
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 14 e ID: 5
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 14 e ID: 12
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 15 e ID: 14
+
+[BOT RILEVATI NELLA TOP 20]
+Nome_Bot                  ID_Codeface Commit     Percentuale_%
+GitHub                    2          54         8.41121495327103
+github-actionsbot         7          16         2.49221183800623
+gitbook-combot            9          6          0.934579439252336
+gitbook-bot               11         6          0.934579439252336
+dependabotbot             4          2          0.311526479750779
+---------------------------------------------------------------------
+
+RELEASE INTERVALLO: v0.4.0-v0.4.1 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 0 
+Nodi_Isolati (Senza Interazione): 0 
+Archi_Collaborazione_Effettivi: 0 
+Densita_Reale_Rete: 0 
+Centralizzazione_Reale: 0 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nessun contributore umano rilevato (la release potrebbe contenere solo bot).
+
+[BOT RILEVATI NELLA TOP 20]
+Nessun file top20.numcommits.txt presente (Release vuota o singolo sviluppatore).
+---------------------------------------------------------------------
+
+RELEASE INTERVALLO: v0.4.1-v1.0.0 
+[METRICHE TOPOLOGICHE RETE]
+Nodi_Totali_Contribuenti: 19 
+Nodi_Isolati (Senza Interazione): 12 
+Archi_Collaborazione_Effettivi: 8 
+Densita_Reale_Rete: 0.0468 
+Centralizzazione_Reale: 0.1754 
+
+[TOP CONTRIBUTOR UMANO NELLA RELEASE]
+Nome_Sviluppatore         ID_Codeface  Commit     Percentuale_%    Isolato_Rete   
+Diwank Singh Tomer        2            98         42.6086956521739 NO             
+[ARCHI COLLABORATIVI CON TOP HUMAN DETECTED]
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 2 e ID: 9
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 2 e ID: 18
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 7 e ID: 2
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 9 e ID: 2
+ -> Trovato arco collaborativo tra TOP_UMANO/ID: 18 e ID: 2
+
+[BOT RILEVATI NELLA TOP 20]
+Nome_Bot                  ID_Codeface Commit     Percentuale_%
+GitHub                    1          64         27.8260869565217
+github-actionsbot         5          9          3.91304347826087
+---------------------------------------------------------------------
+
